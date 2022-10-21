@@ -1,0 +1,16 @@
+# Consejos generales para la resolución de problemas
+
+Si tiene problemas para realizar una acción que crees que deberías poder realizar&#x20;
+
+* Asegúrese de que Aragon tiene permiso para acceder a su proveedor de Ethereum. Si ve un botón que dice "Connect account" ("Conectar cuenta") en la esquina superior derecha del cliente de Aragon, haga clic en ese botón y permita que Aragon acceda a su cuenta de Ethereum. Intenta la acción de nuevo, y si sigue sin funcionar...&#x20;
+* Asegúrese de que su proveedor de Ethereum está desbloqueado, en la red correcta, y abierto en la cuenta correcta. Intenta la acción de nuevo, y si todavía no funciona...&#x20;
+* Asegúrese de que está estableciendo el [límite de gas](https://ethgasstation.info/blog/gas-limit/) (disponible actualmente solo en inglés) adecuado y pagando un [precio de gas](https://ethgasstation.info/) razonable. Su proveedor de Ethereum debería precargar el límite de gas y el precio de gas correctos, pero a veces precarga las cantidades demasiado bajas. Intente la acción de nuevo, y si sigue sin funcionar...&#x20;
+* Si está utilizando un monedero de hardware como Ledger, asegúrese de que tiene activados "Contract data" ("Datos de contrato") y "Blind signing" ("Firma ciega"). Intenta la acción de nuevo, y si sigue sin funcionar..&#x20;
+* Vuelva a cargar la página en su navegador. Pruebe la acción de nuevo, y si sigue sin funcionar...
+* Desactive el bloqueador de publicidad en su navegador (si está activado). Vuelve a probar la acción y, si sigue sin funcionar...&#x20;
+* Vaya a la página de Configuración y haz clic en el botón "Clear application cache" ("Borrar la caché de la aplicación"). Vuelve a intentar la acción y, si sigue sin funcionar...&#x20;
+* Comprueba el estado de la conexión en la parte superior derecha del Aragon Client (Cliente Aragon). Debería decir "Connected to the network" ("Conectado a la red"). Vuelva a intentar la acción, y si sigue sin funcionar...&#x20;
+* Asegúrese de que su computador está correctamente conectado a Internet. Pruebe la acción de nuevo, y si sigue sin funcionar...&#x20;
+* Asegúrese de que todo el software en su toolchain (cadena de herramientas) está actualizado: su navegador, su proveedor de Ethereum, el firmware de su cartera de hardware, etc. Intente la acción de nuevo, y si sigue sin funcionar...&#x20;
+* Intenta desactivar y volver a activar o desinstalar y volver a instalar cualquier extensión del navegador que pueda estar defectuosa, incluyendo la extensión del navegador de su proveedor de Ethereum/monedero. Intente la acción de nuevo, y si sigue sin funcionar...&#x20;
+* Busque los [problemas ](https://github.com/aragon/aragon/issues)(disponible actualmente solo en inglés) en el repositorio GitHub de Aragon para ver si su problema ya ha sido reportado. Si no encuentras una incidencia que coincida con su problema, cree una [nueva incidencia ](https://github.com/aragon/aragon/issues/new)(disponible actualmente solo en inglés[)](https://github.com/aragon/aragon/issues/new) o deje un mensaje en el [canal de chat de Aragon #questions](https://discordapp.com/channels/672466989217873929/694844628586856469) (disponible actualmente solo en inglés) describiendo el problema.
