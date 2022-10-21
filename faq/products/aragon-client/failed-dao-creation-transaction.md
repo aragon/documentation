@@ -1,0 +1,3 @@
+# Échec de la transaction de création de DAO
+
+Si votre navigateur se ferme après avoir signé la première transaction pour créer votre organisation mais avant que la deuxième transaction n'apparaisse dans votre fournisseur Ethereum (par exemple Metamask), ou si vous n'êtes pas en mesure de signer la deuxième transaction pour une raison quelconque, alors contactez-nous en décrivant ce qui s'est passé. Dès qu'il sera disponible, un membre de la guilde Aragon dTech ([support@aragon.org](https://secure.helpscout.net/mailbox/b3f2f8de3c191a09/2804751/)) vous aidera à créer, signer et diffuser la deuxième transaction.
