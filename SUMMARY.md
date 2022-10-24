@@ -44,7 +44,7 @@
     * [Use the Reputation template](products/aragon-client/how-to-create-a-dao-using-aragon-client/page-1.md)
   * [How to create a DAO on Polygon](products/aragon-client/deploying-a-dao-on-polygon.md)
   * [How to create a DAO on Harmony](products/aragon-client/aragon-client-with-harmony.md)
-  * [Navigate into your DAO](products/aragon-client/explore-template-dao/README.md)
+  * [How to navigate your DAO](products/aragon-client/explore-template-dao/README.md)
     * [Home](products/aragon-client/explore-template-dao/home.md)
     * [The Apps](products/aragon-client/explore-template-dao/what-are-apps/README.md)
       * [Tokens App](products/aragon-client/explore-template-dao/what-are-apps/token-app.md)
