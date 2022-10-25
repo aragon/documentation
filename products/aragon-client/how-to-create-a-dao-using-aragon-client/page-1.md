@@ -20,7 +20,7 @@ Click _**View details**_, review the apps available, check the boxes to install 
 
 ## Claim a name
 
-Select the name of your DAO and fill in the _**Organization Name**_\*\* \*\* tab. Aragon uses the [Ethereum Name Service](https://ens.domains) (ENS) to assign names to organizations.
+Select the name of your DAO and fill in the _**Organization Name**_ tab. Aragon uses the [Ethereum Name Service](https://ens.domains) (ENS) to assign names to organizations.
 
 {% hint style="warning" %}
 This name will be useful for accessing your DAO. Don't forget it!
