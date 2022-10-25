@@ -7,7 +7,7 @@ description: >-
 # How to create a DAO
 
 {% hint style="info" %}
-In this section, you will learn how to create a DAO using the Aragon Client. In the example below we will use the Rinkeby Network.
+In this section, you will learn how to create a DAO using the Aragon Client. In the example below we will use the Goerli Network.
 {% endhint %}
 
 ## How to create a DAO
@@ -17,14 +17,14 @@ In this section, you will learn how to create a DAO using the Aragon Client. In 
 * Check that the wallet account is connected (as shown in the image), if not press _**connect wallet**_.
 
 {% hint style="danger" %}
-Remember that you'll need 0.2ETH (or more depending on the network traffic) to create a DAO on the Ethereum network. So it's recommended that you use a test network (like Rinkeby) when setting up your first DAO. For more info about how to connect to a Test Network go [here](../../set-up-metamask/getting-started-with-rinkeby-testnet.md).
+Remember that you'll need 0.2ETH (or more depending on the network traffic) to create a DAO on the Ethereum network. So it's recommended that you use a test network (like Goerli) when setting up your first DAO. For more info about how to connect to a Test Network go [here](../../set-up-metamask/getting-started-with-rinkeby-testnet.md).
 {% endhint %}
 
-![Check the wallet connection.](<../../../.gitbook/assets/Schermata 2022-02-04 alle 18.42.46.png>)
+<figure><img src="../../../.gitbook/assets/Schermata 2022-10-25 alle 14.30.09 (1).png" alt=""><figcaption><p>Check the wallet connection.</p></figcaption></figure>
 
-* Select a template (click on \_**view details** \_ and then _use this template)._
+* Select a template (click on **view details** and then _use this template)._
 
-![Select the template](<../../../.gitbook/assets/Schermata 2022-02-04 alle 18.41.40.png>)
+<figure><img src="../../../.gitbook/assets/Schermata 2022-10-25 alle 14.33.20.png" alt=""><figcaption><p>Select the template</p></figcaption></figure>
 
 ### For more details about the different Templates go here.
 
