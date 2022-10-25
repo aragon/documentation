@@ -22,7 +22,7 @@
 * [Quickstart](products/quickstart.md)
 * [Setting up a Metamask Wallet](products/set-up-metamask/README.md)
   * [Getting started with Ethereum](products/set-up-metamask/getting-started-with-ethereum.md)
-  * [Getting started with Rinkeby Testnet](products/set-up-metamask/getting-started-with-rinkeby-testnet.md)
+  * [Getting started with Goerli Testnet](products/set-up-metamask/getting-started-with-rinkeby-testnet.md)
   * [Getting started with Polygon](products/set-up-metamask/getting-started-with-polygon.md)
   * [Getting started with Mumbai Testnet](products/set-up-metamask/getting-started-with-mumbai-testnet.md)
   * [Getting started with Harmony](products/set-up-metamask/getting-started-with-harmony.md)

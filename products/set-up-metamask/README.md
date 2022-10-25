@@ -9,7 +9,7 @@ In this section, you will learn **how to set up a Metamask wallet** and how to c
 {% hint style="success" %}
 **We recommend using** [**Metamask**](https://metamask.io) **as your Web3 wallet.**
 
-Metamask is a browser plugin that lets you make Ethereum (and other blockchains) transactions through regular websites. \*\*\*\*
+Metamask is a browser plugin that lets you make Ethereum (and other blockchains) transactions through regular websites.&#x20;
 {% endhint %}
 
 {% hint style="warning" %}
@@ -21,7 +21,7 @@ This guide focuses on a Chrome extension. However, the process is similar for al
 For creating and using an Aragon **Client DAO** you need to connect to one test or one main network. You can choose from different blockchains:
 
 * [Ethereum Mainnet](getting-started-with-ethereum.md)
-* [Rinkeby Testnet](getting-started-with-rinkeby-testnet.md)
+* [Goerli Testnet](getting-started-with-rinkeby-testnet.md)
 * [Polygon](getting-started-with-polygon.md)
 * Andromeda
 * [Mumbai Testnet](getting-started-with-mumbai-testnet.md)
@@ -35,7 +35,7 @@ You can also create and interact to a DAO directly using command-line (in this c
 For creating or using an Aragon **Govern DAO** you need to connect to one test or one main network. You can choose from these blockchains:
 
 * [Ethereum Mainnet](getting-started-with-ethereum.md)
-* [Rinkeby Testnet](getting-started-with-rinkeby-testnet.md)
+* [Goerli Testnet](getting-started-with-rinkeby-testnet.md)
 
 Let's start to configure and understand the main futures of the metamask wallet and then you can pass to choose your favorite network.
 
@@ -75,11 +75,11 @@ In the top right you should see a dropdown menu with _**Main Ethereum Network**_
 
 #### If you click on it, a selection of other networks will be shown.
 
-<figure><img src="../../.gitbook/assets/m-2.png" alt=""><figcaption><p>Drop down menu for selecting the network.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Schermata 2022-10-24 alle 10.47.20.png" alt=""><figcaption><p>Drop down menu for selecting the network.</p></figcaption></figure>
 
 ## Why should you select other networks?
 
-Before launching a project (or Dapp) on the main Ethereum network, it is good practice to deploy a version to an Ethereum test network or on other main networks (like Polygon or Harmony) to save on costs for transaction fees.
+Before launching a project (or Dapp) on the main Ethereum network, it is good practice to deploy a version to an Ethereum test network or on other main networks (like Polygon) to save on costs for transaction fees.
 
 ### The benefits of using a testnet
 
@@ -87,10 +87,8 @@ The main reason for using a testnet ETH is that it can be obtained without havin
 
 #### There are four testnets:
 
-* Ropsten
-* Kovan
-* Rinkeby
 * Goerli
+* Sepolia
 
 {% hint style="warning" %}
 **At this stage don't worry about the differences between these networks.** All you need to know is that they simulate Ethereum and can be used without having to pay real money.

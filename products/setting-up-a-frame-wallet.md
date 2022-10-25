@@ -26,7 +26,7 @@ Start by downloading Frame from the official website: [https://frame.sh](https:/
 
 To import your Metamask wallet into Frame:
 
-* Click on the _**+**_\*\* \*\* button in the Accounts bar in top of the wallet.
+* Click on the _**+**_ button in the Accounts bar in top of the wallet.
 * Click on the _**add new accounts**_ button in the frame which pop-ups on the right.
 * Click on the _**seed phrase**_ button.
 * Copy and paste the seed phrase from your Metamask wallet and click _**next** (see image below)._
@@ -48,29 +48,31 @@ On Trezor devices insert your pin directly on Frame. You should now be able to s
 
 ### **Network**
 
-To choose the desired network, select the _**three arrows**_ button on the upper right corner. This will take you to Frame menu, where you can configure its general settings.
+To choose the desired network, select the _**network symbol**_ button (as shown in the image below) in the upper right corner. This will take you to Frame Chains menu, where you can configure its general settings.
+
+<figure><img src="../.gitbook/assets/Schermata 2022-10-24 alle 11.21.11.png" alt=""><figcaption></figcaption></figure>
+
+Feel free to choose any of the following networks: **Goerli** or **Mainnet.**
 
 {% hint style="info" %}
-We will focus on the _**Connection**_ option.
+For this tutorial, we will select Goerli.
 {% endhint %}
 
-Feel free to choose any of the following networks: **Rinkeby, Mainnet, Ropsten, Kovan**.
+<figure><img src="../.gitbook/assets/Schermata 2022-10-24 alle 11.24.19.png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
-For this tutorial we will select Rinkeby.
-{% endhint %}
 
-<figure><img src="../.gitbook/assets/frame-app-menu.gif" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Schermata 2022-10-24 alle 11.27.32.png" alt=""><figcaption></figcaption></figure>
 
 ### **Accounts**
 
-The last step is to choose your account. Click on the _**Configuration**_ button. You will find it on the right of the Ledger or Trezor icon). Click on the _**Accounts**_ button that pops up below the icon. This will display a new menu with the available accounts on your device for the network. Select one with some test-Ether.
+The last step is to choose your account. Click on the _**Configuration**_ button. You will find it on the right of the Ledger or Trezor icon). Click on the _**Accounts**_ button that pops up below the icon. This will display a new menu with the available accounts on your device for the network. Select one with some GoerliEther.
 
 {% hint style="info" %}
-If you don't have any, you can request a Rinkeby faucet [here](https://faucet.rinkeby.io) or [here](https://faucets.chain.link/rinkeby).
+If you don't have any, you can request a Goerli faucet [here](https://goerli-faucet.mudit.blog/) or [here](https://fauceth.komputing.org/?chain=5).
 {% endhint %}
 
-In the configuration menu you can also manage the Dapp permissions you have granted for that particular account.&#x20;
+In the configuration menu, you can also manage the Dapp permissions you have granted for that particular account.&#x20;
 
 <figure><img src="../.gitbook/assets/frame-accounts.gif" alt=""><figcaption></figcaption></figure>
 

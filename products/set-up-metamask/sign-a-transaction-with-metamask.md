@@ -39,7 +39,7 @@ If you do not have a DAO one go [here](../aragon-client/how-to-create-a-dao-usin
 {% endhint %}
 
 * Connect your Metamask wallet.
-* Click _**Add a new token**_\*\* \*\* in the Token App (
+* Click _**Add a new token**_ in the Token App
 
 {% hint style="info" %}
 If you need help on how to add tokens to your DAO, please go [here](../aragon-client/explore-template-dao/what-are-apps/token-app.md).

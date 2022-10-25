@@ -1,39 +1,37 @@
-# Getting started with Rinkeby Testnet
+# Getting started with Goerli Testnet
 
 {% hint style="info" %}
-In this section, you will learn how to connect and use your web3 wallet on the Rinkeby Testnet.
+In this section, you will learn how to connect and use your web3 wallet on the Goerli Testnet.
 {% endhint %}
 
-## **Connect your Web3 wallet to the Rinkeby Testnet**
+## **Connect your Web3 wallet to the Goerli Testnet**
 
 {% hint style="info" %}
 We recommend using [Metamask wallet](./) as your Web3 wallet.
 {% endhint %}
 
 {% hint style="success" %}
-The Ethereum Network is already set up on your Metamask wallet.
+The Goerli Network is already set up on your Metamask wallet.
 {% endhint %}
 
-Log in to your wallet and select the Rinkeby Test Network on the dropdown Networks menu.
+Log in to your wallet and select the Goerli Test Network on the dropdown Networks menu.
 
-![Rinkeby testnet selection](<../../.gitbook/assets/Schermata 2022-02-03 alle 12.24.26.png>)
+<figure><img src="../../.gitbook/assets/Schermata 2022-10-24 alle 10.59.25.png" alt=""><figcaption><p>Goerli testnet selection</p></figcaption></figure>
 
-## **Deposit TEST-ETH to your Rinkeby wallet**
+## **Deposit GoerliETH to your Goerli wallet**
 
-Now you need to load your wallet with enough test-Ether (abbreviated as ETH) to pay for gas. Each transaction on the network requires a gas fee for e.g.:
+Now you need to load your wallet with enough test-Ether (abbreviated as GoerliETH) to pay for gas. Each transaction on the network requires a gas fee for e.g.:
 
 * transactions for the transfer of funds from your wallet
-* the deployment of your organization
-* the interactions within your organization
+* the deployment of your Organization
+* the interactions within your Organization
 
-> Important info: Please note that the symbol of the test-ether is "ETH", the same as for mainnet-ether.
+#### You can claim GoerliETH on the Goerli Faucet:
 
-#### You can claim TEST-ETH on the Rinkeby Faucet:
+* [https://goerli-faucet.mudit.blog/](https://goerli-faucet.mudit.blog/)
+* [https://fauceth.komputing.org/?chain=5](https://fauceth.komputing.org/?chain=5)
 
-* [https://faucet.rinkeby.io/](https://faucet.rinkeby.io)
-* [https://faucets.chain.link/rinkeby](https://faucets.chain.link/rinkeby)
-
-#### Or post your Rinkeby Testnet address in the [Aragon Chat #questions-community](https://discordapp.com/channels/672466989217873929/694844628586856469) to receive TEST-ETH for free.
+#### Or post your Goerli Testnet address in the [Aragon Chat #questions-community](https://discordapp.com/channels/672466989217873929/694844628586856469) to receive GoerliETH for free.
 
 {% hint style="warning" %}
 If you post your faucet request in an Aragon Chat channel, please, be patient. We will send them to you asap.
