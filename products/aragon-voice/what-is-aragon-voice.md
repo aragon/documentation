@@ -1,6 +1,6 @@
 # What is Aragon Voice?
 
-\*\*\*\*[**Aragon Voice**](https://voice.aragon.org) \*\*\*\* is a new and universally verifiable voting solution that doesn't require the payment of the gas fees (it is gasless). Using Aragon Voice it is possible to submit proposals with any [standard ERC20](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/) token and vote on the proposals using a decentralized end-to-end verifiable protocol.
+[**Aragon Voice**](https://voice.aragon.org) is a new and universally verifiable voting solution that doesn't require the payment of the gas fees (it is gasless). Using Aragon Voice it is possible to submit proposals with any [standard ERC20](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/) token and vote on the proposals using a decentralized end-to-end verifiable protocol.
 
 Aragon Voice is **free to use**, meaning that no one is priced out of participation. Full transparency removes any doubt about the integrity of the ballot, meaning that communities are more likely to view ballots as unbiased and run fairly.
 
