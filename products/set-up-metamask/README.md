@@ -85,7 +85,7 @@ Before launching a project (or Dapp) on the main Ethereum network, it is good pr
 
 The main reason for using a testnet ETH is that it can be obtained without having to pay real money. This gives developers and the community a chance to iron out any problems before real money is involved.
 
-#### There are four testnets:
+#### There are two testnets:
 
 * Goerli
 * Sepolia
