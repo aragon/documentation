@@ -1,9 +1,5 @@
 # Aragon Network Token
 
-{% hint style="danger" %}
-:construction\_site:This section is under construction. It will be completed soon. :construction:
-{% endhint %}
-
 {% hint style="info" %}
 Welcome to Aragon Network Token's documentation. In this section, you will find all the information about the **token ANT**.
 
