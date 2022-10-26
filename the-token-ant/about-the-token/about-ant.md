@@ -14,13 +14,13 @@ Aragon Network Token (ticker: [**ANT**](https://coinmarketcap.com/currencies/ara
 
 The first use of ANT is as a Sybil-resistant mechanism for governance. It is the main coordination mechanism of the Aragon community.
 
-Current community polls backed by ANT can be found on the [Aragon Voice Beta](https://voice.aragon.org/tokens/info/#/0xa117000000f279d81a1d3cc75430faa017fa5a2e). After the launch of the Aragon Network DAO ([AN DAO](https://andao.aragon.org/)), The token is used on Aragon Voice to vote on proposals for the project. Each token holder can vote on proposals and participate in the Aragon decisions. The voting power of each token holder is weighted to the number of tokens held.
+Current community polls backed by ANT can be found on the [Aragon Voice ](https://voice.aragon.org/tokens/info/#/0xa117000000f279d81a1d3cc75430faa017fa5a2e)App. Since the launch of the Aragon Network DAO ([AN DAO](https://andao.aragon.org/)), the token has been used on Aragon Voice to vote on proposals for the project. Each token holder can vote on proposals and participate in the Aragon decisions. Tokens represent voting power - a user with 500 tokens has 500 times more voting power than a user with 1 token.
 
-In the past, ANT was used in the [Aragon Governance Proposal (AGP) process](https://github.com/aragon/AGPs/blob/master/AGPs/AGP-1.md#aragon-network-votes), [first approved by ANT holders](https://blog.aragon.org/final-results-from-the-agp-1-vote/) on November 17, 2018. In this construction, one ANT was equal to one vote, allowing anyone to vote on AGPs--even while remaining pseudonymous, by acquiring and holding ANT at the time of a vote. In preparation for the Aragon Network's launch, ANT holders voted to [sunset the AGP process](https://blog.aragon.org/final-results-from-aragon-network-vote-6) on March 13, 2020.
+In the past, ANT was used in the [Aragon Governance Proposal (AGP) process](https://github.com/aragon/AGPs/blob/master/AGPs/AGP-1.md#aragon-network-votes), [first approved by ANT holders](https://blog.aragon.org/final-results-from-the-agp-1-vote/) on November 17, 2018. In this construct, one ANT was equal to one vote, allowing anyone to vote on AGPs--even while remaining pseudonymous, by acquiring and holding ANT at the time of a vote. In preparation for the Aragon Network's launch, ANT holders voted to [sunset the AGP process](https://blog.aragon.org/final-results-from-aragon-network-vote-6) on March 13, 2020.
 
 ### Further issuance
 
-ANT's total supply was fixed at 43,165,291**.**21 ANT. This total supply was constant only until the Aragon Network was deployed. From then on, the ANT's issuance policy and inflation rate going forward will be decided by the ANT holders participating in the Aragon Network governance.
+ANT's total supply was fixed at 43,165,291**.**21 ANT. This total supply was constant only until the Aragon Network was deployed. Since then the ANT's issuance policy and inflation rate going forward has been be decided by the ANT holders participating in the Aragon Network governance.
 
 ## ANT asset analysis
 
