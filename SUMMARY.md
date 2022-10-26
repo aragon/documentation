@@ -94,7 +94,7 @@
   * [Acting as guardian for a dispute](products/aragon-court/acting-as-guardian-for-an-aragon-govern-dispute.md)
   * [Glossary](products/aragon-court/glossary.md)
 
-## 🏗 THE TOKEN ANT
+## THE TOKEN ANT
 
 * [Aragon Network Token](the-token-ant/about-the-token/README.md)
   * [About ANT](the-token-ant/about-the-token/about-ant.md)
@@ -173,7 +173,7 @@
   * [How to migrate from "old" DAI to "new" DAI](faq/miscellaneous/how-to-migrate-from-old-dai-to-new-dai.md)
   * [Security notice for organizations created before Aragon 0.8](faq/miscellaneous/security-notice-for-organizations-created-before-aragon-0.8.md)
   * [General troubleshooting tips](faq/miscellaneous/general-troubleshooting-tips.md)
-* [🏗 ANT Token](faq/ant-token/README.md)
+* [ANT Token](faq/ant-token/README.md)
   * [What can I do with ANT?](faq/ant-token/what-can-i-do-with-ant.md)
   * [Who holds ANT?](faq/ant-token/who-holds-ant.md)
   * [Who are the biggest ANT holders?](faq/ant-token/who-are-the-biggest-ant-holders.md)

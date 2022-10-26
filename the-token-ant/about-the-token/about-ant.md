@@ -6,7 +6,7 @@ In this section, you can find a general overview of the Token ANT. A high-level 
 
 ## What is ANT?
 
-Aragon Network Token (ticker: [**ANT**](https://coinmarketcap.com/currencies/aragon/)) is the native token of the [Aragon Network.](https://andao.aragon.org/) ANT is primarily used for the **governance** of the Aragon Network. ANT holders have control of the Aragon Network DAO ([AN DAO](https://andao.aragon.org/)) through the vote of the proposals. Historically the token ANT was used for staking in Aragon Court. This use today is almost dismissed.
+Aragon Network Token (ticker: [**ANT**](https://coinmarketcap.com/currencies/aragon/)) is the native token of Aragon. ANT is primarily used for the **governance** of the Aragon Network. ANT holders can participate in Aragon Governance through the vote of the proposals. Historically the token ANT was used for staking in Aragon Court. This use today is almost dismissed.
 
 ## ANT uses
 
