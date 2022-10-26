@@ -52,9 +52,13 @@ Select 'Ethereum Mainnet' and click 'Get started on next screen':
 
 ![](https://lh4.googleusercontent.com/gCbLVyz0bIefsqaiE4tbcSEJYp9Sildw9ljUh3WyYgolMJ8KVL3YMpL1G6LzhMboFhDkFl4w1SHPjkAEzUWVzTmXbml8eQrSe\_UI9SyEtRDaJVnQyO6gOvCrmIZGnWz8RVx07ysj5e14\_4ZGzqSgVA)
 
-The select 'Just Me' and then 'Continue':
+
+
+Then select 'Just Me' and then 'Continue':
 
 ![](https://lh5.googleusercontent.com/TZG-OSJnh89laDPv25ZuyhlT5rY7k2JnyjkbjQJHBNPyRGR7PKzdRl09WD-OBQJVsion1klBbSkovtVSsxWf8FWapsCM0y-PqR6qQW-KYtBWTXYMCVgPi4kF7NB\_lTyahXf7XBSlN7P9zwKx1nDgjw)
+
+
 
 At the moment the only options to set up an LLC are in the USA. For this example select 'Delaware Series LLC', then click 'check' and then 'continue':
 
@@ -85,6 +89,8 @@ Check whether your wallet connected successfully. In this screen click 'Activate
 Once the transaction has been processed you should see the following screen. Click here on 'Go To Dashpanel':
 
 ![](https://lh4.googleusercontent.com/C98NFdD89dpROjRsSmIZRieZYRhhN91Ib1EsSyctibGqbCvXLSQ1YI04cUVCoEe2R2ShlDtIxfipH0X\_5wVzMjv-nr5RhtjYoc9yEo6Vla4PS77aTAnh4Ia9Ab6X8JVnSPF9t0G3tC0scD\_cVQknew)
+
+
 
 {% hint style="success" %}
 Great, the **legal wrapper prepared for your DAO has been setup**! :tada:
@@ -167,6 +173,8 @@ Now if we go back to the Aragon DAO, you can verify that all the token holders a
 Now last let's take a look at the official LLC documents like the Certificate of Formation. To do so click on 'Files' in the left menu bar. You should see the following:
 
 <figure><img src="https://lh3.googleusercontent.com/kKStyVNxnS4g7RRxr3Ik4ma3bq_VegKxkoROp4BEkgcSY5ogb3ZuqYqAAaJkCYlqE8_0FmsOtJ77aj8zGR1yi4Z2dUsPRUWx9MuigZtNQi3PksRw9U6PBrRZcYMQweGs9pCY99XT8acCQYU7Yi66JrIznjb3m4hdV0_1rro9e9rMRPqistwXcobn" alt=""><figcaption></figcaption></figure>
+
+
 
 You can download the LLC documents here.
 
