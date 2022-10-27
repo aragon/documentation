@@ -60,7 +60,6 @@
       * [आरागॉन कंसोल का उपयोग करके कोरम बदलें](undefined-1/aragon-client/things-to-do-after-youve-started-a-dao/how-to-change-the-quorum-of-your-dao/change-quorum-using-aragon-console.md)
       * [EVMcrispr का उपयोग करके कोरम बदलें](undefined-1/aragon-client/things-to-do-after-youve-started-a-dao/how-to-change-the-quorum-of-your-dao/change-quorum-using-evmcrispr.md)
     * [ओटोको(Otoco) के साथ कानूनी एकीकरण](undefined-1/aragon-client/things-to-do-after-youve-started-a-dao/legal-integration-with-otoco.md)
-    * [कानूनी एकीकरण के लिए एक नया टोकन जोड़ना](undefined-1/aragon-client/things-to-do-after-youve-started-a-dao/adding-a-new-token-for-legal-integration.md)
   * [अपने डीएओ को ब्रिक कैसे करें 🧱](undefined-1/aragon-client/how-to-brick-your-dao.md)
 
 ## ‼ अक्सर पूछे जाने वाले प्रश्न
