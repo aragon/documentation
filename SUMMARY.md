@@ -60,7 +60,6 @@
       * [Cambiar Quórum usando Aragon Console](productos/aragon-client/things-to-do-after-youve-started-a-dao/como-cambiar-el-quorum-de-su-dao/cambiar-quorum-usando-aragon-console.md)
       * [Cambiar Quórum usando EVMcrispr](productos/aragon-client/things-to-do-after-youve-started-a-dao/como-cambiar-el-quorum-de-su-dao/cambiar-quorum-usando-evmcrispr.md)
     * [Integración legal con Otoco](productos/aragon-client/things-to-do-after-youve-started-a-dao/integracion-legal-con-otoco.md)
-    * [Añadiendo un nuevo token para la integración legal](productos/aragon-client/things-to-do-after-youve-started-a-dao/anadiendo-un-nuevo-token-para-la-integracion-legal.md)
   * [Cómo ladrillar su DAO 🧱](productos/aragon-client/como-ladrillar-su-dao.md)
 
 ## ‼ FAQs (Preguntas Frecuentes)
