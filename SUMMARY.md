@@ -34,7 +34,7 @@
   * [Import your seed wallet to Metamask](products/set-up-metamask/import-your-seed-wallet-in-metamask.md)
   * [Gas Tracker](products/set-up-metamask/gas-tracker.md)
 * [Setting up a Frame Wallet](products/setting-up-a-frame-wallet.md)
-* [Setting up a Gnosis Safe MultiSig wallet](products/multisig.md)
+* [Setting up a Gnosis Safe MultiSig Wallet](products/multisig.md)
 * [Aragon Client](products/aragon-client/README.md)
   * [What is Aragon Client](products/aragon-client/about-aragon-client.md)
   * [How to create a DAO](products/aragon-client/how-to-create-a-dao-using-aragon-client/README.md)
