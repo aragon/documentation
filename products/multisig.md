@@ -1,121 +1,234 @@
-# Setting up a MultiSig wallet
+# Setting up a Gnosis Safe MultiSig wallet
 
 {% hint style="info" %}
-In this section, we will look into how Aragon Client DAOs can be managed by a MultiSig wallet.
+In this section, we will look into how Aragon Client DAOs can be managed by a **MultiSig wallet**.
 {% endhint %}
 
-Here we are going to use [**Gnosis Safe MultiSig**](https://help.gnosis-safe.io/en/articles/3876461-create-a-safe), however, you could follow a similar approach for any other MultiSig wallet that supports contract interaction.
+{% hint style="warning" %}
+Here we are going to use [**Gnosis Safe MultiSig**](https://gnosis-safe.io), however, you could follow a similar approach for any other MultiSig wallet that supports contract interaction.
+{% endhint %}
+
+###
+
+### Setup the necessary permissions
 
 {% hint style="info" %}
-Here we are going to use [Gnosis Safe MultiSig](https://gnosis-safe.io), however, you could follow a similar approach for any other MultiSig wallet that supports contract interaction.
+Aragon Client DAOs have access to a control system, where each action is protected by a set of permission records. Only someone with specific permissions can act.
+
+**That is why we need to assign the MultiSig wallet to a range of permissions in the DAO that correspond with the desired actions.**
+
+You can read more about permission settings [here](aragon-client/explore-template-dao/system-setting/permissions-setting.md).
 {% endhint %}
 
-## Prerequisites
 
-### Assign the desired permissions in the Client DAO to the MultiSig
 
-{% hint style="info" %}
-Aragon Client DAOs have access to a control system, where each action is protected by a set of permission records. Only someone with specific permissions can act. That is why we need to assign the MultiSig wallet to a range of permissions that correspond with the desired actions. You can read more about it [here](aragon-client/explore-template-dao/system-setting/permissions-setting.md).
-{% endhint %}
+In this example the DAO has a balance of ETH tokens **** stored in its Vault. We will show how to **initiate a withdrawal of some of the ETH** to compensate a DAO contributor for her work.
 
-1\. Follow the steps below to assign permission to a MultiSig.
 
-2\. Open your DAO portal and select the _**permissions**_ tab on the left. Here you can examine the permissions you have within your DAO.
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/6112718fb55c2b04bf6dce7e/file-DCOHNWElgt.png)
+Start by opening your Aragon Client DAO, you should see a similar dashboard as in the image below. Click in the left hand menu on 'Permissions':
 
-3\. To add a new one permission press the _**New Permission**_ button.
+<figure><img src="../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/611272116ffe270af2a97627/file-D7HYuaQgTh.png)
 
-4\. Select the App you want to create permission for on App drop-down menu.
 
-5\. Select which entity will be assigned the new permission on the \_**Assign To Entity** \_ field. To add the MultiSig address select _**Custom Address**_ and enter the address in the field below.
+We want to add new permissions for your MultiSig, so click in this screen on 'New permission':
 
-6\. Select an action we want to grant permission to. In our case, we are assigning permission for a MultiSig to create new votes within our DAO.
+<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
-7\. Press _**Add Permission**_. This might create a vote depending on your DAO structure and who is this action's permission manager.
 
-8\. Revoke the undesirable permissions. To do so expand any permission and press onto the dustbin icon.
+
+You should see the following side-window appear. Click on 'Select an app':
+
+![](<../.gitbook/assets/image (32).png>)
+
+
+
+For this example we want to initiate a withdrawal of ETH by the MultiSig. This is usually done from the Finance app of the DAO, so select 'Finance' here and then click on 'Select an entity':
+
+![](<../.gitbook/assets/image (41).png>)
+
+
+
+Since we need to add the address of your MultiSig, click here on 'Custom address...':
+
+![](<../.gitbook/assets/image (47).png>)
+
+
+
+
+
+Now go to your Gnosis Safe, copy its address and paste the address of your MultiSig in the 'GRANT PERMISSION TO' box. Then click on 'Select an action':
+
+![](<../.gitbook/assets/image (52).png>)
+
+
 
 {% hint style="danger" %}
-Please be cautious, as incorrect permissions could make your DAO vulnerable or inaccessible.
+Do not forget to remove the letters from the front of the Gnosis Safe address (**`eth:`**or**`gor:`**or different depending on the network you use)! Otherwise it won't work..
+
+The address should start with: **`0x`**
 {% endhint %}
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/611275a7b37d837a3d0e2535/file-AecSpNvGSO.png)
 
-Result:
 
-![Multisig Permissions](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/610d0ef364a230081ba1ce2f/file-aDCnpa7wjo.png)
+In this case we want to initiate a new payment, so click on 'Create new payments'
+
+![](<../.gitbook/assets/image (43).png>)
+
+
+
+Now you filled the required boxes, click on 'Add permission':
+
+![](<../.gitbook/assets/image (31).png>)
+
+
+
+Here the app warns that the permission can not be directly changed, but that a vote will be created ti change the permission. Click on 'Create transaction':
+
+![](<../.gitbook/assets/image (21).png>)
+
+
+
+A transaction should pop-up in your Web3 Wallet, 'Confirm' the transaction:
+
+![](<../.gitbook/assets/image (38).png>)
+
+
+
+Once the transaction has processed, head over to the 'Voting' app of your DAO. You should see that an open vote has been generated. Click on the vote:
+
+<figure><img src="../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
+
+
+
+Now confirm the vote by clicking 'Yes':
+
+<figure><img src="../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
+
+
+
+Click here on 'Create transaction' and confirm the transaction that should pop-up in your Web3 Wallet:
+
+<figure><img src="../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
+
+In our example it confirmed that the vote has passed:
+
+<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="danger" %}
+More DAO members might need to approve the vote for the vote to pass. This depends on the **SUPPORT** and **MINIMUM APPROVAL** settings of your DAO
+{% endhint %}
+
+
+
+Now head over to the 'Permissions' app to check whether the permission for your MultiSig has been added. In our case click on the **Finance** app, and then unfold the 'Create new payments' permission. We now see that the MultiSig address has appeared!
+
+<figure><img src="../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+
+
+
+### Initiate payment at the MultiSig
+
+Now that's done we can initiate a payment at the MultiSig!
+
+
+
+Head back to the (in this case) Gnosis Safe and press on 'New Transaction'. In the pop-up window which appears, press 'Contract Interaction':
+
+<figure><img src="../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
+
+
+
+We now need the 'Contract address' of the app we want to interact with, which is the Finance app in this case:
+
+<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+
+
+
+So head back to your Aragon Client DAO, open the **Organization** app, click on the address under (in this case) FINANCE, and copy the address:
+
+<figure><img src="../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+
+
+
+Paste the address in the 'Contract address' field back in the Gnosis Safe:
+
+![](<../.gitbook/assets/image (34).png>)
+
+
+
+{% hint style="danger" %}
+If the 'ABI' field automatically populates, **REMOVE** all the contents in the field, since we will need a different ABI
+{% endhint %}
+
+
+
+Now we need to get the ABI of the base contract of the app we interact with, which is the **Finance** app in this case. Click on 'Finance App' in the box below:
 
 {% hint style="info" %}
-Here we have assigned MutliSig permissions to manage payments and change voting support parameters within the DAO. However because we have kept voting as the Permission Manager, community members will be able to vote to remove these permissions effectively revoking this MultiSigs control over the DAO\_.\_
+You can find Etherscan links to the smart contracts of the most used apps below:
+
+* [Tokens App](https://etherscan.io/address/0xde3A93028F2283cc28756B3674BD657eaFB992f4#code)
+* [Finance App](https://etherscan.io/address/0x836835289A2E81B66AE5d95b7c8dBC0480dCf9da#code)
+* [Voting App](https://etherscan.io/address/0xb935C3D80229d5D92f3761b17Cd81dC2610e3a45#code)
 {% endhint %}
 
-### Executing actions
 
-1\. Go to the [Gnosis Safe](https://gnosis-safe.io) website and connect to their DApp.
 
-2\. Open your vault.
+On the Etherscan page, scroll down until you see the 'Contract ABI' box. Click on the Copy symbol, to copy the ABI of the smart contract:
 
-3\. Press the _New **Transaction**_ button and select _**Contract Interaction**_.
+<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/610d0efb766e8844fc34e2c5/file-ery56Brop6.png)
+Paste the ABI in the 'ABI' field in the Gnosis Safe, and click on 'Method':
 
-4\. Give the address of the Aragon App you would like to interact with.
+<figure><img src="../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
-You can find it on the _**Organizations**_ page of your DAO portal. Look at the \_**Installed Aragon Apps** \_ section there.
+Search here for 'newImmediatePayment' and select it:
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/610d1014766e8844fc34e2cd/file-8cuqErvYC1.png)
+<figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
-5\. This will automatically populate the ABI field. Delete the content that appeared there.
 
-6\. Find the base contract of the selected Aragon App that you would like to interact with.
 
-* Open the address that you have used in step 4 on [etherscan](https://etherscan.io)
-* Go to _**Contract**_
-* Select _**Read contract**_
-* Expand _**Implementation**_
-* Open the address that appeared under _**Implementation**_ on [etherscan](https://etherscan.io)
+Now find the 'token address' of the token you want to send. In this case we are sending ETH. The token address of ETH is: `0x0000000000000000000000000000000000000000`
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/610d115d766e8844fc34e2ce/file-g3POvBnP7e.png)
+Add the 'receiver address', and then add the 'amount'. In this case we will send the DAO Contributor an amount of 0.1 ETH.
 
-7\. Copy the ABI of the opened address to the field in step 5.
-
-* Go to _**Contract**_
-* Select _**Code**_
-* Locate _**Contract ABI**_
-* Copy the ABI to the Gnosis Safe ABI input field
-
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/610d12f1766e8844fc34e2d7/file-nCgkCpoDAD.png)
-
-8\. Select the method you want to use and populate the parameters.
-
-Here we will create a new immediate payment from the Finance app. It will transfer **0.1 ETH** (represented by a 0x0..0 token address) to the _0x424..._ address.
-
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/611277e1766e8844fc34f0ab/file-xlkaRMNQ6n.png)
-
-9\. Press _**Review**_ and _**Submit**_. After enough people sign the transaction you will be able to view it on Etherscan and once it has been confirmed it should take effect on the DAO.
-
-## Possible Issues
-
-{% hint style="warning" %}
-Make sure you have the permissions to invoke this method from the Gnosis Safe address.
+{% hint style="danger" %}
+For the 'amount' field, add 18 decimals to the original value. For example, if you want to invoke the**`newImmediatePayment`**method to transfer 10.5 tokens, you will have to input 10.5 \* 10 ^ 18 = **`10500000000000000000`** into the amount field.
 {% endhint %}
 
-{% hint style="warning" %}
-If gas estimation has failed and you get warnings there has likely been a mistake either in permissions, method parameters or ABI and contract address. Please go through the setup again.
+In our example the amount is 0.1 \* 10 ^ 18 = `100000000000000000`
+
+Then you can add a 'reference string' as a payment reference, and click on 'Review':
+
+<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+
+
+
+Scroll down and test the transaction by clicking on 'Simulate'. If the all well it should display 'Success'. If so, click on 'Submit':
+
+<figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="danger" %}
+If the **simulation has failed** and you get warnings (like a gas estimation error) there has likely been a mistake either in permissions, method parameters, or ABI and contract address. Please go through the setup again
 {% endhint %}
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/611278276ffe270af2a97644/file-rxfkptmQt8.png)
 
-{% hint style="warning" %}
-If you are populating fractional numbers, add 18 zeros to the original value. For example, if you want to invoke **immediateTransfer** method that will transfer 10.5 tokens, you will have to input 10.5\*10^18 = 10500000000000000000 into the amount field.
-{% endhint %}
 
-{% hint style="warning" %}
-If the ABI is not displaying on one network (Rinkeby e.g.), get the similar ABI from another DAO on a different network (Ethereum Mainnet e.g.).
-{% endhint %}
+A transaction should pop-up in your Web3 Wallet. 'Confirm' the transaction and wait for it to be processed. If all good, it executed:
+
+<figure><img src="../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
+
+
+
+Head back for:fingers\_crossed: the last time to your Aragon Client DAO, and open the **Finance** app. In our example we see that the 'Contributor compensation' of 0.1 ETH is displaying in the 'Transfers' overview:
+
+<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+
+We did it! :partying\_face: Well done! :medal:
+
+
 
 > <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
 
