@@ -30,7 +30,7 @@ Si Metamask está bien conectado, aparece el icono del zorro.
 El token TEST ONE se utiliza en la Testnet de Harmony. Se utiliza para&#x20;
 
 * pagar las tasas de transacción (abreviado como ONE)&#x20;
-* desplegar un DAO de la misma manera que se utiliza test-ETH en Rinkeby
+* desplegar un DAO de la misma manera que se utiliza test-ETH en Goerli
 
 {% hint style="warning" %}
 Tenga en cuenta que el símbolo del test-ONE es "ONE", el mismo que el de mainnet-ONE.
