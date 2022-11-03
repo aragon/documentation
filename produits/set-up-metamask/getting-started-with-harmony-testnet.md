@@ -30,7 +30,7 @@ Si Metamask est bien connecté, l'icône du renard apparaît.
 Le jeton TEST ONE est utilisé sur le Testnet Harmony. Il est utilisé pour :&#x20;
 
 * payer les frais de transaction (abrégé en ONE)&#x20;
-* déployer une DAO de la même manière que test-ETH est utilisé sur Rinkeby.
+* déployer une DAO de la même manière que test-ETH est utilisé sur Goerli.
 
 {% hint style="warning" %}
 Veuillez noter que le symbole du test-ONE est "ONE", le même que pour mainnet-ONE.
