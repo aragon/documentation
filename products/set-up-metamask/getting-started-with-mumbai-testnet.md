@@ -28,7 +28,7 @@ Se o Metamask estiver bem conectado, o ícone de raposa aparecerá.
 
 ### O que é test-MATIC? <a href="#what-is-test-matic" id="what-is-test-matic"></a>
 
-O token TEST MATIC é o token ERC20 usado em Mumbai para pagar as taxas de transação (abreviado como MATIC) e, consequentemente, para implantar um DAO, da mesma forma que o test-ETH é usado no Rinkeby.
+O token TEST MATIC é o token ERC20 usado em Mumbai para pagar as taxas de transação (abreviado como MATIC) e, consequentemente, para implantar um DAO, da mesma forma que o test-ETH é usado no Goerli.
 
 > Informação importante: observe que o símbolo do test-MATIC é "MATIC", o mesmo do mainnet-matic.
 
