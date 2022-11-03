@@ -26,7 +26,7 @@ Si Metamask est bien connecté, l'icône du renard apparaît.
 
 ### Qu'est-ce que le test-MATIC ?
 
-Le jeton TEST MATIC est le jeton ERC20 utilisé sur Mumbai pour payer les frais de transaction (en abrégé MATIC) et, par conséquent, pour déployer une DAO, de la même manière que test-ETH est utilisé sur Rinkeby.
+Le jeton TEST MATIC est le jeton ERC20 utilisé sur Mumbai pour payer les frais de transaction (en abrégé MATIC) et, par conséquent, pour déployer une DAO, de la même manière que test-ETH est utilisé sur Goerli.
 
 > Info importante : veuillez noter que le symbole du test-MATIC est "MATIC", le même que pour mainnet-matic.
 
