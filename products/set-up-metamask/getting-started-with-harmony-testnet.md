@@ -30,7 +30,7 @@ Se o Metamask estiver bem conectado, o ícone de raposa aparecerá.
 O token TEST ONE é usado no Harmony Testnet. É usado para:
 
 * pagar as taxas de transação (abreviado como UM)
-* para implantar um DAO da mesma maneira que test-ETH é usado no Rinkeby
+* para implantar um DAO da mesma maneira que test-ETH é usado no Goerli
 
 {% hint style="warning" %}
 Observe que o símbolo do test-ONE é "ONE", o mesmo do mainnet-ONE.
