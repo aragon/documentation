@@ -30,7 +30,7 @@ If Metamask is well connected the fox icon appears.
 TEST ONE token is used on the Harmony Testnet. It is used to:
 
 * pay for transaction fees (abbreviated as ONE)
-* to deploy a DAO in the same way that test-ETH is used on Rinkeby
+* to deploy a DAO in the same way that test-ETH is used on Goerli
 
 {% hint style="warning" %}
 Please note that the symbol of the test-ONE is "ONE", the same as for mainnet-ONE.
