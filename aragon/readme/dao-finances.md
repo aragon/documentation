@@ -17,7 +17,7 @@ A composição atual do portfólio da Associação Aragon é composta predominan
 
 ![Esta imagem mostra nossas participações no terceiro trimestre de 2021](<../../.gitbook/assets/Screen Shot 2022-01-23 at 8.49.52 PM.png>)
 
-**As moedas descentralizadas representam 94% do portfólio, em linha com o compromisso da Associação Aragon de manter uma alta porcentagem de ativos descentralizados de alta liquidez.**
+**As moedas descentralizadas representam 94% do portfólio, de acordo com o compromisso da Associação Aragon de manter uma alta porcentagem de ativos descentralizados de alta liquidez.**
 
 ****
 
@@ -31,9 +31,9 @@ _Mais detalhes podem ser solicitados diretamente à equipe._
 
 ## **Fontes de financiamento** <a href="#funding-sources" id="funding-sources"></a>
 
-A Associação está actualmente a gerar fundos a partir dos juros do tesouro. Na taxa de queima atual, a Associação tem mais de 10 anos de pista.&#x20;
+A Associação gera atualmente fundos a partir dos juros do tesouro. Na taxa de queima atual, a Associação tem mais de 10 anos de runway.&#x20;
 
-Com foco no desenvolvimento de novos produtos para melhorar a experiência do usuário e alinhar-se às solicitações do usuário, a Aragon vê a criação e o uso do DAO como métricas-chave em nosso caminho a seguir.
+Com foco no desenvolvimento de novos produtos para melhorar a experiência do usuário e alinhar-se com às solicitações dele, a Aragon vê a criação e o uso da DAO como métricas-chave no nosso caminho a seguir.
 
 **Os Relatórios de Transparência** serão divulgados **semestralmente** e mostrarão a situação do Tesouro e os gastos junto com as notícias dos 6 meses anteriores.
 
@@ -41,7 +41,7 @@ Com foco no desenvolvimento de novos produtos para melhorar a experiência do us
 
 [Relatório de transparência de julho de 2021 para o primeiro e segundo trimestres](https://assets.website-files.com/5e997428d0f2eb13a90aec8c/60f15e66bc685a9ffefe088e\_Aragon\_Transparency\_Report\_-\_07-21\_18.pdf)
 
-**Deepdao.io** tem perfil na Aragon Network [https://deepdao.io/organization/18abd2d8-ff90-40cd-a889-4cc2fed78364/finance](https://deepdao.io/organization/18abd2d8-ff90-40cd-a889-4cc2fed78364/finance)
+**Deepdao.io** tem perfil da Aragon Network [https://deepdao.io/organization/18abd2d8-ff90-40cd-a889-4cc2fed78364/finance](https://deepdao.io/organization/18abd2d8-ff90-40cd-a889-4cc2fed78364/finance)
 
 _Para mais informações, por favor contacte: transparency@aragon.org_
 

@@ -7,7 +7,7 @@
   * [Infraestrutura financeira](aragon/readme/dao-finances.md)
   * [Conheça sua rede de suporte DAO](aragon/readme/communicating-values.md)
 * [Saiba mais sobre os DAOs](aragon/about-dao/README.md)
-  * [O que é um DAO?](aragon/about-dao/is-aragon-a-dao.md)
+  * [O que é uma DAO?](aragon/about-dao/is-aragon-a-dao.md)
   * [Por que precisamos de DAOs?](aragon/about-dao/why-do-we-need-daos.md)
   * [O que é governança autônoma descentralizada?](aragon/about-dao/what-is-decentralized-autonomous-governance.md)
   * [O que é o AN DAO?](aragon/about-dao/what-is-a-dao.md)

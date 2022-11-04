@@ -1,4 +1,4 @@
-# O que é um DAO?
+# O que é uma DAO?
 
 {% hint style="info" %}
 DAO ( _sigla_ ) = **Organização Autônoma Descentralizada**
@@ -8,7 +8,7 @@ DAO ( _sigla_ ) = **Organização Autônoma Descentralizada**
 
 ### Definição curta <a href="#short-definition" id="short-definition"></a>
 
-Um DAO é um **grupo de pessoas sem gerenciamento central** que se coordena pela Internet em torno de um **conjunto compartilhado de regras** para atingir um **objetivo comum** .
+Uma DAO é um **grupo de pessoas sem gerenciamento central** que se coordena pela Internet em torno de um **conjunto compartilhado de regras** para atingir um **objetivo comum** .
 
 ### Definição técnica <a href="#technical-definition" id="technical-definition"></a>
 
