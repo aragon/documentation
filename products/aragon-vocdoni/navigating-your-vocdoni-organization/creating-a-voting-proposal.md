@@ -47,16 +47,16 @@ On the _**Who can Vote**_ page you can:
 * _**Select voting type**_**:**&#x20;
   * _normal voting_ (where all the voters have the same voting power)&#x20;
   * _weighted voting_ (where voters may have different voting power)
-* _**Select voting options**_**:** you can enable anonymous voting (_**yes**_ or _**no**_ option).
+* _**Select voting options**_**:** you can enable anonymous voting (_**yes**_ or _**no**_ option). In our example, we have selected the anonymous voting option.
 * _**Import the list of voters**_**:** only the voters on the list can vote in the voting process. To create the list of voters you can download the available template (_**Download template**_ button), adjust the fields (you can add for example the National Id) and then drag and drop the file (.csv, .xlsx, .ods formats are supported).
 
 {% hint style="warning" %}
-Anonymous voting allows users to vote with the cryptographic assurance that nobody can correlate their identity with the contents of their ballot. You can read more about anonymous voting [here](https://blog.aragon.org/introducing-vocdoni-anonymous-voting/).
+**Anonymous voting** allows users to vote with the **cryptographic assurance** that nobody can correlate their identity with the contents of their ballot. You can read more about anonymous voting [here](https://blog.aragon.org/introducing-vocdoni-anonymous-voting/).
 {% endhint %}
 
 <figure><img src="../../../.gitbook/assets/vote.png" alt=""><figcaption><p>Who can vote page</p></figcaption></figure>
 
-When the list of voters loading is completed a **Form preview** is shown. This form will be filled in but the community in order to vote.
+When the list of voters loading is completed a **Form preview** is shown. This form will be filled in but the community in order to vote. Accept the disclaimer and **continue.**
 
 <figure><img src="../../../.gitbook/assets/Loaded Template.png" alt=""><figcaption><p>Form for the voters</p></figcaption></figure>
 
@@ -64,11 +64,23 @@ When the list of voters loading is completed a **Form preview** is shown. This f
 
 On the _**Settings**_ page enter:
 
+The **Calendar** settings:
+
 * _**Start Date**_**:** the start date at which votes are accepted. It could start on a specific date or start right away.
 * _**End Date**_**:** the date until votes are accepted.
-* _**Results availability**_**:** the results should be visible in real time or only after the end of the voting process.
 
-![](<../../../.gitbook/assets/Schermata 2022-03-07 alle 15.29.49.png>)
+{% hint style="danger" %}
+Anonymous voting requires an **additional voter pre-registration** step, which begins immediately after the process creation is completed and will last until the voting start date.
+{% endhint %}
+
+
+
+The **Results Availability**:
+
+* _**In Real-Time:**_ the voting results are shown as soon as the first vote is submitted
+* _**After vote**_**:** the voting results are shown only when the voting process is closed.
+
+<figure><img src="../../../.gitbook/assets/new vote period.png" alt=""><figcaption></figcaption></figure>
 
 ### Creation page
 
