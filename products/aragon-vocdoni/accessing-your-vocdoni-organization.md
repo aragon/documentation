@@ -6,7 +6,7 @@ In this section, you will learn how to access your Organization created using Ar
 
 ### Steps to access your Aragon Vocdoni Organization
 
-First, go [here](https://vocdoni.app/entity/new/).
+First, go [here](https://vocdoni.app/login/).
 
 ![](<../../.gitbook/assets/Schermata 2022-03-08 alle 08.55.50.png>)
 

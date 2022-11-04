@@ -1,7 +1,7 @@
 # Navigating your Vocdoni organization
 
 {% hint style="info" %}
-In this section, you will learn how to navigate through an Organization using Aragon Vocdoni.
+In this section, you will learn how to navigate through an Organization created using Aragon Vocdoni.
 {% endhint %}
 
 ## Steps to navigate in your Vocdoni organization
@@ -22,19 +22,19 @@ All these sections will be described below.
 
 ### Dashboard
 
-On the dashboard page, you can create a new vote using the \_**Creating a voting process** \_ button.
+On the dashboard page, you can create a new vote using the **Creating a voting process** button.
 
 ![Dashboard page](<../../../.gitbook/assets/Schermata 2022-03-07 alle 13.06.27.png>)
 
 {% hint style="danger" %}
 If you haven't made a backup of your account you will see an alert message shown in an orange box (see the example above).
 
-**=> In this case, please, proceed with the backup of your account as described in the** **dedicated paragraph** **below.**
+**=> In this case, please, proceed with the backup of your account as described in the** **dedicated** [**paragraph** **below**](./#createaccountbackup)**.**
 {% endhint %}
 
 ### Voting box
 
-The list of the votes is in the dedicated box.
+The list of votes is in the dedicated box.
 
 The Votes are grouped by:
 
@@ -72,13 +72,13 @@ The update entity page allows you to update easily the information about your en
 
 On the _**Download credentials**_ page you can protect your entity's account by exporting it and storing it in a safe place.
 
-* Select in the drop-down menu your favorite 3 Recovery questions and fill in your replies.
+* Select in the drop-down menu your favourite 3 Recovery questions and fill in your replies.
 * Confirm your password.
-* Check the box with the acknowledgment of losing the password.
+* Check the box with the acknowledgement of losing the password.
 
 ![Create account backup](<../../../.gitbook/assets/Schermata 2022-03-07 alle 14.12.30.png>)
 
-Press the _**Continue**_ button. A \*\* **\_**.bak\*\* file will be automatically downloaded. This file contains the account details to restore your Vodconi account if needed.
+Press the _**Continue**_ button. A _.bak_ file will be automatically downloaded. This file contains the account details to restore your Vodconi account if needed.
 
 {% hint style="success" %}
 Your account is now protected, store this file in a safe place.
@@ -101,7 +101,7 @@ This option redirects to the Vocdoni documentation.
 This option allows you to log out of your account.
 
 {% hint style="warning" %}
-To access your account after a logout again you need your \*\* **\_**.bak \*\* backup file.
+To access your account after a logout again you need your _.bak_ backup file.
 {% endhint %}
 
 > <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
