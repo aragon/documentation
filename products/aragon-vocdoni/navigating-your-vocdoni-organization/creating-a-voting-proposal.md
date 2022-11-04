@@ -108,17 +108,15 @@ A **Vote details** page will be opened.
 
 <figure><img src="../../../.gitbook/assets/Upcoming voting details.png" alt=""><figcaption><p>Vote details page</p></figcaption></figure>
 
-To **pre-register** (in case of anonymous voting) or **authenticate** (in case of no-anonymous voting) for the upcoming vote, go to the _**Dashboard**_ and click the Vote you want to pre-register or authenticate.&#x20;
+The **preview** button on the top-left allows you to **pre-register** (in case of anonymous voting) or **authenticate** (in case of no-anonymous voting) for the upcoming vote.&#x20;
 
-On the _**Vote, details**_ click the _**Preview**_ button: a dedicated page with the vote details will be opened.&#x20;
-
-#### **1. Pre-register for** an anonymous voting&#x20;
+#### **Case 1: Pre-register for** an anonymous voting&#x20;
 
 A _**Pre-register**_ button allows the user to pre-register for the upcoming vote process.&#x20;
 
 <figure><img src="../../../.gitbook/assets/Preview button.png" alt=""><figcaption></figcaption></figure>
 
-#### 2. A**uthenticate** for a no-anonymous voting&#x20;
+#### Case: A**uthenticate** for a no-anonymous voting&#x20;
 
 An _**Authenticate**_ button allows the user to authenticate for the upcoming vote process.&#x20;
 
