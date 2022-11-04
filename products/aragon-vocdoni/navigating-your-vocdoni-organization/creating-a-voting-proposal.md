@@ -66,7 +66,7 @@ On the _**Settings**_ page enter:
 
 The **Calendar** settings:
 
-* _**Start Date**_**:** the start date at which votes are accepted. It could start on a specific date or start right away.
+* _**Start Date**_**:** the start date at which votes are accepted. It could start on a specific date or start right away. The start date of the voting process must start at least 10 min in the future.
 * _**End Date**_**:** the date until votes are accepted.
 
 {% hint style="danger" %}
@@ -90,19 +90,23 @@ After clicking the _**Continue**_ button the vote process will be created.
 
 ### Ready page
 
-After the vote is set, the \*\* **\_**ready page\_ \*\* will show the voting process link.
+After the vote is set, the _**ready page**_ will show the voting process link.
 
 {% hint style="success" %}
 Share the voting process link with the voters. :partying\_face:
 {% endhint %}
 
-Now, in your _**Dashboard,**_ the _**Active vote**_ will be shown.
+Now, in your _**Dashboard,**_ the **Upcoming Vote** is 1**.**&#x20;
+
+<figure><img src="../../../.gitbook/assets/Upcoming vote.png" alt=""><figcaption><p>The upcoming vote is 1.</p></figcaption></figure>
+
+When the voting process starts the **Active vote** will be 1 (and the Upcoming vote return 0). Now the voters can cast their votes.
 
 ![Active vote in the Dashboard.](<../../../.gitbook/assets/Schermata 2022-03-07 alle 15.39.41.png>)
 
-If you need to close or to cancel a vote, go to the _**Dashboard**_\*\* \*\* and click the Vote you need to close or cancel. On the \*\* **\_**Vote details\*\* \_ page click the _**Close**_\*\* \*\* or \*\* **\_**Cancel**\_** \*\* button.
+If you need to cancel a vote, go to the _**Dashboard**_ and click the Vote you need to cancel. On the _**Vote details**_ page click the _**Cancel Vote**_ button.
 
-![](<../../../.gitbook/assets/Schermata 2022-03-07 alle 23.05.59.png>)
+<figure><img src="../../../.gitbook/assets/Upcoming voting details.png" alt=""><figcaption><p>Vote details page</p></figcaption></figure>
 
 > <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
 
