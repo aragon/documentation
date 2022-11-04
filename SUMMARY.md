@@ -2,7 +2,7 @@
 
 ## 🔷 Aragon
 
-* [Valores, Finanças e Jurídicos de Aragon](README.md)
+* [Valores, Finanças e Jurídico de Aragon](README.md)
   * [Infraestrutura legal e técnica](aragon/readme/legal-and-technical-infrastructure.md)
   * [Infraestrutura financeira](aragon/readme/dao-finances.md)
   * [Conheça sua rede de suporte DAO](aragon/readme/communicating-values.md)
