@@ -90,7 +90,7 @@ After clicking the _**Continue**_ button the vote process will be created.
 
 ### Ready page
 
-After the vote is set, the _**ready page**_ will show the voting process link.
+After the vote is set, the _**ready page**_ will show the voting process link.&#x20;
 
 {% hint style="success" %}
 Share the voting process link with the voters. :partying\_face:
@@ -103,6 +103,8 @@ Now, in your _**Dashboard,**_ the **Upcoming Vote** is 1**.**&#x20;
 When the voting process starts the **Active vote** will be 1 (and the Upcoming vote return 0). Now the voters can cast their votes.
 
 ![Active vote in the Dashboard.](<../../../.gitbook/assets/Schermata 2022-03-07 alle 15.39.41.png>)
+
+To access, the vote information goes to the _**Dashboard**_ and click on the Vote. A **Vote details** page will be opened.
 
 If you need to cancel a vote, go to the _**Dashboard**_ and click the Vote you need to cancel. On the _**Vote details**_ page click the _**Cancel Vote**_ button.
 

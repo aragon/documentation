@@ -12,13 +12,13 @@ To vote on a proposal in the Aragon Vocdoni Organization you need to receive the
 
 All the above details need to be filled in (exactly as in the uploaded voters' list) to be authenticated for a vote.
 
-Click \*\*Vote now\*\*  and cast your vote.
+Click **Vote now** and cast your vote.
 
 ![Voting page](<../../../.gitbook/assets/Schermata 2022-03-07 alle 22.30.12.png>)
 
 ![Vote options](<../../../.gitbook/assets/Schermata 2022-03-07 alle 22.30.29.png>)
 
-Click on the \*_**Finish voting\***_ button and confirm your vote: \*_**Yes, submit the vote**_.\*
+Click on the _**Finish voting**_ button and confirm your vote: _**Yes, submit the vote**_.
 
 ![Final confirmation](<../../../.gitbook/assets/Schermata 2022-03-07 alle 22.33.19.png>)
 
