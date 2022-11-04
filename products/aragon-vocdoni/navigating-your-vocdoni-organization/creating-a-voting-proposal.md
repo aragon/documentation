@@ -8,7 +8,7 @@ In this section, you will learn how to create a voting process in the Aragon Voc
 
 ### Create a Vote
 
-On the top right click on the name of your entity/organization select the \*\* **\_**Dashboard**\_** \*\* option.
+On the top right click on the name of your entity/organization select the **Dashboard** option.
 
 ![Dashboard page - Create a voting process](<../../../.gitbook/assets/Schermata 2022-03-07 alle 14.40.42.png>)
 
@@ -34,7 +34,7 @@ Click on the _**Create a voting process**_ and fill in the fields on the _**New 
 
 The voting process can have more than one question. More questions can be added using the _**Add a question**_ button.
 
-![](<../../../.gitbook/assets/Schermata 2022-03-07 alle 14.45.39.png>)
+![New vote page details](<../../../.gitbook/assets/Schermata 2022-03-07 alle 14.45.39.png>)
 
 The _**Preview**_ button shows a preview of the voting process.
 
@@ -44,12 +44,21 @@ The _**Preview**_ button shows a preview of the voting process.
 
 On the _**Who can Vote**_ page you can:
 
-* _**Select the voting options**_**:** _normal voting_ (where all the voters have the same voting power) and _weighted voting_ (where voters may have different voting power)
-* _**Import the list of voters**_**:** only the voters on the list can vote on the voting process. To create the list of voters you can download the available template (\*\* _**Download template**_ \*\* button), adjust the fields (you can add for example the National Id) and then drag and drop the file (.csv, .xlsx, .ods formats are supported).
+* _**Select voting type**_**:**&#x20;
+  * _normal voting_ (where all the voters have the same voting power)&#x20;
+  * _weighted voting_ (where voters may have different voting power)
+* _**Select voting options**_**:** you can enable anonymous voting (_**yes**_ or _**no**_ option).
+* _**Import the list of voters**_**:** only the voters on the list can vote in the voting process. To create the list of voters you can download the available template (_**Download template**_ button), adjust the fields (you can add for example the National Id) and then drag and drop the file (.csv, .xlsx, .ods formats are supported).
 
-![Who can vote page](<../../../.gitbook/assets/Schermata 2022-03-07 alle 15.04.01.png>)
+{% hint style="warning" %}
+Anonymous voting allows users to vote with the cryptographic assurance that nobody can correlate their identity with the contents of their ballot. You can read more about anonymous voting [here](https://blog.aragon.org/introducing-vocdoni-anonymous-voting/).
+{% endhint %}
 
-![Form for the voters](<../../../.gitbook/assets/Schermata 2022-03-07 alle 15.16.18.png>)
+<figure><img src="../../../.gitbook/assets/vote.png" alt=""><figcaption><p>Who can vote page</p></figcaption></figure>
+
+When the list of voters loading is completed a **Form preview** is shown. This form will be filled in but the community in order to vote.
+
+<figure><img src="../../../.gitbook/assets/Loaded Template.png" alt=""><figcaption><p>Form for the voters</p></figcaption></figure>
 
 ### Settings Page
 
