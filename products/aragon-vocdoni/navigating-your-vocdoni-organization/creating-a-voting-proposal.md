@@ -96,25 +96,29 @@ After the vote is set, the _**ready page**_ will show the voting process link.&#
 Share the voting process link with the voters. :partying\_face:
 {% endhint %}
 
-Now, in your _**Dashboard,**_ the **Upcoming Vote** is 1**.**&#x20;
 
-<figure><img src="../../../.gitbook/assets/Upcoming vote.png" alt=""><figcaption><p>The upcoming vote is 1.</p></figcaption></figure>
-
-When the voting process starts the **Active vote** will be 1 (and the Upcoming vote return 0). Now the voters can cast their votes.
-
-![Active vote in the Dashboard.](<../../../.gitbook/assets/Schermata 2022-03-07 alle 15.39.41.png>)
 
 ### Vote details
 
-To access, the vote information goes to the _**Dashboard**_ and click on the Vote. A **Vote details** page will be opened.
+To access, the vote information goes to the _**Dashboard**_ and click on the Vote.&#x20;
+
+<figure><img src="../../../.gitbook/assets/Upcoming vote.png" alt=""><figcaption></figcaption></figure>
+
+A **Vote details** page will be opened.
 
 <figure><img src="../../../.gitbook/assets/Upcoming voting details.png" alt=""><figcaption><p>Vote details page</p></figcaption></figure>
 
-* If you need to cancel or end a vote, go to the _**Dashboard**_ and click the Vote you need to cancel or end. On the _**Vote details**_ page click the _**Cancel Vote**_ or _**End Vote**_ button.
-* If you need to share the Voting link with the community go to the _**Dashboard**_ and click the Vote that you want to share. On The _**Vote details**_ page is available the link.
-*   To pre-register for the upcoming vote, go to the _**Dashboard**_ and click the Vote you want to pre-register. On the _**Vote details**_ click the _**Preview**_ button: a dedicated page with the vote details will be opened. A _**Pre-register**_ button allows the user to pre-register for the upcoming vote process.&#x20;
+*   To pre-register (in case of anonymous voting) or authenticate (in case of no-anonymous voting) for the upcoming vote, go to the _**Dashboard**_ and click the Vote you want to pre-register. On the _**Vote details**_ click the _**Preview**_ button: a dedicated page with the vote details will be opened. A _**Pre-register**_ button allows the user to pre-register for the upcoming vote process.&#x20;
 
     <figure><img src="../../../.gitbook/assets/Preview button.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+If you need to cancel or end a vote, go to the _**Dashboard**_ and click the vote you need to cancel or end. On the _**Vote details**_ page click the _**Cancel Vote**_ or _**End Vote**_ button.
+{% endhint %}
+
+{% hint style="info" %}
+If you need to **share the voting link** with the community go to the _**Dashboard**_ and click the vote. On the _**Vote details**_ page is available the link.
+{% endhint %}
 
 
 
