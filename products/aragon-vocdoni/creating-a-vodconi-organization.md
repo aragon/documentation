@@ -1,14 +1,14 @@
 # Creating a Vodconi organization
 
 {% hint style="info" %}
-In this section, you will learn how to create an Organization using Aragon Vocdoni.
+In this section, you will learn how to create an **Organization** using Aragon Vocdoni.
 {% endhint %}
 
 ## Steps to create a Vocdoni organization
 
-Go to [https://aragon.org/vocdoni](https://aragon.org/vocdoni) and click on _**Try it Now for Free**_.
+Go to [https://aragon.org/vocdoni](https://aragon.org/vocdoni) or alternately to [https://vocdoni.app/](https://vocdoni.app/). Click on _**Try for Free**_.
 
-![https://aragon.org/vocdoni](<../../.gitbook/assets/Schermata 2022-03-07 alle 10.56.45.png>)
+<figure><img src="../../.gitbook/assets/Try button.png" alt=""><figcaption><p>https://aragon.org/vocdoni - "Try for free" Button for starting.</p></figcaption></figure>
 
 ### Details page
 
