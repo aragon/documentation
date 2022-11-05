@@ -2,13 +2,13 @@
 
 > ### **Declaração do problema** <a href="#problem-statement" id="problem-statement"></a>
 >
-> Entidades corporativas comuns, como a Limited Liability Company (LLC), nos atendem há muitas décadas. Com o advento da World Wide Web e o aumento da cooperação internacional que a acompanhou, as entidades corporativas registradas nacionalmente parecem relíquias do passado\*\*.\*\*.
+> Entidades corporativas comuns, como a Sociedade de Responsabilidad Limitada (LLC), nos serviram por muitas décadas. Com o advento da World Wide Web e o aumento da cooperação internacional que a acompanhou, as entidades corporativas registradas nacionalmente parecem relíquias do passado\*\*.\*\*.
 
-### Alguns benefícios que os DAOs oferecem em relação às organizações tradicionais. <a href="#some-benefits-that-daos-offer-compared-to-traditional-organizations." id="some-benefits-that-daos-offer-compared-to-traditional-organizations."></a>
+### Alguns benefícios que as DAOs oferecem em relação às organizações tradicionais. <a href="#some-benefits-that-daos-offer-compared-to-traditional-organizations." id="some-benefits-that-daos-offer-compared-to-traditional-organizations."></a>
 
 ## Escalabilidade <a href="#scalability" id="scalability"></a>
 
-\=> As entidades corporativas são registradas em nível nacional, e é tedioso (e caro) montar estruturas corporativas internacionais. Além disso, muitas vezes são entidades de caixa preta opacas - adicionar novas pessoas ou envolver-se em empreendimentos corporativos globais pode levar anos de processos legais.
+\=> As entidades empresariais são registradas a nível nacional, e é tedioso (e caro) montar estruturas corporativas internacionais. Além disso, muitas vezes são entidades opacas - adicionar novas pessoas ou envolver-se em operações corporativas globais pode levar anos de processos legais.
 
 > **Solução:** os DAOs podem operar globalmente, em qualquer fuso horário, sem a necessidade de produzir processos burocráticos complicados - aproveitando as ferramentas de contrato inteligente auditáveis, os usuários podem se envolver com os DAOs com confiança em sua capacidade de serem remunerados de maneira segura e oportuna.
 
