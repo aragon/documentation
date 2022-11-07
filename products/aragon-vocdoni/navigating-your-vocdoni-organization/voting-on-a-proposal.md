@@ -28,11 +28,11 @@ Click on the _**Finish voting**_ button and confirm your vote: _**Yes, submit th
 Your vote has been registered.
 {% endhint %}
 
-You can also verify if your vote was correctly registered. Access the URL voting page (the same used for casting the vote).
+You can also verify if your vote was correctly registered. Access the URL voting page (the same one used for casting the vote).
 
 <figure><img src="../../../.gitbook/assets/verify vote 1.png" alt=""><figcaption></figcaption></figure>
 
-Click the _**verify button**_.
+Click the _**verify vote**_ button.
 
 <figure><img src="../../../.gitbook/assets/verify vote 2.png" alt=""><figcaption></figcaption></figure>
 
