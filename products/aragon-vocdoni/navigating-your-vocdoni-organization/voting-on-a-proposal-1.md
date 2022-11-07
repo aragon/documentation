@@ -30,7 +30,7 @@ Copy and past the URL used for the pre-registration on the browser again.
 
 <figure><img src="../../../.gitbook/assets/Anon 4.png" alt=""><figcaption></figcaption></figure>
 
-Click **Vote now** and cast your vote.
+Click **Vote now**. The system asks you to authenticate.
 
 <figure><img src="../../../.gitbook/assets/Anon 5.png" alt=""><figcaption></figcaption></figure>
 
