@@ -30,11 +30,9 @@ Copy and past the URL used for the pre-registration on the browser again.
 
 <figure><img src="../../../.gitbook/assets/Anon 4.png" alt=""><figcaption></figcaption></figure>
 
-Click **Vote now**. The system asks you to authenticate.
+Click _**Authenticate**_. Fill in your credentials and your password and click _**Continue**_.
 
 <figure><img src="../../../.gitbook/assets/Anon 5.png" alt=""><figcaption></figcaption></figure>
-
-Fill in your credentials and your password and click _**Continue**_.
 
 {% hint style="warning" %}
 The _**Secret key**_ field is your password. Please fill in here the password that you set up during the pre-registration phase.
