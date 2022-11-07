@@ -1,7 +1,7 @@
 # Voting on a proposal (anonymous voting disabled)
 
 {% hint style="info" %}
-In this section, you will learn how to process a vote on an Aragon Vocdoni Organization.
+In this section, you will learn how to cast a vote on a voting proposal with **anonymous voting disabled.**
 {% endhint %}
 
 ## Steps to vote on a proposal

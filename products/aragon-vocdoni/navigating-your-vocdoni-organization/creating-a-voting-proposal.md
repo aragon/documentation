@@ -16,7 +16,7 @@ Click on the _**Create a voting process**_ and fill in the fields on the _**New 
 
 ### 2. New Vote - Details page
 
-![New vote page details](<../../../.gitbook/assets/Schermata 2022-03-07 alle 14.45.39.png>)
+![New vote page - details](<../../../.gitbook/assets/Schermata 2022-03-07 alle 14.45.39.png>)
 
 {% hint style="info" %}
 **Title:** the title of your voting process
