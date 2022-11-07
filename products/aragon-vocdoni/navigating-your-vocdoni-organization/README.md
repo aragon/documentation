@@ -44,9 +44,9 @@ The Votes are grouped by:
 
 ![Vote box](<../../../.gitbook/assets/Schermata 2022-03-07 alle 22.50.22.png>)
 
-Clicking on a Vote (in our example _**Test Vote**_) you can see how many have voted and the results.
+Clicking on a Vote (in our example _**Test Vote**_) you can see the vote details. For example how many have voted and the status.
 
-![Voting Results](<../../../.gitbook/assets/Schermata 2022-03-07 alle 22.51.00.png>)
+<figure><img src="../../../.gitbook/assets/Screenshot 2022-11-07 alle 12.01.42.png" alt=""><figcaption><p>Vote details</p></figcaption></figure>
 
 ### Public page
 

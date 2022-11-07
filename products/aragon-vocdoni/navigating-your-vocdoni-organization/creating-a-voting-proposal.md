@@ -6,7 +6,7 @@ In this section, you will learn how to create a voting process in the Aragon Voc
 
 ## Steps for creating a voting proposal
 
-### Create a Vote
+### 1. Create a Vote
 
 On the top right click on the name of your entity/organization select the **Dashboard** option.
 
@@ -14,7 +14,7 @@ On the top right click on the name of your entity/organization select the **Dash
 
 Click on the _**Create a voting process**_ and fill in the fields on the _**New Vote**_ page.
 
-### Details page
+### 2. Details page
 
 {% hint style="info" %}
 **Title:** the title of your voting process
@@ -36,18 +36,18 @@ The voting process can have more than one question. More questions can be added 
 
 ![New vote page details](<../../../.gitbook/assets/Schermata 2022-03-07 alle 14.45.39.png>)
 
-The _**Preview**_ button shows a preview of the voting process.
+The _**Preview**_ button shows a preview of the voting proposal.
 
-![Preview of the Voting process](<../../../.gitbook/assets/Schermata 2022-03-07 alle 15.01.20.png>)
+![Preview of the Voting proposal](<../../../.gitbook/assets/Schermata 2022-03-07 alle 15.01.20.png>)
 
-### Who can Vote Page
+### 3. Who can Vote Page
 
 On the _**Who can Vote**_ page you can:
 
 * _**Select voting type**_**:**&#x20;
   * _normal voting_ (where all the voters have the same voting power)&#x20;
   * _weighted voting_ (where voters may have different voting power)
-* _**Select voting options**_**:** you can enable anonymous voting (_**yes**_ or _**no**_ option). In our example, we have selected the anonymous voting option.
+* _**Select voting options**_**:** you can enable anonymous voting (_**yes**_ or _**no**_ option). In our example, we have enabled the anonymous voting option.
 * _**Import the list of voters**_**:** only the voters on the list can vote in the voting process. To create the list of voters you can download the available template (_**Download template**_ button), adjust the fields (you can add for example the National Id) and then drag and drop the file (.csv, .xlsx, .ods formats are supported).
 
 {% hint style="warning" %}
@@ -60,7 +60,7 @@ When the list of voters loading is completed a **Form preview** is shown. This f
 
 <figure><img src="../../../.gitbook/assets/Loaded Template.png" alt=""><figcaption><p>Form for the voters</p></figcaption></figure>
 
-### Settings Page
+### 4. Settings Page
 
 On the _**Settings**_ page enter:
 
@@ -82,13 +82,13 @@ The **Results Availability**:
 
 <figure><img src="../../../.gitbook/assets/new vote period.png" alt=""><figcaption></figcaption></figure>
 
-### Creation page
+### 5. Creation page
 
 After clicking the _**Continue**_ button the vote process will be created.
 
 ![Creation voting process](<../../../.gitbook/assets/Schermata 2022-03-07 alle 15.35.10.png>)
 
-### Ready page
+### 6. Ready page
 
 After the vote is set, the _**ready page**_ will show the voting process link.&#x20;
 
@@ -98,13 +98,13 @@ Share the voting process link with the voters. :partying\_face:
 
 
 
-### Vote details
+### 7 . Vote details
 
 To access, the vote information goes to the _**Dashboard**_ and click on the Vote.&#x20;
 
 <figure><img src="../../../.gitbook/assets/Upcoming vote.png" alt=""><figcaption></figcaption></figure>
 
-A **Vote details** page will be opened.
+A **Vote details** page will be open.
 
 <figure><img src="../../../.gitbook/assets/Upcoming voting details.png" alt=""><figcaption><p>Vote details page</p></figcaption></figure>
 
@@ -116,7 +116,7 @@ A _**Pre-register**_ button allows the user to pre-register for the upcoming vot
 
 <figure><img src="../../../.gitbook/assets/Preview button.png" alt=""><figcaption></figcaption></figure>
 
-#### Case: A**uthenticate** for a no-anonymous voting&#x20;
+#### Case 2: A**uthenticate** for a no-anonymous voting&#x20;
 
 An _**Authenticate**_ button allows the user to authenticate for the upcoming vote process.&#x20;
 
