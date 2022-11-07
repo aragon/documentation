@@ -16,6 +16,8 @@ Click on the _**Create a voting process**_ and fill in the fields on the _**New 
 
 ### 2. Details page
 
+![New vote page details](<../../../.gitbook/assets/Schermata 2022-03-07 alle 14.45.39.png>)
+
 {% hint style="info" %}
 **Title:** the title of your voting process
 
@@ -33,8 +35,6 @@ Click on the _**Create a voting process**_ and fill in the fields on the _**New 
 {% endhint %}
 
 The voting process can have more than one question. More questions can be added using the _**Add a question**_ button.
-
-![New vote page details](<../../../.gitbook/assets/Schermata 2022-03-07 alle 14.45.39.png>)
 
 The _**Preview**_ button shows a preview of the voting proposal.
 
