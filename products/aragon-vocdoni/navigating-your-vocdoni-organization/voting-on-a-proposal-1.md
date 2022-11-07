@@ -56,7 +56,7 @@ Your vote has been registered.
 
 You can also verify if your vote was correctly registered. Access the URL voting page (the same one used for casting the vote).&#x20;
 
-<figure><img src="../../../.gitbook/assets/Anon 8 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Anon 8.png" alt=""><figcaption></figcaption></figure>
 
 Click the _**verify vote**_ button.
 
