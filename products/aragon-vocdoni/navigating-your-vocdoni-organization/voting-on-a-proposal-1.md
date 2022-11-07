@@ -14,6 +14,10 @@ All the above details need to be filled in (exactly as in the uploaded voters' l
 
 On the next page, set a **password** for authentication. (The password must have 8 characters or more, with at least 1 uppercase and 1 lowercase).
 
+{% hint style="danger" %}
+Write down this password and secure it in a safe place. This password will be asked later when you will cast your vote. Without this password, you can't vote.
+{% endhint %}
+
 <figure><img src="../../../.gitbook/assets/Anon 2.png" alt=""><figcaption></figcaption></figure>
 
 A message confirms that you are pre-registered.
