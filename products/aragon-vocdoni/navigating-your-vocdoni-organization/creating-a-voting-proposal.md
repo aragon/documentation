@@ -14,7 +14,7 @@ On the top right click on the name of your entity/organization select the **Dash
 
 Click on the _**Create a voting process**_ and fill in the fields on the _**New Vote**_ page.
 
-### 2. Details page
+### 2. New Vote - Details page
 
 ![New vote page details](<../../../.gitbook/assets/Schermata 2022-03-07 alle 14.45.39.png>)
 
