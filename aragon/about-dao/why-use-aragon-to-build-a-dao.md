@@ -1,12 +1,12 @@
-# Por que usar Aragon para construir um DAO?
+# Por que usar Aragon para construir uma DAO?
 
-### **Aragon é o principal player na construção de DAOs** <a href="#aragon-is-community-driven-with-a-full-time-development-team" id="aragon-is-community-driven-with-a-full-time-development-team"></a>
+### **Aragon é o principal ator na construção de DAOs** <a href="#aragon-is-community-driven-with-a-full-time-development-team" id="aragon-is-community-driven-with-a-full-time-development-team"></a>
 
-Com Aragon você pode ter seu DAO no **Ethereum ou em outras blockchains** . A maioria dos DAOs atualmente operacionais são construídos diretamente no Aragon ou bifurcaram o código-fonte aberto do Aragon.
+Com Aragon você pode ter sua DAO no **Ethereum ou em outras blockchains** . A maioria das DAOs atualmente operacionais são construídas diretamente na Aragon ou bifurcaram o código aberto da Aragon.
 
-### **A Aragon é orientada para a comunidade com** uma equipe de desenvolvimento em tempo integral <a href="#aragon-is-community-driven-with-a-full-time-development-team" id="aragon-is-community-driven-with-a-full-time-development-team"></a>
+### **A Aragon é orientada para a comunidade com** uma equipe de desenvolvimento de tempo integral <a href="#aragon-is-community-driven-with-a-full-time-development-team" id="aragon-is-community-driven-with-a-full-time-development-team"></a>
 
-Nossos usuários sempre têm uma opinião sobre como a plataforma evolui. Aragon é transparente. Você pode conversar com desenvolvedores no Discord ou em nosso fórum e fazer qualquer pergunta. Além disso, temos nossa equipe interna que trabalha exclusivamente na atualização do ecossistema Aragão.
+Nossos usuários sempre têm uma opinião sobre como a plataforma evolui. Aragon é transparente. Você pode conversar com desenvolvedores no Discord ou no nosso fórum e fazer qualquer pergunta. Além disso, temos nossa equipe interna que trabalha exclusivamente na melhoria do ecossistema Aragão.
 
 ### **Aragon oferece guias fáceis de usar** <a href="#aragon-offers-user-friendly-guides" id="aragon-offers-user-friendly-guides"></a>
 

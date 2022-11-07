@@ -45,7 +45,7 @@ Agora clique em _Entrar_: __&#x20;
 
 ​Agora confirme a transação clicando em _Criar transação_:
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ​Em seguida, confirme a transação em sua carteira Web3 (na maioria das vezes MetaMask).
 
@@ -57,7 +57,7 @@ Agora vá para o aplicativo Finanças em sua organização e seus fundos devem a
 
 Neste exemplo, os tokens BRT foram recuperados do aplicativo Finance to the Vault:
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Recupere seus fundos usando aragonCLI <a href="#recover-your-funds-using-aragoncli" id="recover-your-funds-using-aragoncli"></a>
 

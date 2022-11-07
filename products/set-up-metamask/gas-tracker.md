@@ -5,12 +5,12 @@ Seu provedor de Ethereum - Metamask, deve pré-preencher o limite de gás corret
 {% endhint %}
 
 {% hint style="info" %}
-Você pode afirmar um custo de gás ideal e ajustá-lo nas configurações de transação da sua carteira durante o processo de aprovação da transação.
+Você pode configurar um custo de gás ideal e ajustá-lo nas configurações de transação da sua carteira durante o processo de aprovação da transação.
 {% endhint %}
 
 ### Rastreadores de gás para diferentes redes <a href="#gas-trackers-for-different-networks" id="gas-trackers-for-different-networks"></a>
 
-* A rede principal - [https://etherscan.io/gatracker](https://etherscan.io/gastracker)
+* A Rede principal (Ethereum) - [https://etherscan.io/gatracker](https://etherscan.io/gastracker)
 * A Rede Polygon - [https://polygonscan.com/gatracker](https://polygonscan.com/gastracker)
 * A Rede Harmony - ainda não disponível
 * A Rede Metis Andromeda - ainda não disponível

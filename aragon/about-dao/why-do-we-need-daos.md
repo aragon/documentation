@@ -10,25 +10,25 @@
 
 \=> As entidades empresariais são registradas a nível nacional, e é tedioso (e caro) montar estruturas corporativas internacionais. Além disso, muitas vezes são entidades opacas - adicionar novas pessoas ou envolver-se em operações corporativas globais pode levar anos de processos legais.
 
-> **Solução:** os DAOs podem operar globalmente, em qualquer fuso horário, sem a necessidade de produzir processos burocráticos complicados - aproveitando as ferramentas de contrato inteligente auditáveis, os usuários podem se envolver com os DAOs com confiança em sua capacidade de serem remunerados de maneira segura e oportuna.
+> **Solução:** as DAOs podem operar globalmente, em qualquer fuso horário, sem a necessidade de produzir processos burocráticos complicados - aproveitando as ferramentas de contrato inteligente auditáveis, os usuários podem se envolver com as DAOs com confiança em sua capacidade de serem remunerados de maneira segura e oportuna.
 
 ## Responsabilidade <a href="#accountability" id="accountability"></a>
 
-\=> As estruturas corporativas geralmente tendem a se concentrar em maximizar os lucros em torno de um serviço, negligenciando os impactos sociais e ambientais de longo prazo.
+\=> As estruturas empresariais geralmente tendem a se concentrar em maximizar os lucros em torno de um serviço, negligenciando os impactos sociais e ambientais de longo prazo.
 
-> **Solução:** os DAOs permitem que as pessoas se reúnam e trabalhem em missões comuns tão facilmente quanto ingressar em um grupo de bate-papo. Ao formalizar uma declaração de trabalho contratualmente vinculativa, as pessoas que colaboram podem prosseguir com confiança em seu trabalho, sabendo que a conformidade e a regulamentação dentro da organização são obrigatórias.
+> **Solução:** as DAOs permitem que as pessoas se reúnam e trabalhem ao redor de missões comuns tão facilmente quanto ingressar em um grupo de bate-papo. Ao formalizar uma declaração de trabalho contratualmente vinculativa, as pessoas que colaboram podem prosseguir com confiança em seu trabalho, sabendo que a conformidade e a regulamentação dentro da organização são obrigatórias.
 
 ## Propriedade <a href="#ownership" id="ownership"></a>
 
 \=> A maioria das pessoas nas organizações são funcionários que dedicam grande parte de sua vida a uma organização, mas nunca recebem uma parte (real) dela, ou recebem um voto real nela.
 
-> **Solução:** DAOs são orientados pela democracia e removem alguns dos sistemas baseados em agente principal da organização. Os tokens nativos do DAO dão a eles a participação e o poder de voto.
+> **Solução:** as DAOs são orientados pela democracia e removem alguns dos sistemas baseados em agente principal da organização. Os tokens nativos da DAO dão a eles a participação e o poder de voto.
 
 ## Segurança <a href="#security" id="security"></a>
 
-\=> Exceto pelos departamentos de finanças e gestão, é difícil saber exatamente quais fundos estão disponíveis e como eles são gerenciados. Isso abre a porta para má gestão de fundos e até mesmo para fraude e corrupção.
+\=> Exceto pelos departamentos de finanças e gestão, é difícil saber exatamente quais fundos estão disponíveis e como eles são gerenciados. Isso abre as portas para má gestão de fundos e até mesmo para fraude e/o corrupção.
 
-> **Solução:** Nos DAOs, os fundos são armazenados de forma transparente em blockchains auditáveis ​​publicamente - a comunidade vota em como os fundos são distribuídos. Vários graus de anonimato podem existir dependendo da infraestrutura subjacente, mas, em última análise, todas as transações e contratos são auditáveis ​​em suas respectivas cadeias.
+> **Solução:** Nas DAOs, os fundos são armazenados de forma transparente em blockchains auditáveis ​​publicamente - a comunidade vota em como os fundos são distribuídos. Vários graus de anonimato podem existir dependendo da infraestrutura subjacente, mas, em última análise, todas as transações e contratos são verificáveis ​​em suas respectivas cadeias.
 
 ## Governança em DAOs <a href="#governance-in-daos" id="governance-in-daos"></a>
 

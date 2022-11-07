@@ -1,52 +1,61 @@
 # Configurando uma carteira MultiSig
 
 {% hint style="info" %}
-Nesta seção, veremos como os DAOs do cliente Aragon podem ser gerenciados por uma carteira MultiSig.
+Nesta seção, veremos como as DAOs do _Aragon Client_ podem ser geridas por uma carteira MultiSig.
 {% endhint %}
 
-Aqui vamos usar o [**Gnosis Safe MultiSig**](https://help.gnosis-safe.io/en/articles/3876461-create-a-safe) , no entanto, você pode seguir uma abordagem semelhante para qualquer outra carteira MultiSig que suporte a interação do contrato.
+{% hint style="warning" %}
+Aqui vamos usar o [Gnosis Safe MultiSig](https://gnosis-safe.io/), no entanto, você pode seguir uma abordagem parecida para qualquer outra carteira MultiSig que suporte a interação do contrato.
+{% endhint %}
+
+## Configurar as permissões necessárias <a href="#prerequisites" id="prerequisites"></a>
 
 {% hint style="info" %}
-Aqui vamos usar o [Gnosis Safe MultiSig](https://gnosis-safe.io/) , no entanto, você pode seguir uma abordagem semelhante para qualquer outra carteira MultiSig que suporte a interação do contrato.
+As DAOs do _Aragon Client_ têm acesso a um sistema de controle, onde cada ação é protegida por um conjunto de registros de permissão. Somente alguém com permissões específicas pode agir.&#x20;
+
+\
+**É por isso que precisamos atribuir à carteira MultiSig uma série de permissões que correspondam às ações desejadas.**&#x20;
+
+\
+Você pode ler mais sobre isso [aqui](aragon-client/explore-template-dao/system-setting/permissions-setting.md).
 {% endhint %}
 
-## Pré-requisitos <a href="#prerequisites" id="prerequisites"></a>
+****\
+****Neste exemplo, uma DAO do _Aragon Client_ tem um saldo de tokens ETH armazenados em seu Cofre (_Vault_) e você deseja iniciar um pagamento para compensar um colaborador DAO por seu trabalho. **Mostraremos como iniciar uma retirada de parte dos ETH para o Colaborador**.\
+****\
+****Comece abrindo a sua DAO do Aragon Client, você deve ver um painel parecido como na imagem abaixo. Clique no menu à esquerda em 'Permissões':
 
-### Atribua as permissões desejadas no Client DAO ao MultiSig <a href="#assign-the-desired-permissions-in-the-client-dao-to-the-multisig" id="assign-the-desired-permissions-in-the-client-dao-to-the-multisig"></a>
+<figure><img src="../.gitbook/assets/1 (1).png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
-Os DAOs Cliente Aragon têm acesso a um sistema de controle, onde cada ação é protegida por um conjunto de registros de permissão. Somente alguém com permissões específicas pode agir. É por isso que precisamos atribuir à carteira MultiSig uma série de permissões que correspondam às ações desejadas. Você pode ler mais sobre isso [aqui](aragon-client/explore-template-dao/system-setting/permissions-setting.md).
-{% endhint %}
+Queremos adicionar novas permissões para o seu MultiSig, então clique nesta tela em 'Nova permissão'
 
-1\. Siga as etapas abaixo para atribuir permissão a um MultiSig.
+<figure><img src="../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
 
-2\. Abra seu portal DAO e selecione a guia de _**permissões à esquerda.**_ Aqui você pode examinar as permissões que você tem em seu DAO.
+Você deve ver a seguinte janela lateral aparecer. Clique em 'Selecionar um aplicativo':
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/6112718fb55c2b04bf6dce7e/file-DCOHNWElgt.png)
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-3\. Para adicionar uma nova permissão, pressione o botão _**Nova Permissão**_.
+Para este exemplo, queremos iniciar uma retirada de ETH pelo MultiSig. Isso geralmente é feito no aplicativo 'Finanças' da DAO, então selecione '_Finance_' aqui e clique em 'Selecionar uma entidade':
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/611272116ffe270af2a97627/file-D7HYuaQgTh.png)
+<figure><img src="../.gitbook/assets/a.png" alt=""><figcaption></figcaption></figure>
 
-4\. Selecione o aplicativo para o qual deseja criar permissão no menu suspenso Aplicativo.
+Como precisamos adicionar o endereço do seu MultiSig, clique aqui em '_Custom Address_...':
 
-5\. Selecione a qual entidade será atribuída a nova permissão no campo \_ **Atribuir à entidade** \_. Para adicionar o endereço MultiSig selecione _**Custom Address**_ e digite o endereço no campo abaixo.
+<figure><img src="../.gitbook/assets/aa.png" alt=""><figcaption></figcaption></figure>
 
-6\. Selecione uma ação para a qual desejamos conceder permissão. No nosso caso, estamos atribuindo permissão para um MultiSig criar novos votos dentro do nosso DAO.
+Agora vá para o seu Gnosis Safe, copie seu endereço e cole o endereço do seu MultiSig na caixa 'GRANT PERMISSION TO'. Em seguida, clique em 'Selecionar uma ação':
 
-7\. Pressione _**Adicionar permissão**_ . Isso pode criar um voto dependendo da sua estrutura DAO e de quem é o gerenciador de permissões dessa ação.
-
-8\. Revogue as permissões indesejáveis. Para fazer isso, expanda qualquer permissão e pressione o ícone da lixeira.
+<figure><img src="../.gitbook/assets/aaaa.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
-Tenha cuidado, pois permissões incorretas podem tornar seu DAO vulnerável ou inacessível.
+Não se esqueça de remover as letras da frente do endereço Gnosis Safe, **eth:** ou **gor:** ou diferente dependendo da rede que você usa! Caso contrário não vai funcionar.. \
+\
+O endereço deve começar com: **0x**
 {% endhint %}
 
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/611275a7b37d837a3d0e2535/file-AecSpNvGSO.png)
+Neste caso queremos iniciar um novo pagamento, então clique em 'Criar novos pagamentos':
 
-Resultado:
-
-![Permissões Multisig](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/610d0ef364a230081ba1ce2f/file-aDCnpa7wjo.png)
+<figure><img src="../.gitbook/assets/b.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Aqui, atribuímos permissões ao MutliSig para gerenciar pagamentos e alterar os parâmetros de suporte a votação no DAO. No entanto, como continuamos votando como Gerente de Permissões, os membros da comunidade poderão votar para remover essas permissões, revogando efetivamente esse controle MultiSigs sobre o DAO\_.\_

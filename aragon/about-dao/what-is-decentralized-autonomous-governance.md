@@ -2,7 +2,7 @@
 
 Cada organização centralizada é controlada por um indivíduo ou um pequeno grupo. Eles servem como intermediários confiáveis ​​e, idealmente, agiriam em nome do interesse compartilhado. Infelizmente, esses indivíduos ou pequenos grupos às vezes colocam seus próprios interesses acima dos interesses compartilhados da organização que deveriam servir. Nesse caso, eles são um 'ponto único de falha' que causa o mau funcionamento de toda a organização.&#x20;
 
-A governança descentralizada visa corrigir o problema do 'ponto único de falha'. Como? É basicamente descentralizar a governança nas mãos de todos os membros da organização em vez de um indivíduo ou pequeno grupo.
+A governança descentralizada visa reparar o problema do 'ponto único de falha'. Como? É basicamente descentralizar a governança nas mãos de todos os membros da organização em vez de um indivíduo ou pequeno grupo. Para isso, utiliza uma gestão financeira transparente e mecanismos de votação eficientes:
 
 |                                           DAO                                          |                                               Uma Organização Tradicional                                               |
 | :------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: |
@@ -12,4 +12,4 @@ A governança descentralizada visa corrigir o problema do 'ponto único de falha
 
 #### **References**
 
-[O que são DAOs?](https://ethereum-org.translate.goog/en/dao/?\_x\_tr\_sl=en&\_x\_tr\_tl=pt&\_x\_tr\_hl=es-419&\_x\_tr\_pto=wapp)
+[O que são as DAOs?](https://ethereum-org.translate.goog/en/dao/?\_x\_tr\_sl=en&\_x\_tr\_tl=pt&\_x\_tr\_hl=es-419&\_x\_tr\_pto=wapp)
