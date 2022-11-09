@@ -6,13 +6,13 @@ You need the Agent App but it has not yet been installed in your DAO? Fear not, 
 
 The Agent App is not installed since it is not appearing under 'APPS' in the DAO menu bar:
 
-<figure><img src="../../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 
 
 Before we head to EVM Crispr we need you to collect the 'address' of your DAO. You can find it under 'SYSTEM > Organization':&#x20;
 
-<figure><img src="../../../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -45,7 +45,7 @@ Next to installing the Agent app we also grant the voting app with the `TRANSFER
 
 This is what the terminal should look like after Copy/ Paste of the above commands:
 
-<figure><img src="../../../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 Find the DAO address which you saved earlier and now replace `<your dao address>` with the address. Click **Connect** and connect with your Web3 wallet (usually MetaMask).
 
@@ -61,11 +61,11 @@ Now click on **Forwarding from...** :
 
 A transaction request should now pop-up in your Web3 wallet. Confirm the transaction. Once the transaction has successfully processed in your Web3 wallet return to your Aragon DAO and open the 'Voting' app from the menu bar. You should see that a vote has been generated:
 
-<figure><img src="../../../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 Now open the vote by clicking on it, and connect your Web3 wallet at the top right hand corner. Once connected scroll down and approve the vote by clicking **Yes**:
 
-<figure><img src="../../../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 Then click **Create transaction** and Confirm the transaction in your Web3 wallet. Once the transaction has processed and the vote has passed you should now see the Agent App appear automagically in the menu bar! :partying\_face:
 
@@ -79,7 +79,7 @@ If your address does not have enough 'DAO tokens' for the vote to meet the Suppo
 
 TheAgent App should look like this:
 
-<figure><img src="../../../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Read the next Article on [how to use the Agent app](using-agent-with-frame.md)!
 

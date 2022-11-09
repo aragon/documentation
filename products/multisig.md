@@ -108,7 +108,7 @@ Now confirm the vote by clicking 'Yes':
 
 Click here on 'Create transaction' and confirm the transaction that should pop-up in your Web3 Wallet:
 
-<figure><img src="../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 
 

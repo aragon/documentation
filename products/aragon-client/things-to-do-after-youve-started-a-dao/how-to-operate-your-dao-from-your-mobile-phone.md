@@ -1,4 +1,4 @@
-# How to operate your DAO from a Mobile Phone
+# How to Operate your DAO from your Mobile Phone
 
 {% hint style="info" %}
 For this example we will use the **MetaMask** Web3 Wallet since it can be used on Desktop with a browser extension and Mobile Phone app with an inbuilt browser.
@@ -12,9 +12,13 @@ First up: download the MetaMask app for your Android or iOS phone:
 
 {% embed url="https://apps.apple.com/us/app/metamask-blockchain-wallet/id1438144202" %}
 
+
+
 {% hint style="info" %}
 In this example, your DAO peer has initiated a transaction of 0.3 ETH to a Core-contributor. This has generated a Vote, which you will approve from your Mobile Phone while you are 'flixing' on your couch :popcorn:&#x20;
 {% endhint %}
+
+
 
 Open the MetaMask app at your phone and 'Get started':
 
@@ -30,31 +34,31 @@ Now there is a possibility to import your Desktop MetaMask wallet into your Mobi
 
 You will now need to enter the Secret Recovery Phrase. To do so open the MetaMask Desktop extension wallet, and click on the 'account circle' at the top right hand corner and then click 'Settings':
 
-![](<../../../.gitbook/assets/image (14).png>)
-
-
-
 {% hint style="danger" %}
 Make sure that it is the wallet which created the DAO or which owns DAO-tokens.
 {% endhint %}
+
+![](<../../../.gitbook/assets/image (2).png>)
+
+
 
 
 
 Click on 'Security and privacy':
 
-![](<../../../.gitbook/assets/image (16).png>)
+![](<../../../.gitbook/assets/image (4).png>)
 
 
 
 Click on 'Reveal Secret Recovery Phrase' and then copy your phrase:
 
-![](<../../../.gitbook/assets/image (19).png>)
-
-
-
 {% hint style="danger" %}
 It is **recommended to copy the Secret Recovery Phrase by writing it on a piece of paper**. Be careful sharing it electronically since anyone who gets access to your phrase can sign transactions at your DAO, and can access funds in your MetaMask wallet!
 {% endhint %}
+
+![](../../../.gitbook/assets/image.png)
+
+
 
 
 
@@ -66,7 +70,7 @@ Now head back to your Mobile Phone. Enter the Secret Recovery Phrase, create a n
 
 You should now see your Wallet imported in the MetaMask app! To make sure you are connected to the network where your DAO has been deployed, click on 'Wallet':
 
-![](../../../.gitbook/assets/image.png)
+![](<../../../.gitbook/assets/image (7).png>)
 
 
 
@@ -160,11 +164,11 @@ Passing of the Vote depends on meeting the minimum required support and approval
 
 
 
-To check whether the transaction of 0.3 to the Core-contributor has been executed, click the lowest of the two 'hamburger menu' icons in the top left hand corner, and select 'Finance'. In Finance you can see the payment has been done!
+To check whether the transaction of 0.3 to the Core-contributor has been executed, click the lowest of the two 'hamburger icon' in the top left hand corner, and select 'Finance'. In Finance you can see the payment has been done!
 
 ![](../../../.gitbook/assets/Screenshot\_1667984255.png)
 
 Victory! :medal:
 
-You can now operate your DAO like a real real boss :video\_game:
+You can now operate your DAO like a real boss :video\_game:
 
