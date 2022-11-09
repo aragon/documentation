@@ -58,9 +58,9 @@ Sinta-se à vontade para escolher qualquer uma das seguintes redes: **Goerli** o
 Para este tutorial, selecionaremos Goerli.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1 (5).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Contas** <a href="#accounts" id="accounts"></a>
 

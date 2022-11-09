@@ -1,7 +1,7 @@
 # Configurar uma carteira Metamask
 
 {% hint style="info" %}
-Nesta seção, você aprenderá **como configurar uma carteira **_**Metamask**_ e como configurá-la em diferentes _blockchains_. Você pode assistir ao vídeo ou ler o texto abaixo do vídeo.
+Nesta seção, você aprenderá **como configurar uma carteira **_**Metamask**_ e como configurá-la em diferentes _blockchains_.
 {% endhint %}
 
 {% hint style="success" %}

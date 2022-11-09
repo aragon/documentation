@@ -1,7 +1,7 @@
 # Infraestrutura financeira
 
 {% hint style="info" %}
-Aqui você aprenderá como Aragão lida com seu ecossistema financeiro.
+Aqui você aprenderá como Aragon lida com seu ecossistema financeiro.
 {% endhint %}
 
 ## Portfólio de Aragon <a href="#aragon-portfolio" id="aragon-portfolio"></a>

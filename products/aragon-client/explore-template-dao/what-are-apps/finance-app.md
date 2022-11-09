@@ -1,8 +1,8 @@
-# Finance App
+# Aplicativo Finanças
 
 O _**aplicativo Finanças**_ é usado para gerenciar os recursos financeiros de uma organização.
 
-## Objetivo do aplicativo de finanças <a href="#purpose-of-the-finance-app" id="purpose-of-the-finance-app"></a>
+## Objetivo do aplicativo Finanças <a href="#purpose-of-the-finance-app" id="purpose-of-the-finance-app"></a>
 
 * Verificar **o saldo** de cada ativo que a organização possui.
 * Verificar o **histórico** de transferências anteriores.
@@ -18,7 +18,7 @@ A seção _Saldos de Token_ mostra o saldo de cada token de propriedade da organ
 
 ## **Transferências** <a href="#transfers" id="transfers"></a>
 
-A seção mostra um histórico de transferências anteriores que foram feitas usando o aplicativo Finanças, incluindo informações sobre a data da transferência, o endereço da transferência, uma referência com contexto adicional sobre a transferência e o valor da transferência. transferir.
+A seção mostra um histórico de transferências anteriores que foram feitas usando o aplicativo Finanças, incluindo informações sobre a data da transferência, o endereço da transferência, uma referência com contexto adicional sobre a transferência e o valor da transferência.
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/5d8a62832c7d3a7e9ae190b1/file-5lFKotQ4xB.png)
 
@@ -36,37 +36,37 @@ Veja os exemplos abaixo.
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/5d8a62c904286364bc8f80cc/file-Puf5b59tKe.png)
 
-#### Se você precisar exportar seu histórico de transferências para contabilidade em um aplicativo separado, há um botão de exportação que pode ser usado para exportar um arquivo CSV: <a href="#if-you-need-to-export-your-transfer-history-for-accounting-in-a-separate-app-theres-an-export-button" id="if-you-need-to-export-your-transfer-history-for-accounting-in-a-separate-app-theres-an-export-button"></a>
+#### Se você precisar exportar seu histórico de transferências para fazer a contabilidade em otro aplicativo, há um botão de exportação que você pode usar para exportar um arquivo CSV: <a href="#if-you-need-to-export-your-transfer-history-for-accounting-in-a-separate-app-theres-an-export-button" id="if-you-need-to-export-your-transfer-history-for-accounting-in-a-separate-app-theres-an-export-button"></a>
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/5d8a62e604286364bc8f80ce/file-wgYMOA7KJK.png)
 
 ## **Nova transferência** <a href="#new-transfer" id="new-transfer"></a>
 
-### **Fundos de depósito** <a href="#deposit-funds" id="deposit-funds"></a>
+### **Como depositar fundos** <a href="#deposit-funds" id="deposit-funds"></a>
 
-Para enviar fundos para sua organização, você pode criar um depósito usando o aplicativo Finance
+Para enviar fundos para a sua organização, você pode criar um depósito usando o aplicativo Finanças
 
-* Clique no botão _**Nova Transferência**_ .
-* Abra a guia **\_Depósito\_** .
+* Clique no botão _**Nova Transferência**_.
+* Abra a aba **\_Depósito\_** .
 * Selecione o token que deseja depositar.
 * Insira a quantidade.
 * Insira uma nota de referência (opcional).
-* Em seguida, clique no botão _**Enviar** depósito_ .
+* Após, clique no botão _**Enviar** depósito_ .
 
 {% hint style="info" %}
-Para tokens não-ETH, duas transações podem ser necessárias para fazer um depósito.
+Para tokens diferentes de ETH, podem precisar duas transações para fazer um depósito.
 
-A primeira transação aprova o aplicativo Finanças para extrair o valor do depósito do saldo da sua conta e a segunda transação é a transação de depósito real.
+A primeira transação aprova o aplicativo Finanças para extrair a quantitade do depósito do saldo da sua conta, e a segunda transação é a transação de depósito real.
 
-Este é um recurso de segurança para evitar que o aplicativo Finance extraia mais fundos de sua conta do que você autorizou explicitamente.
+Este é uma medida de segurança para evitar que o aplicativo Finanças extraia mais fundos de sua conta do que você autorizou explicitamente.
 {% endhint %}
 
 ### **Saque de fundos** <a href="#withdrawal-funds" id="withdrawal-funds"></a>
 
-Para criar uma nova transferência da sua organização para outro endereço, você pode criar uma retirada usando o aplicativo Finanças
+Para criar uma nova transferência da sua organização para outro endereço, você pode criar um saque usando o aplicativo Finanças
 
 * Clique no botão _**Nova Transferência**_ .
-* Abra a guia _**Retirada**_ \*\* \*\*.
+* Abra a aba _**Retirada**_.
 * Digite o endereço para o qual deseja fazer a transferência.
 * Digite o token que você deseja enviar.
 * Insira a quantidade de tokens que deseja enviar.
@@ -76,15 +76,15 @@ Depois de preencher todas essas informações, você pode clicar no botão _**En
 
 ![Saque de fundos - Aplicativo Financeiro](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/5d8a63252c7d3a7e9ae190c4/file-L9njobkDLU.png)
 
-### **Assine a transação para criar o voto Nova Transferência** <a href="#sign-the-transaction-to-create-the-new-transfer-vote" id="sign-the-transaction-to-create-the-new-transfer-vote"></a>
+### **Assine a transação para criar o voto "Nova Transferência"** <a href="#sign-the-transaction-to-create-the-new-transfer-vote" id="sign-the-transaction-to-create-the-new-transfer-vote"></a>
 
-Conforme mencionado anteriormente, todas as ações na organização da Empresa exigem um voto dos detentores de tokens. Clique _**em Criar transação**_ e abra seu provedor Ethereum para assinar e enviar a transação que cria o voto de Nova Transferência.
+Conforme mencionado anteriormente, todas as ações na organização de Empresa exigem um voto dos detentores dos tokens. Clique em _**Criar transação**_ e abra seu provedor Ethereum para assinar e enviar a transação que cria o voto de "Nova Transferência".
 
 ![](https://lh3.googleusercontent.com/UXQwChFz66jOLkHe2GvPoJ\_dTc0dWafDE1aUsgS6GVP47AlL\_RNwSvBTLzZqQDq4M8rxpts6acwsYr2MIO4dRBwjJ6S56h8G1-w9f5c\_FJAK8usZabmT5WbQvR5bqCCXPr-fiGiX)
 
-### **Vote na transferência** <a href="#vote-on-the-transfer" id="vote-on-the-transfer"></a>
+### **Vote sobre a transferência** <a href="#vote-on-the-transfer" id="vote-on-the-transfer"></a>
 
-A transferência deve ser aprovada pelos detentores do token. Dê um voto _**Sim**_ para aprovar a transferência e faça com que os outros detentores de token na organização votem também.
+A transferência deve ser aprovada pelos detentores dos tokens. Dê um voto _**Sim**_ para aprovar a transferência e faça com que os outros detentores de token na organização votem também.
 
 ![](https://lh3.googleusercontent.com/BYjI\_u7oOJgw6s6\_0IVRxQy\_AAkEHiuc8aQes9a71HZNEknuNwO8FttrpeszbMIXY2j6AV7FfytR-eUi4Y\_eoILA\_WGjHiCz1cYasmUfj\_A0uhmod3bkh1ezWT6IhfP0GmyFmVG7)
 
@@ -94,6 +94,6 @@ Após a confirmação, a transferência será executada.
 
 ![](https://lh4.googleusercontent.com/C86GPoGAqAHhOiN-534hCWcWFeLBfwv3gsnEZ\_aXKwbYeaj67c8nNnvb3\_AK5fEAwPm03a-btdc-mLNkdy\_u-ezuZQG-g7iAvtjfHFoBmZxpYLoukXi7FT88VWifr79\_L21sGjxC)
 
-> <mark style="color:purple;">**Você tem uma pergunta?Deixe seus comentários aqui em nosso fórum do Discurso**</mark>** 👇**
+> <mark style="color:purple;">**Você tem uma pergunta? Deixe seus comentários aqui no nosso fórum Discourse**</mark>** 👇**
 
 {% embed url="https://support.aragon.org/t/aragon-client-navigate-your-dao-finance-app/27/2" %}

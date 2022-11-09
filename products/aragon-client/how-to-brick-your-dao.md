@@ -16,7 +16,7 @@
 Reconsidere se é necessário um alto quorum de 100% e certifique-se de sempre ter um backup da frase de recuperação secreta da sua conta do Wallet.
 {% endhint %}
 
-2\. Vá ao Fórum Aragon para obter ajuda e copie/cole as chaves privadas da carteira Web3 que controla seu DAO. Alguém encontrou as chaves privadas, assumiu o controle de sua carteira e agora está no controle de seu DAO😱.
+2\. Vá ao Fórum Aragon para obter ajuda e copie/cole as chaves privadas da carteira Web3 que controla seu DAO. Alguém encontrou as chaves privadas, assumiu o controle de sua carteira e agora está no controle da sua DAO😱.
 
 {% hint style="info" %}
 **Lição**

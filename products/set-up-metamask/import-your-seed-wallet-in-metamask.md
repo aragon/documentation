@@ -26,7 +26,7 @@ Você será levado a uma página de _boas-vindas de volta (welcome back)_.
 
 ### Importar a frase de 12 palavras permitirá que você use o Metamask com sua carteira. <a href="#importing-the-12-words-phrase-will-allow-you-to-use-metamask-with-your-wallet." id="importing-the-12-words-phrase-will-allow-you-to-use-metamask-with-your-wallet."></a>
 
-Clique em _Importar usando a frase semente da conta (Import using account seed phrase)_. Metamask agora deve abrir-se em uma nova guia com um título _**Restaurar sua conta com Seed Phrase**_ . Importe a frase única que você recebeu ao configurar a sua conta.
+Clique em _Importar usando a frase semente da conta (Import using account seed phrase)_. Metamask agora deve abrir-se em uma nova aba com um título _**Restaurar sua conta com Seed Phrase**_ . Importe a frase única que você recebeu ao configurar a sua conta.
 
 {% hint style="danger" %}
 Observe que sua frase mnemônica não será a mesma que a minha. Portanto, assegure-se de copiar a sua do seu terminal e não deste blog.
