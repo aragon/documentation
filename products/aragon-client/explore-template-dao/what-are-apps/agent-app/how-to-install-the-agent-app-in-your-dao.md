@@ -6,7 +6,7 @@ You need the Agent App but it has not yet been installed in your DAO? Fear not, 
 
 The Agent App is not installed since it is not appearing under 'APPS' in the DAO menu bar:
 
-<figure><img src="../../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

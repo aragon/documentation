@@ -62,7 +62,7 @@
       * [Change Quorum using Aragon Console](products/aragon-client/things-to-do-after-youve-started-a-dao/how-to-change-the-quorum-of-your-dao/change-quorum-using-aragon-console.md)
       * [Change Quorum using EVMcrispr](products/aragon-client/things-to-do-after-youve-started-a-dao/how-to-change-the-quorum-of-your-dao/change-quorum-using-evmcrispr.md)
     * [How to create a Legal Wrapper for your DAO with Otoco](products/aragon-client/things-to-do-after-youve-started-a-dao/legal-integration-with-otoco.md)
-    * [How to send a DAO transaction with your mobile phone using Metamask](products/aragon-client/things-to-do-after-youve-started-a-dao/how-to-send-a-dao-transaction-with-your-mobile-phone-using-metamask.md)
+    * [How to operate your DAO from a Mobile Phone](products/aragon-client/things-to-do-after-youve-started-a-dao/how-to-operate-your-dao-from-a-mobile-phone.md)
   * [How to Brick your DAO 🧱](products/aragon-client/how-to-brick-your-dao.md)
 * [Aragon Govern](products/aragon-govern/README.md)
   * [What is Aragon Govern?](products/aragon-govern/what-is-aragon-govern.md)
