@@ -1,13 +1,13 @@
-# Onde está meu DAO?
+# Onde está a minha DAO?
 
-Você implantou um DAO. Excelente! Mas você não pode encontrá-lo! Onde está o seu DAO?
+Você implantou uma DAO. Excelente! Mas você não pode encontrá-la! Onde está a sua DAO?
 
-Se o processo de criação do Dao estiver bem concluído e o DAO foi implantado corretamente, você poderá acessar seu DAO facilmente:
+Se o processo de criação da DAO estiver concluído com sucesso e a DAO foi implantada corretamente, você poderá acessar sua DAO facilmente:
 
 Copie e cole este URL no seu navegador:
 
-[​https://client.aragon.org/#/](https://client.aragon.org/#/) < **nome DAO** >
+[​https://client.aragon.org/#/](https://client.aragon.org/#/)<**DAO name**>
 
-Nota: < **DAO name** > é o nome do seu DAO que você escolheu durante a fase de criação do Dao.
+Nota: <**DAO name**> é o nome da sua DAO que você escolheu durante a fase de criação da DAO.
 
-Não se esqueça de conectar sua carteira Web3 à rede (também conhecida como rede onde você implantou seu DAO) e também de selecionar a conta de endereço de carteira correta.
+Não se esqueça de conectar a sua carteira Web3 à rede (que é a rede onde você implantou a sua DAO) e também de selecionar a conta do endereço da carteira correta.

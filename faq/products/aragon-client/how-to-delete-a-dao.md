@@ -1,7 +1,9 @@
-# Como excluir um DAO
+# Como excluir uma DAO
 
-Os DAOs são implantados no blockchain para que não possam ser excluídos.O token do DAO pode ser 'queimado' no entanto:
+As DAOs são implantadas no blockchain, portanto, não podem ser excluídas.&#x20;
 
-* Se o seu DAO estiver na rede **Ethereum** , você pode enviar seus tokens para este endereço: _**0x00000000000000000000000000000000000dEaD**_ para 'gravá-los'.
-* Se o seu DAO estiver na rede **Polygon** , você pode enviar seus tokens para este endereço: **0x00000000000000000000000000000000000dEaD** para 'gravá-los'.
-* Se o seu DAO estiver na rede **Harmony** , você pode enviar seus tokens para este endereço: **one10000000000000000000000000000dead5shlag** para gravá-los.
+Em todo o caso, o token da DAO pode ser 'queimado':
+
+* Se a sua DAO estiver na rede **Ethereum**, você pode enviar seus tokens para este endereço: _**0x00000000000000000000000000000000000dEaD**_ para 'queimá-los'.
+* Se a sua DAO estiver na rede **Polygon**, você pode enviar seus tokens para este endereço: **0x00000000000000000000000000000000000dEaD** para 'queimá-los'.
+* Se a sua DAO estiver na rede **Harmony**, você pode enviar seus tokens para este endereço: **one10000000000000000000000000000dead5shlag** para 'queimá-los'.

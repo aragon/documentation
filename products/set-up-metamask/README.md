@@ -7,7 +7,7 @@ Nesta seção, você aprenderá **como configurar uma carteira **_**Metamask**_ 
 {% hint style="success" %}
 **Recomendamos usar o **_****_ [_**Metamask**_](https://metamask.io/) _****_** como sua carteira **_**Web3**_**.**
 
-_Metamask_ é um _plugin_ de navegador que permite fazer transações no _Ethereum_ (e outras _blockchains_) através de sitios web regulares. \*\*\*\*
+_Metamask_ é um _plugin_ de navegador que permite fazer transações no _Ethereum_ (e outras _blockchains_) através de sites regulares.
 {% endhint %}
 
 {% hint style="warning" %}

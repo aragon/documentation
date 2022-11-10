@@ -1,12 +1,12 @@
-# Alterar Quorum usando EVMcrispr
+# Como alterar o Quorum usando EVM Crispr
 
 {% hint style="info" %}
-Este guia mostrará como alterar o Quorum mínimo (participação) necessário para que os votos em seu DAO sejam aprovados usando [**EVMcrispr**](https://evm-crispr.blossom.software/#/).
+Este guia mostrará como alterar o Quorum mínimo (participação) necessário para que os votos na sua DAO sejam aprovados, usando [**EVM Crispr**](https://evm-crispr.blossom.software/#/).
 
-O EVMcrispr é uma ferramenta poderosa que combina uma linguagem específica de domínio com uma biblioteca Javascript para interagir com os DAOs da Aragon.
+O EVM Crispr é uma ferramenta poderosa que combina uma linguagem específica de domínio com uma biblioteca Javascript para interagir com as DAOs de Aragon.
 {% endhint %}
 
-Primeiro, abra o EVMcrispr [aqui](https://evm-crispr.blossom.software/#/) e clique em 'Abrir Terminal'. Agora, esta tela deve aparecer:
+Primeiro, abra o EVM Crispr [aqui](https://evm-crispr.blossom.software/#/) e clique em '_Abrir Terminal_'. Agora, esta tela deve aparecer:
 
 <figure><img src="../../../../.gitbook/assets/crisper1.png" alt=""><figcaption></figcaption></figure>
 
@@ -14,30 +14,30 @@ Em seguida, exclua todo o texto no terminal:
 
 <figure><img src="../../../../.gitbook/assets/crisper2.png" alt=""><figcaption></figcaption></figure>
 
-Clique em 'Connect' (Conectar) para se conectar ao seu provedor Web3 (Metamask para a maioria dos usuários).
+Clique em '_Conectar_' (Connect) para se conectar ao seu provedor Web3 (Metamask para a maioria dos usuários).
 
 {% hint style="danger" %}
 **Aviso**
 
-Certifique-se de conectar uma conta ao EVMcrispr que também tenha permissão de assinatura no seu DAO.
+Assegure-se de conectar uma conta ao EVM Crispr que também tenha permissão de assinatura na sua DAO.
 {% endhint %}
 
-Agora vamos escrever os comandos para alterar a Porcentagem de Quorum Mínima.
+Agora vamos escrever os comandos para alterar a Porcentagem de Quorum mínima.
 
-Para alterar a Porcentagem de Quorum mínima para seu DAO, você terá que se conectar ao seu DAO com `connect <dao-name-or-address`. Em seguida, adicionamos `token-manager voting`porque o `token-manager`aplicativo tem o `CREATE_VOTES_ROLE`necessário para encaminhar ações para `voting`o aplicativo com o qual iremos interagir. Isto é o que temos até agora:
+Para alterar a Porcentagem de Quorum mínima para a sua DAO, você terá que se conectar a sua DAO com `connect <dao-name-or-address`. Em seguida, adicionamos `token-manager voting` porque o aplicativo `token-manager`  tem o `CREATE_VOTES_ROLE` necessário para encaminhar ações para `voting` , o aplicativo com o qual iremos interagir. Isto é o que temos até agora:
 
 ```
 connect <dao-name-or-address> token-manager voting
 ```
 
-Agora vamos escrever a segunda linha de comando para o terminal EVMcrispr. O primeiro a adicionar é `exec`qual é um comando usado para realizar transações DAOs. Em seguida, adicionamos `voting`o aplicativo com o qual iremos interagir. Isto é o que temos até agora:
+Agora vamos escrever a segunda linha de comando para o terminal EVM Crispr. O primeiro a adicionar é `exec` qual é um comando usado para realizar transações das DAOs. Após, adicionamos `voting` , o aplicativo com o qual iremos interagir. Isto é o que temos até agora:
 
 ```
 connect <dao-name-or-address> token-manager voting
 exec voting
 ```
 
-Não estamos prontos no entanto. Quando olhamos no código-fonte do Voting App no [​​Github](https://github.com/aragon/aragon-apps/blob/631048d54b9cc71058abb8bd7c17f6738755d950/apps/voting/contracts/Voting.sol) , podemos encontrar uma função para alterar a porcentagem de quorum mínima aceita, é exatamente isso que precisamos:
+Não estamos prontos ainda. Quando olhamos no código-fonte do _aplicativo Votação_ no [​​Github](https://github.com/aragon/aragon-apps/blob/631048d54b9cc71058abb8bd7c17f6738755d950/apps/voting/contracts/Voting.sol) , podemos encontrar uma função para alterar a Porcentagem de Quorum mínima aceita, é exatamente isso que precisamos:
 
 ```solidity
 function changeMinAcceptQuorumPct(uint64 _minAcceptQuorumPct)
@@ -51,24 +51,24 @@ function changeMinAcceptQuorumPct(uint64 _minAcceptQuorumPct)
 }
 ```
 
-Agora adicionaremos esta função aos comandos para o terminal chamá-la. Teremos que adicionar `changeMinAcceptQuorumPct(uint64 _minAcceptQuorumPct)`, mas primeiro substituiremos `uint64 _minAcceptQuorumPct`pela porcentagem mínima de quórum desejada.
+Agora adicionaremos esta função aos comandos para o terminal chamá-la. Teremos que adicionar `changeMinAcceptQuorumPct(uint64 _minAcceptQuorumPct)`, mas primeiro substituiremos `uint64 _minAcceptQuorumPct` pela Porcentagem de Quórum mínima desejada.
 
-Isso é expresso como uma porcentagem de `10^18`, então por exemplo `100% = 10^18`e `1% = 10^16`. Digamos que você queira um novo Quorum mínimo de 25%, então você precisa adicionar 16 zeros a 25 chegando`250000000000000000`
+Isso é expresso como uma porcentagem de `10^18`, então por exemplo `100% = 10^18` e `1% = 10^16`. Digamos que você queira um novo Quorum mínimo de 25%, então você precisa adicionar 16 zeros a 25 chegando a `250000000000000000`
 
 {% hint style="danger" %}
 **Aviso**
 
-A **Porcentagem de Quorum mínima nunca pode ser maior que a Porcentagem de Suporte necessária** para votos em seu DAO! Portanto, certifique-se de que a porcentagem de suporte necessária do seu DAO seja de 55% ou mais. Caso contrário, use uma porcentagem menor do que a porcentagem de suporte necessária para este tutorial (caso contrário, você terá um problema mais tarde).
+A **Porcentagem de Quorum mínima nunca pode ser maior que a Porcentagem de Suporte necessária** para votos na sua DAO! Portanto, assegure-se de que a porcentagem de Suporte necessária da sua DAO seja de 55% ou mais. Senão, use uma porcentagem menor do que a porcentagem de Suporte necessária para este tutorial (caso contrário, você terá um problema mais tarde).).
 {% endhint %}
 
-Agora adicione `changeMinAcceptQuorumPct 250000000000000000`aos comandos para o terminal:
+Agora adicione `changeMinAcceptQuorumPct 250000000000000000` aos comandos para o terminal:
 
 ```
 connect <dao-name-or-address> token-manager voting
 exec voting changeMinAcceptQuorumPct 250000000000000000
 ```
 
-Os comandos estão prontos! Copie/cole-os no terminal e clique no botão 'Forward...':
+Os comandos estão prontos! Copie/cole-os no terminal e clique no botão '_Forward_...':
 
 <figure><img src="../../../../.gitbook/assets/crisper3.png" alt=""><figcaption></figcaption></figure>
 
@@ -77,16 +77,16 @@ Assine a transação do seu provedor Web3 e agora ela deve ser executada com suc
 {% hint style="danger" %}
 **Aviso**
 
-Use seu endereço DAO no caso de seu nome DAO no caso deste erro:
+Use o endereço da sua DAO em vez de nome da DAO no caso deste erro:
 
 `Error: ENS <dao-name>.aragonid.eth not found in rinkeby, please introduce the address of the DAO instead.`
 {% endhint %}
 
-Estamos quase prontos, mas primeiro abra seu DAO no navegador da web. A url deve ser:
+Estamos quase prontos, mas primeiro abra a sua DAO no navegador da web. A URL deve ser:
 
 `https://client.aragon.org/#/<dao-name-or-address>`
 
-Em seguida, vá para o aplicativo Voting, pois essa alteração gerou um voto automaticamente. Agora você (e o suficiente de seus membros DAO) precisa aprovar a votação para que ela seja aprovada:
+Subseqüentemente, vá para o _aplicativo Votação_, pois essa alteração gerou um voto automaticamente. Agora você (e o suficiente dos membros da sua DAO) precisa aprovar a votação para que ela seja aceita:
 
 <figure><img src="../../../../.gitbook/assets/crisper4.png" alt=""><figcaption></figcaption></figure>
 
@@ -96,16 +96,16 @@ Em seguida, vá para o aplicativo Voting, pois essa alteração gerou um voto au
 A mudança só poderá ser **decretada** quando o tempo restante de votação se esgotar. No caso deste exemplo, `Time remaining`é`23H:59M:12S`☝​
 {% endhint %}
 
-Quando o tempo de votação se esgotar, clique em 'Aprovar esta votação' e assine a transação com seu provedor Web3:
+Quando o tempo de votação se esgotar, clique em '_Aprovar esta votação_' e assine a transação com seu provedor Web3:
 
 <figure><img src="../../../../.gitbook/assets/crisper5.png" alt=""><figcaption></figcaption></figure>
 
-​Feito isso, a Porcentagem de Quórum mínima deveria ter sido ajustada para 25%. Você pode verificar isso criando um novo voto. Quando você abre a votação, o `MINIMUM APPROVAL`deveria ter sido ajustado para `>25% needed`.
+​Feito isso, a Porcentagem de Quórum mínima deveria ter sido ajustada para 25%. Você pode verificar isso criando um novo voto. Quando você abre a votação, o `MINIMUM APPROVAL` deveria ter sido ajustado para `>25% needed`.
 
 {% hint style="success" %}
-Se você chegou até aqui, muito bem!👏​​
+Se você chegou até aqui, parabéns!👏​​
 {% endhint %}
 
-> <mark style="color:purple;">**Você tem uma pergunta?Deixe seus comentários aqui em nosso fórum do Discurso**</mark>** 👇**
+> <mark style="color:purple;">**Você tem uma pergunta? Deixe seus comentários aqui no nosso fórum Discourse**</mark>** 👇**
 
 {% embed url="https://support.aragon.org/" %}

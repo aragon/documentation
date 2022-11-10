@@ -1,8 +1,12 @@
 # Por que vejo uma tela azul?
 
-Alguns usuários relataram que ao configurar uma organização o navegador fica travado em uma tela azul com o logotipo da Aragão.Essencialmente, seu navegador da web não pode acessar a URL onde o aplicativo da web está realmente hospedado (armazenamento de arquivos descentralizado chamado IPFS).Para resolver o problema, faça o seguinte:
+Alguns usuários relataram que ao configurar uma organização o navegador fica travado em uma tela azul com o logotipo de Aragon.
 
-* Se você estiver usando uma VPN, tente configurá-la para um local de servidor diferente ou desativá-la.
+Essencialmente, seu navegador da web não pode acessar a URL onde o aplicativo web está realmente hospedado (armazenamento de arquivos descentralizado chamado IPFS).&#x20;
+
+Para resolver o problema, faça o seguinte:
+
+* Se você estiver usando uma VPN, tente configurá-la para uma localização do servidor diferente ou desativá-la.
 * Exclua todos os dados em cache do site.
 * Recarregue a página.
 * Desative todos os bloqueadores de anúncios no seu navegador.

@@ -75,7 +75,7 @@ Neste caso queremos iniciar um novo pagamento, então clique em '_Criar novos pa
 
 Agora que você preencheu as caixas necessárias, clique em '_Adicionar permissão_':
 
-<figure><img src="../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1 (6).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -93,7 +93,7 @@ Uma transação deve aparecer na sua carteira Web3, '_Confirme_' a transação:
 
 Depois que a transação for processada, vá para o aplicativo '_Voting_' da sua DAO. Você deve ver que um voto aberto foi gerado. Clique na votação:
 
-<figure><img src="../.gitbook/assets/1 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1 (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -177,7 +177,7 @@ Na página Etherscan, role para baixo até ver a caixa '_Contract ABI_'. Clique 
 
 Cole a _ABI_ no campo '_ABI_' do Gnosis Safe e clique em '_Método_':
 
-<figure><img src="../.gitbook/assets/2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2 (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 
 

@@ -60,7 +60,7 @@ Escolha um nome pelo token, um símbolo, os detentores de tokens e a quantidade 
 O nome do token e o símbolo atualmente não podem ser alterados. Não adicione mais do que alguns detentores de tokens à sua organização nesta tela ou a transação para criar sua organização pode falhar. Você pode adicionar mais detentores de tokens após a criação da organização.
 {% endhint %}
 
-![Configurações do Aplicativo Token](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/5d8624862c7d3a7e9ae173e4/file-wSKI8WfAzK.png)
+![Configurações do Aplicativo Tokens](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/5d8624862c7d3a7e9ae173e4/file-wSKI8WfAzK.png)
 
 ## Revise as informações da organização <a href="#review-organization-information" id="review-organization-information"></a>
 
