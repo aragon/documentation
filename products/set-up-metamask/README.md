@@ -1,7 +1,7 @@
 # Setting up a Metamask Wallet
 
 {% hint style="info" %}
-In this section, you will learn **how to set up a Metamask wallet** and how to configure it on different blockchains. You can either watch the **Video** or you can read the **Text** below the Video.
+In this section, you will learn **how to install a Metamask wallet**, **how to set up a Metamask wallet** and how to configure it on different blockchains. You can either watch the **Video** or you can read the **Text** below the Video.
 {% endhint %}
 
 {% embed url="https://www.youtube.com/watch?v=ILD0X32TmFg" %}
@@ -15,6 +15,12 @@ Metamask is a browser plugin that lets you make Ethereum (and other blockchains)
 {% hint style="warning" %}
 This guide focuses on a Chrome extension. However, the process is similar for all browsers.
 {% endhint %}
+
+## **How to install a Metamask wallet?**
+
+Watch the **Video** (1:24 mins)**👇** and then you are ready to start :tada:.
+
+{% embed url="https://youtu.be/NeVoRo8U6Yc" %}
 
 ## Getting started <a href="#getting-started" id="getting-started"></a>
 
