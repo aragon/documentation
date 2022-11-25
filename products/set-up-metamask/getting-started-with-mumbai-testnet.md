@@ -1,8 +1,10 @@
 # Getting started with Mumbai Testnet
 
 {% hint style="info" %}
-In this section, you will learn how to connect and use your Web3 wallet on the Mumbai Testnet. You can either watch the **Video** or you can read the **Text** below the Video.
+In this section, you will learn how to connect and use your Web3 wallet on the Mumbai Testnet. You can either watch the **Videos** or you can read the **Text** below the Video.
 {% endhint %}
+
+{% embed url="https://youtu.be/QhmpZjZ7UPo" %}
 
 {% embed url="https://youtu.be/mJO77h6Plz0" %}
 
