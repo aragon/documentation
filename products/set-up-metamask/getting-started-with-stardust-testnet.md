@@ -16,7 +16,7 @@ We recommend using [Metamask wallet](./) as your Web3 wallet.
 * Click the _**connect your wallet**_ button on the top right
 
 {% hint style="info" %}
-If Metamask is well connected the fox icon appears)
+If Metamask is well connected the fox icon appears.
 {% endhint %}
 
 * And click _**add to Metamask** \_ button_.\_
