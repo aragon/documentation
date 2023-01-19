@@ -19,7 +19,7 @@ Ce guide se concentre sur une extension Chrome. Toutefois, le processus est simi
 Pour créer et utiliser un **Aragon Client** (DAO client Aragon), vous devez vous connecter à un réseau de test ou à un réseau principal. Vous pouvez choisir parmi différentes blockchains :
 
 * [Ethereum Mainnet](getting-started-with-ethereum.md)
-* [Rinkeby Testnet](getting-started-with-rinkeby-testnet.md)
+* [Goerli Testnet](https://app.gitbook.com/s/5JocmZjUHc2kDC6Rngio/products/set-up-metamask/getting-started-with-rinkeby-testnet)
 * [Polygon](getting-started-with-polygon.md)
 * Andromeda
 * [Mumbai Testnet](getting-started-with-mumbai-testnet.md)
@@ -30,10 +30,9 @@ Pour créer et utiliser un **Aragon Client** (DAO client Aragon), vous devez vou
 
 Vous pouvez également créer et interagir avec un DAO directement en utilisant la ligne de commande (dans ce cas, quelques compétences en développement sont nécessaires), également dans ce cas, vous devez vous connecter à un réseau de test ou un réseau principal (les réseaux disponibles sont les mêmes dans la liste supérieure).
 
-Pour créer ou utiliser une **Aragon Govern** (DAO d'Aragon Govern), vous devez vous connecter à un réseau de test ou à un réseau principal. Vous pouvez choisir parmi ces blockchains :
+Pour créer ou utiliser une **Aragon Govern** (DAO d'Aragon Govern), vous devez vous connecter à un réseau principal:
 
 * [Ethereum Mainnet](getting-started-with-ethereum.md)
-* [Rinkeby Testnet](getting-started-with-rinkeby-testnet.md)
 
 Commençons par configurer et comprendre les principaux intérêts du porte-monnaie metamask, puis vous pourrez passer au choix de votre réseau préféré.
 
@@ -73,7 +72,7 @@ En haut à droite, vous devriez voir un menu déroulant avec le _**Main Ethereum
 
 **Si vous cliquez dessus, une sélection d'autres réseaux s'affichera.**
 
-<figure><img src="../../.gitbook/assets/m-2.png" alt=""><figcaption><p>Menu déroulant pour sélectionner le réseau.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1_Setting Up MM_Networks List.png" alt=""><figcaption><p>Menu déroulant pour sélectionner le réseau.</p></figcaption></figure>
 
 ## Pourquoi choisir d'autres réseaux ?
 
@@ -85,9 +84,7 @@ La principale raison d'utiliser un réseau de test ETH est qu'il peut être obte
 
 **Il existe quatre réseaux de test :**
 
-* Ropsten
-* Kovan
-* Rinkeby
+* Sepolia
 * Goerli
 
 {% hint style="warning" %}
