@@ -20,7 +20,7 @@
 * [Démarrage rapide](produits/quickstart.md)
 * [Configuration d'un porte-monnaie Metamask](produits/set-up-metamask/README.md)
   * [Démarrer avec Ethereum](produits/set-up-metamask/getting-started-with-ethereum.md)
-  * [Démarrer avec Rinkeby Testnet](produits/set-up-metamask/getting-started-with-rinkeby-testnet.md)
+  * [Démarrer avec Goerli Testnet](produits/set-up-metamask/getting-started-with-rinkeby-testnet.md)
   * [Démarrer avec Polygon](produits/set-up-metamask/getting-started-with-polygon.md)
   * [Démarrer avec Mumbai Testnet](produits/set-up-metamask/getting-started-with-mumbai-testnet.md)
   * [Démarrer avec Harmony](produits/set-up-metamask/getting-started-with-harmony.md)
