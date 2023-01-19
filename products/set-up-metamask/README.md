@@ -28,10 +28,9 @@ Para criar e usar uma **DAO com **_**Aragon Client**_** ** , você precisa se co
 * [Stardust testnet](getting-started-with-metis-andromeda.md)
 * [BSC Testnet](getting-started-with-bsc-testnet.md)
 
-Você também pode criar e interagir com uma DAO diretamente usando a linha de comando (neste caso é necessário um pouco de habilidade de desenvolvimento), também neste caso você precisa se conectar a um teste ou uma rede principal (as redes disponíveis são as mesmas no lista superior). Para criar ou usar uma **DAO com **_**Aragon Govern**_, você precisa se conectar a um teste ou a uma rede principal. Você pode escolher entre estes _blockchains_:
+Você também pode criar e interagir com uma DAO diretamente usando a linha de comando (neste caso é necessário um pouco de habilidade de desenvolvimento), também neste caso você precisa se conectar a um teste ou uma rede principal (as redes disponíveis são as mesmas no lista superior). Para criar ou usar uma **DAO com **_**Aragon Govern**_, você precisa se conectar a a uma rede principal:
 
 * [Ethereum Mainnet](getting-started-with-ethereum.md)
-* [Goerli Testnet](https://documentation.aragon.org/products/set-up-metamask/getting-started-with-rinkeby-testnet)
 
 Vamos começar a configurar e entender os principais recursos da carteira metamask e então você pode seguir para a escolha de sua rede preferida.
 
@@ -71,13 +70,13 @@ No canto superior direito, você deve ver um menu suspenso com a _**Main Ethereu
 
 #### Se você clicar nele, uma seleção de outras redes será mostrada. <a href="#if-you-click-on-it-a-selection-of-other-networks-will-be-shown." id="if-you-click-on-it-a-selection-of-other-networks-will-be-shown."></a>
 
-<figure><img src="../../.gitbook/assets/m-2.png" alt=""><figcaption><p>Menu suspenso para selecionar a rede.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1_Setting Up MM_Networks List.png" alt=""><figcaption><p>Menu suspenso para selecionar a rede.</p></figcaption></figure>
 
 
 
 ## Por que você deve selecionar outras redes? <a href="#why-should-you-select-other-networks" id="why-should-you-select-other-networks"></a>
 
-Antes de lançar um projeto (ou _Dapp_) na rede principal _Ethereum_, é uma boa prática implantar uma versão em uma rede de teste _Ethereum_ ou em outras redes principais (como _Polygon_ ou _Harmony_) para economizar custos de taxas de transação.
+Antes de lançar um projeto (ou _Dapp_) na rede principal _Ethereum_, é uma boa prática implantar uma versão em uma rede de teste _Ethereum_ ou em outras redes principais (como _Polygon_) para economizar custos de taxas de transação.
 
 ### Os benefícios de usar uma rede de teste <a href="#the-benefits-of-using-a-testnet" id="the-benefits-of-using-a-testnet"></a>
 
