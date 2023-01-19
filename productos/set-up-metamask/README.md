@@ -7,7 +7,7 @@ En esta sección, usted aprenderá a configurar un monedero Metamask y a configu
 {% hint style="success" %}
 **Recomendamos el uso de** [**Metamask**](https://metamask.io) **** (disponible actualmente solo en inglés) **como su cartera Web3.**
 
-Metamask es un plugin para el navegador que le permite realizar transacciones con Ethereum (y otras blockchains) a través de sitios web normales. \*\*\*\*
+Metamask es un plugin para el navegador que le permite realizar transacciones con Ethereum (y otras blockchains) a través de sitios web normales.&#x20;
 {% endhint %}
 
 {% hint style="warning" %}
@@ -19,7 +19,7 @@ Esta guía se centra en una extensión de Chrome. Sin embargo, el proceso es sim
 Para crear y utilizar un **Client (cliente) DAO cliente** de Aragón es necesario conectarse a una red de prueba o a una red principal. Puedes elegir entre diferentes blockchains:
 
 * [Ethereum Mainnet](getting-started-with-ethereum.md)
-* [Rinkeby Testnet](getting-started-with-rinkeby-testnet.md)
+* [Goerli Testnet](https://app.gitbook.com/s/5JocmZjUHc2kDC6Rngio/products/set-up-metamask/getting-started-with-rinkeby-testnet)
 * [Polygon](getting-started-with-polygon.md)
 * Andromeda
 * [Mumbai Testnet](getting-started-with-mumbai-testnet.md)
@@ -30,10 +30,9 @@ Para crear y utilizar un **Client (cliente) DAO cliente** de Aragón es necesari
 
 También puede crear e interactuar con una DAO directamente usando la línea de comandos (en este caso se requieren un poco de habilidades de desarrollo), también en este caso necesitará conectarse a una red de prueba o a una red principal (las redes disponibles son las mismas en la lista superior).
 
-Para crear o utilizar un **Govern (Gobierno) DAO** de Aragon es necesario conectarse a una red de prueba o a una red principal. Puede elegir entre estas blockchains (cadenas de bloques):
+Para crear o utilizar un **Govern (Gobierno) DAO** de Aragon es necesario conectarse a una red red principal:
 
 * [Ethereum Mainnet](getting-started-with-ethereum.md)
-* [Rinkeby Testnet](getting-started-with-rinkeby-testnet.md)
 
 Vamos a empezar a configurar y entender los principales caracteristicas de la cartera metamask y luego puede pasar a elegir su red favorita.
 
@@ -73,11 +72,11 @@ En la parte superior derecha debería ver un menú desplegable con la _**Main Et
 
 **Si hace clic en ella, se mostrará una selección de otras redes.**
 
-<figure><img src="../../.gitbook/assets/m-2.png" alt=""><figcaption><p>Menú desplegable para seleccionar la red.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1_Networks List.png" alt=""><figcaption><p>Menú desplegable para seleccionar la red.</p></figcaption></figure>
 
 ## ¿Por qué debería seleccionar otras redes?
 
-Antes de lanzar un proyecto (o Dapp) en la red principal de Ethereum, es una buena práctica desplegar una versión en una red de prueba de Ethereum o en otras redes principales (como Polygon o Harmony) para ahorrar en los costos de las tasas de transacción.
+Antes de lanzar un proyecto (o Dapp) en la red principal de Ethereum, es una buena práctica desplegar una versión en una red de prueba de Ethereum o en otras redes principales (como Polygon) para ahorrar en los costos de las tasas de transacción.
 
 ### Las ventajas de utilizar una red de pruebas
 
@@ -85,9 +84,7 @@ La principal razón para utilizar una ETH de testnet es que se puede obtener sin
 
 **Hay cuatro redes de prueba:**
 
-* Ropsten
-* Kovan
-* Rinkeby
+* Sepolia
 * Goerli
 
 {% hint style="warning" %}
