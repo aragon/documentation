@@ -50,26 +50,26 @@ En los dispositivos Trezor, inserte su pin directamente en el marco. Ahora deber
 
 ### **Red**
 
-Para elegir la red deseada, seleccione el botón de las _**tres flechas**_ en la esquina superior derecha. Esto le llevará al menú Marco, donde podrá configurar sus ajustes generales.
+Para elegir la red deseada, seleccione el botón del símbolo **de red** en la esquina superior derecha. Esto le llevará al menú Cadenas, donde podrá configurar sus ajustes generales.
+
+<figure><img src="../.gitbook/assets/1_Set Up Frame_Network.png" alt=""><figcaption></figcaption></figure>
+
+Siéntase libre de elegir cualquiera de las siguientes redes: **Mainnet, Goerli.**
 
 {% hint style="info" %}
-Nos centraremos en la opción _**Connection**_ _(Conexión)_.&#x20;
+En este tutorial seleccionaremos Goerli.
 {% endhint %}
 
-Siéntase libre de elegir cualquiera de las siguientes redes: **Rinkeby, Mainnet, Ropsten, Kovan.**
+<figure><img src="../.gitbook/assets/2_Set Up Frame_Select Network.png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
-For this tutorial we will select Rinkeby.
-{% endhint %}
-
-<figure><img src="../.gitbook/assets/frame-app-menu.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/3_Set Up Frame_Goerli Network.png" alt=""><figcaption></figcaption></figure>
 
 ### Cuentas
 
-El último paso es elegir su cuenta. Haga clic en el botón de _**Configuration** (Configuración)_. Lo encontrará a la derecha del icono de Ledger o Trezor. Haga clic en el botón _**Accounts** (Cuentas)_ que aparece debajo del icono. Esto mostrará un nuevo menú con las cuentas disponibles en su dispositivo para la red. Seleccione una con un poco de test-Ether.
+El último paso es elegir su cuenta. Haga clic en el botón de _**Configuration** (Configuración)_. Lo encontrará a la derecha del icono de Ledger o Trezor. Haga clic en el botón _**Accounts** (Cuentas)_ que aparece debajo del icono. Esto mostrará un nuevo menú con las cuentas disponibles en su dispositivo para la red. Seleccione una con un poco de GoerliEther.
 
 {% hint style="info" %}
-Si no tiene ninguno, puede solicitar un Faucet (grifo) Rinkeby [aquí](https://faucet.rinkeby.io) (disponible actualmente solo en inglés) o [aquí](https://faucets.chain.link/rinkeby) (disponible actualmente solo en inglés).
+Si no tiene ninguno, puede solicitar un Faucet (grifo) Goerli [aquí](https://goerli-faucet.mudit.blog/) (disponible actualmente solo en inglés) o [aquí](https://fauceth.komputing.org/?chain=5) (disponible actualmente solo en inglés).
 {% endhint %}
 
 En el menú de configuración también puedes gestionar los permisos de la Dapp que has concedido para esa cuenta en particular.&#x20;
