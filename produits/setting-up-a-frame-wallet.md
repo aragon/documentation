@@ -47,26 +47,26 @@ Sur les appareils Trezor, insérez votre broche directement sur Frame. Vous devr
 
 ### **Network**
 
-Pour choisir le réseau souhaité, sélectionnez le bouton à trois flèches dans le coin supérieur droit. Cela vous amènera au menu Cadre, où vous pourrez configurer ses paramètres généraux.
+Pour choisir le réseau souhaité, sélectionnez le bouton du symbole du réseau (comme indiqué dans l'image ci-dessous) dans le coin supérieur droit. Cela vous amènera au menu Chaînes, où vous pourrez configurer ses paramètres généraux.&#x20;
+
+<figure><img src="../.gitbook/assets/1_Set Up Frame_Network.png" alt=""><figcaption></figcaption></figure>
+
+N'hésitez pas à choisir l'un des réseaux suivants: **Mainnet, Goerli**.
 
 {% hint style="info" %}
-Nous allons nous concentrer sur l'option Connexion.&#x20;
+Pour ce tutoriel, nous allons choisir Goerli.
 {% endhint %}
 
-N'hésitez pas à choisir l'un des réseaux suivants : **Rinkeby, Mainnet, Ropsten, Kovan**.
+<figure><img src="../.gitbook/assets/2_Set Up Frame_Select Network.png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
-Pour ce tutoriel, nous allons choisir Rinkeby.
-{% endhint %}
-
-<figure><img src="../.gitbook/assets/frame-app-menu.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/3_Set Up Frame_Goerli Network.png" alt=""><figcaption></figcaption></figure>
 
 ### Comptes
 
-La dernière étape consiste à choisir votre compte. Cliquez sur le bouton _**Configuration**_. Vous le trouverez à droite de l'icône du grand livre ou de Trezor). Cliquez sur le bouton _**Accounts**_ (Comptes) qui apparaît sous l'icône. Cela affichera un nouveau menu avec les comptes disponibles sur votre appareil pour le réseau. Sélectionnez-en un avec un certain test-Ether.
+La dernière étape consiste à choisir votre compte. Cliquez sur le bouton _**Configuration**_. Vous le trouverez à droite de l'icône du grand livre ou de Trezor). Cliquez sur le bouton _**Accounts**_ (Comptes) qui apparaît sous l'icône. Cela affichera un nouveau menu avec les comptes disponibles sur votre appareil pour le réseau. Sélectionnez-en un avec un certain GoerliEther.
 
 {% hint style="info" %}
-Si vous n'en avez pas, vous pouvez demander un robinet Rinkeby [ici](https://faucet.rinkeby.io) (en anglais) ou [ici](https://faucets.chain.link/rinkeby).
+Si vous n'en avez pas, vous pouvez demander un robinet Goerli [ici](https://goerli-faucet.mudit.blog/) (en anglais) ou [ici](https://fauceth.komputing.org/?chain=5).
 {% endhint %}
 
 Dans le menu de configuration, vous pouvez également gérer les autorisations de Dapp que vous avez accordées pour ce compte particulier.
