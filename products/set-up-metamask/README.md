@@ -38,10 +38,9 @@ For creating and using an Aragon **Client DAO** you need to connect to one test 
 
 You can also create and interact to a DAO directly using command-line (in this case a bit dev skills are required), also in this case you need to connect to one test or one main network (the available networks are the same in the upper list).
 
-For creating or using an Aragon **Govern DAO** you need to connect to one test or one main network. You can choose from these blockchains:
+For creating or using an Aragon **Govern DAO** you need to connect to the main network:
 
 * [Ethereum Mainnet](getting-started-with-ethereum.md)
-* [Goerli Testnet](getting-started-with-rinkeby-testnet.md)
 
 Let's start to configure and understand the main futures of the metamask wallet and then you can pass to choose your favorite network.
 
