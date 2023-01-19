@@ -20,7 +20,7 @@
 * [Inicio rápido](productos/quickstart.md)
 * [Cómo configurar un monedero de Metamask](productos/set-up-metamask/README.md)
   * [Cómo empezar con Ethereum](productos/set-up-metamask/getting-started-with-ethereum.md)
-  * [Cómo empezar con Rinkeby Testnet](productos/set-up-metamask/getting-started-with-rinkeby-testnet.md)
+  * [Cómo empezar con Goerli Testnet](productos/set-up-metamask/getting-started-with-rinkeby-testnet.md)
   * [Cómo empezar con Polygon](productos/set-up-metamask/getting-started-with-polygon.md)
   * [Cómo empezar con Mumbai Testnet](productos/set-up-metamask/getting-started-with-mumbai-testnet.md)
   * [Cómo empezar con Harmony](productos/set-up-metamask/getting-started-with-harmony.md)
