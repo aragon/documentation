@@ -26,8 +26,6 @@ Agora você precisa carregar a sua carteira com _Ether_ de teste suficiente (abr
 * a implantação da sua organização
 * as interações dentro da sua organização
 
-> Informação importante: Observe que o símbolo do éter de teste é "ETH", o mesmo do éter da rede principal.
-
 #### Você pode reivindicar GoerliETH no _Faucet de_ _Goerli_: <a href="#you-can-claim-test-eth-on-the-rinkeby-faucet" id="you-can-claim-test-eth-on-the-rinkeby-faucet"></a>
 
 * [https://goerli-faucet.mudit.blog/](https://goerli-faucet.mudit.blog/)
