@@ -31,9 +31,7 @@ The ETH you send to this account is used to pay for gas whenever the Agent app i
 Open the Frame desktop app and click the _**plus-sign**_ button to add your acting account. You can add it using a hardware wallet or a hot wallet.
 
 {% hint style="info" %}
-In this example, we will use a hot wallet since we are using the Rinkeby Testnet\* and not real money on the Ethereum Mainnet. However, it is recommended that you use a hardware wallet.
-
-Note\*: The Rinkeby Testnet is deprecated but you can run the same example by chosing the Goerli Testnet instead of the Rinkeby testnet.
+In this example, we will use a hot wallet since we are using the Goerli Testnet and not real money on the Ethereum Mainnet. However, it is recommended that you use a hardware wallet.
 {% endhint %}
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/5d8bd9702c7d3a7e9ae1a220/file-wPNVEoD1j4.png)
