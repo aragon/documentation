@@ -31,9 +31,7 @@ O ETH que você envia para essa conta é usado para pagar o gás sempre que o _a
 Abra o aplicativo de desktop Frame e clique no botão _**de sinal**_ de adição para adicionar sua _conta de ação_. Você pode adicioná-lo usando uma carteira de hardware ou uma carteira quente.
 
 {% hint style="info" %}
-Neste exemplo, usaremos uma carteira quente, pois estamos usando o Rinkeby Testnet\* e não dinheiro real na Ethereum Mainnet. No entanto, é recomendável que você use uma carteira de hardware.\
-\
-\*Observação: O Rinkeby Testnet está desativado, mas você pode executar o mesmo exemplo escolhendo o Goerli Testnet em vez do Rinkeby testnet.
+Neste exemplo, usaremos uma carteira quente, pois estamos usando o Goerli Testnet\* e não dinheiro real na Ethereum Mainnet. No entanto, é recomendável que você use uma carteira de hardware.
 {% endhint %}
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/5d8bd9702c7d3a7e9ae1a220/file-wPNVEoD1j4.png)
