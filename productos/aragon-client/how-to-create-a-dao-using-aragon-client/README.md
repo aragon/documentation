@@ -7,7 +7,7 @@ description: >-
 # Cómo crear una DAO
 
 {% hint style="info" %}
-En esta sección, usted aprenderá a crear una DAO utilizando el Cliente Aragón. En el siguiente ejemplo utilizaremos la Rinkeby Network (Red Rinkeby).
+En esta sección, usted aprenderá a crear una DAO utilizando el Cliente Aragón. En el siguiente ejemplo utilizaremos la Goerli Network (Red Goerli).
 {% endhint %}
 
 ## Cómo crear una DAO
