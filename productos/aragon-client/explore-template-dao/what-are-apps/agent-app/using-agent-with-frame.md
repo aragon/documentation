@@ -31,7 +31,7 @@ El ETH que envíe a esta cuenta es utilizado para pagar el gas siempre que la Ag
 Abra la aplicación de escritorio de Frame y haga clic en el botón de _**plus-sign**_ (signo más) para añadir su cuenta en funcionamiento. Puede añadirla utilizando un hardware wallet (monedero hardware) o un hot wallet (monedero caliente).
 
 {% hint style="info" %}
-En este ejemplo, usaremos un hot wallet (monedero caliente) debido a que  estamos usando la Rinkeby Testnet y no dinero real en la Ethereum Mainnet. Sin embargo, se recomienda utilizar un hardware wallet (monedero hardware).
+En este ejemplo, usaremos un hot wallet (monedero caliente) debido a que  estamos usando la Goerli Testnet y no dinero real en la Ethereum Mainnet. Sin embargo, se recomienda utilizar un hardware wallet (monedero hardware).
 {% endhint %}
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/5d8bd9702c7d3a7e9ae1a220/file-wPNVEoD1j4.png)
