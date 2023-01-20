@@ -31,7 +31,7 @@ L'ETH que vous envoyez sur ce compte est utilisé pour payer l'essence chaque fo
 Ouvrez l'application de bureau Frame et cliquez sur le bouton _**plus-sign**_ (plus-signature) pour ajouter votre compte d'agent. Vous pouvez l'ajouter en utilisant un porte-monnaie matériel ou un porte-monnaie virtuel.
 
 {% hint style="info" %}
-Dans cet exemple, nous utiliserons un hot wallet puisque nous utilisons le Rinkeby Testnet et non de l'argent réel sur le Mainnet Ethereum. Cependant, il est recommandé d'utiliser un porte-monnaie matériel.
+Dans cet exemple, nous utiliserons un hot wallet puisque nous utilisons le Goerli Testnet et non de l'argent réel sur le Mainnet Ethereum. Cependant, il est recommandé d'utiliser un porte-monnaie matériel.
 {% endhint %}
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/5d8bd9702c7d3a7e9ae1a220/file-wPNVEoD1j4.png)
