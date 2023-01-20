@@ -7,7 +7,7 @@ description: >-
 # Comment créer une DAO
 
 {% hint style="info" %}
-Dans cette section, vous apprendrez à créer une DAO à l'aide du client Aragon. Dans l'exemple ci-dessous, nous utiliserons le réseau Rinkeby.
+Dans cette section, vous apprendrez à créer une DAO à l'aide du client Aragon. Dans l'exemple ci-dessous, nous utiliserons le réseau Goerli.
 {% endhint %}
 
 ## Comment créer une DAO
@@ -17,7 +17,7 @@ Dans cette section, vous apprendrez à créer une DAO à l'aide du client Aragon
 * Vérifiez que le compte du portefeuille est connecté (comme indiqué dans l'image), si non appuyez sur _**connect wallet**_ (connecter le portefeuille).
 
 {% hint style="danger" %}
-N'oubliez pas que vous aurez besoin de 0,2ETH (ou plus en fonction du trafic réseau) pour créer un DAO sur le réseau Ethereum. Il est donc recommandé d'utiliser un réseau de test (comme Rinkeby) pour créer votre première DAO. Pour plus d'informations sur la façon de se connecter à un réseau de test, cliquez [ici](../../set-up-metamask/getting-started-with-rinkeby-testnet.md).
+N'oubliez pas que vous aurez besoin de 0,2ETH (ou plus en fonction du trafic réseau) pour créer un DAO sur le réseau Ethereum. Il est donc recommandé d'utiliser un réseau de test (comme Goerli) pour créer votre première DAO. Pour plus d'informations sur la façon de se connecter à un réseau de test, cliquez [ici](../../set-up-metamask/getting-started-with-rinkeby-testnet.md).
 {% endhint %}
 
 ![Vérifiez la connexion du portefeuille.](<../../../.gitbook/assets/Schermata 2022-02-04 alle 18.42.46.png>)
