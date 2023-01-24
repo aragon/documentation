@@ -6,7 +6,7 @@ Being a DAO is great, but sometimes contracts with 'real world' entities are nee
 Cost to do this? Less than 5 USD!
 {% endhint %}
 
-n our example, you started a new Aragon DAO called Awesome Music, a decentralized Music Label. All is working well, you are collaborating with people online in different countries.
+In our example, you started a new Aragon DAO called Awesome Music, a decentralized Music Label. All is working well, you are collaborating with people online in different countries.
 
 But soon you find out that a musician of Classical Music insists on having a legal contract with your DAO Label instead of a token agreement.
 
