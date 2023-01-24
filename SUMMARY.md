@@ -49,7 +49,7 @@
       * [Aplicativo Votação](products/aragon-client/explore-template-dao/what-are-apps/voting-app.md)
       * [Aplicativo Finanças](products/aragon-client/explore-template-dao/what-are-apps/finance-app.md)
       * [Aplicativo Agente](products/aragon-client/explore-template-dao/what-are-apps/agent-app/README.md)
-        * [🏗 Como instalar o aplicativo Agente na sua DAO](products/aragon-client/explore-template-dao/what-are-apps/agent-app/como-instalar-o-aplicativo-agente-na-sua-dao.md)
+        * [Como instalar o aplicativo Agente na sua DAO](products/aragon-client/explore-template-dao/what-are-apps/agent-app/como-instalar-o-aplicativo-agente-na-sua-dao.md)
         * [Como usar o Agente com Frame](products/aragon-client/explore-template-dao/what-are-apps/agent-app/using-agent-with-frame.md)
     * [Configuração de sistema](products/aragon-client/explore-template-dao/system-setting/README.md)
       * [Configuração das Permissões](products/aragon-client/explore-template-dao/system-setting/permissions-setting.md)
