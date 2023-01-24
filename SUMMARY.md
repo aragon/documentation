@@ -60,6 +60,8 @@
       * [Changez votre quorum utilisant la console Aragon](produits/aragon-client/things-to-do-after-youve-started-a-dao/comment-changer-le-quorom-de-votre-dao/changez-votre-quorum-utilisant-la-console-aragon.md)
       * [Changez votre Quorum utilisant EVMcrispr](produits/aragon-client/things-to-do-after-youve-started-a-dao/comment-changer-le-quorom-de-votre-dao/changez-votre-quorum-utilisant-evmcrispr.md)
     * [Intégration juridique avec Otoco](produits/aragon-client/things-to-do-after-youve-started-a-dao/integration-juridique-avec-otoco.md)
+    * [🏗 How to create a Legal Wrapper for your DAO with Otoco](produits/aragon-client/things-to-do-after-youve-started-a-dao/how-to-create-a-legal-wrapper-for-your-dao-with-otoco.md)
+    * [🏗 How to Operate your DAO from your Mobile Phone](produits/aragon-client/things-to-do-after-youve-started-a-dao/how-to-operate-your-dao-from-your-mobile-phone.md)
   * [Comment ruiner votre DAO 🧱](produits/aragon-client/comment-ruiner-votre-dao.md)
 
 ## ‼ FAQ
