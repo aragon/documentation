@@ -59,6 +59,7 @@
     * [DAOのQuorum（定足数）を変更する方法](products/aragon-client/things-to-do-after-youve-started-a-dao/how-to-change-the-quorum-of-your-dao/README.md)
       * [AragonコンソールでQuorum（定足数）を変更する](products/aragon-client/things-to-do-after-youve-started-a-dao/how-to-change-the-quorum-of-your-dao/change-quorum-using-aragon-console.md)
       * [EVMcrisprでQuorum（定足数）を変更する](products/aragon-client/things-to-do-after-youve-started-a-dao/how-to-change-the-quorum-of-your-dao/change-quorum-using-evmcrispr.md)
+    * [🏗 How to create a Legal Wrapper for your DAO with Otoco](products/aragon-client/things-to-do-after-youve-started-a-dao/how-to-create-a-legal-wrapper-for-your-dao-with-otoco.md)
     * [Otocoで法規制に遵守する](products/aragon-client/things-to-do-after-youve-started-a-dao/legal-integration-with-otoco.md)
     * [法規制に適合したトークンの発行](products/aragon-client/things-to-do-after-youve-started-a-dao/adding-a-new-token-for-legal-integration.md)
   * [DAOの失敗ケース🧱](products/aragon-client/how-to-brick-your-dao.md)
