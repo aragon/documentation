@@ -59,6 +59,7 @@
     * [Cómo cambiar el Quórum de su DAO](productos/aragon-client/things-to-do-after-youve-started-a-dao/como-cambiar-el-quorum-de-su-dao/README.md)
       * [Cambiar Quórum usando Aragon Console](productos/aragon-client/things-to-do-after-youve-started-a-dao/como-cambiar-el-quorum-de-su-dao/cambiar-quorum-usando-aragon-console.md)
       * [Cambiar Quórum usando EVMcrispr](productos/aragon-client/things-to-do-after-youve-started-a-dao/como-cambiar-el-quorum-de-su-dao/cambiar-quorum-usando-evmcrispr.md)
+    * [🏗 How to create a Legal Wrapper for your DAO with Otoco](productos/aragon-client/things-to-do-after-youve-started-a-dao/how-to-create-a-legal-wrapper-for-your-dao-with-otoco.md)
     * [Integración legal con Otoco](productos/aragon-client/things-to-do-after-youve-started-a-dao/integracion-legal-con-otoco.md)
   * [Cómo ladrillar su DAO 🧱](productos/aragon-client/como-ladrillar-su-dao.md)
 
