@@ -59,8 +59,9 @@
     * [अपने डीएओ का कोरम कैसे बदलें](undefined-1/aragon-client/things-to-do-after-youve-started-a-dao/how-to-change-the-quorum-of-your-dao/README.md)
       * [आरागॉन कंसोल का उपयोग करके कोरम बदलें](undefined-1/aragon-client/things-to-do-after-youve-started-a-dao/how-to-change-the-quorum-of-your-dao/change-quorum-using-aragon-console.md)
       * [EVMcrispr का उपयोग करके कोरम बदलें](undefined-1/aragon-client/things-to-do-after-youve-started-a-dao/how-to-change-the-quorum-of-your-dao/change-quorum-using-evmcrispr.md)
-    * [🏗 How to create a Legal Wrapper for your DAO with Otoco](undefined-1/aragon-client/things-to-do-after-youve-started-a-dao/how-to-create-a-legal-wrapper-for-your-dao-with-otoco.md)
     * [ओटोको(Otoco) के साथ कानूनी एकीकरण](undefined-1/aragon-client/things-to-do-after-youve-started-a-dao/legal-integration-with-otoco.md)
+    * [🏗 How to create a Legal Wrapper for your DAO with Otoco](undefined-1/aragon-client/things-to-do-after-youve-started-a-dao/how-to-create-a-legal-wrapper-for-your-dao-with-otoco.md)
+    * [🏗 How to Operate your DAO from your Mobile Phone](undefined-1/aragon-client/things-to-do-after-youve-started-a-dao/how-to-operate-your-dao-from-your-mobile-phone.md)
   * [अपने डीएओ को ब्रिक कैसे करें 🧱](undefined-1/aragon-client/how-to-brick-your-dao.md)
 
 ## ‼ अक्सर पूछे जाने वाले प्रश्न
