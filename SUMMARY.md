@@ -33,6 +33,7 @@
   * [गैस ट्रैकर](undefined-1/set-up-metamask/gas-tracker.md)
 * [फ़्रेम स्थापित करें](undefined-1/setting-up-a-frame-wallet.md)
 * [मल्टीसिग वॉलेट सेट करना](undefined-1/multisig.md)
+* [🏗 Setting up a Gnosis Safe MultiSig Wallet](undefined-1/setting-up-a-gnosis-safe-multisig-wallet.md)
 * [आरागॉन क्लाइंट](undefined-1/aragon-client/README.md)
   * [आरागॉन क्लाइंट क्या है](undefined-1/aragon-client/about-aragon-client.md)
   * [डीएओ कैसे बनाएं](undefined-1/aragon-client/how-to-create-a-dao-using-aragon-client/README.md)
