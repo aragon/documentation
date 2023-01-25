@@ -33,6 +33,7 @@
   * [Rastreador de gas](productos/set-up-metamask/gas-tracker.md)
 * [Cómo crear un monedero Frame](productos/setting-up-a-frame-wallet.md)
 * [Configurar un monedero MultiSig](productos/multisig.md)
+* [🏗 Setting up a Gnosis Safe MultiSig Wallet](productos/setting-up-a-gnosis-safe-multisig-wallet.md)
 * [Aragon Client](productos/aragon-client/README.md)
   * [Qué es el Aragon Client (Cliente Aragon)](productos/aragon-client/about-aragon-client.md)
   * [Cómo crear una DAO](productos/aragon-client/how-to-create-a-dao-using-aragon-client/README.md)
