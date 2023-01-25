@@ -33,6 +33,7 @@
   * [ガストラッカー](products/set-up-metamask/gas-tracker.md)
 * [Frameウォレットの設定](products/setting-up-a-frame-wallet.md)
 * [マルチシグウォレットの設定](products/multisig.md)
+* [🏗 Setting up a Gnosis Safe MultiSig Wallet](products/setting-up-a-gnosis-safe-multisig-wallet.md)
 * [Aragon Client](products/aragon-client/README.md)
   * [Aragon Clientとは](products/aragon-client/about-aragon-client.md)
   * [DAOの作り方](products/aragon-client/how-to-create-a-dao-using-aragon-client/README.md)
