@@ -19,7 +19,7 @@ Although previously configurable, the token will now (and forever) closely mimic
 * All transfers are allowed, with no internal fee mechanisms
 * No functionality for blacklisting addresses
 
-In addition to the vanilla behaviour, it implemented a number of features that were intended be used when governing the Aragon Network:
+In addition to the vanilla behaviour, it implemented a number of features that were intended to be used when governing the Aragon Network:
 
 * Historical token balance records
 * Cloning, with balances from a specific block snapshot

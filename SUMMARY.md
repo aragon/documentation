@@ -95,25 +95,25 @@
   * [Acting as guardian for a dispute](products/aragon-court/acting-as-guardian-for-an-aragon-govern-dispute.md)
   * [Glossary](products/aragon-court/glossary.md)
 
-## THE TOKEN ANT
+## THE ANT TOKEN
 
-* [Aragon Network Token](the-token-ant/about-the-token/README.md)
-  * [About ANT](the-token-ant/about-the-token/about-ant.md)
-  * [Historical token sale](the-token-ant/about-the-token/historical-token-sale-information.md)
-* [ANTv1](the-token-ant/antv1/README.md)
-  * [Non-standard behaviours and gotchas](the-token-ant/antv1/antv1-non-standard-behaviours-and-gotchas.md)
-  * [About the MiniMe token](the-token-ant/antv1/antv1-about-the-minime-token.md)
-  * [The initial token sale flow](the-token-ant/antv1/the-initial-token-sale-flow.md)
-* [ANTv2](the-token-ant/upgrading-to-antv2/README.md)
-  * [Upgrade portal](the-token-ant/upgrading-to-antv2/upgrade-portal/README.md)
-    * [Troubleshooting](the-token-ant/upgrading-to-antv2/upgrade-portal/troubleshooting.md)
-  * [Contract interaction](the-token-ant/upgrading-to-antv2/contract-interaction.md)
-  * [Migrating on-chain liquidity](the-token-ant/upgrading-to-antv2/migrating-on-chain-liquidity.md)
-* [Developers](the-token-ant/developers/README.md)
-  * [Quick start](the-token-ant/developers/quick-start.md)
-  * [Integrating ANT](the-token-ant/developers/integrating-ant.md)
-  * [Historical deployments](the-token-ant/developers/historical-deployments.md)
-  * [Security policy](the-token-ant/developers/security.md)
+* [Aragon Network Token](the-ant-token/about-the-token/README.md)
+  * [About ANT](the-ant-token/about-the-token/about-ant.md)
+  * [Historical token sale](the-ant-token/about-the-token/historical-token-sale-information.md)
+* [ANTv1](the-ant-token/antv1/README.md)
+  * [Non-standard behaviours and gotchas](the-ant-token/antv1/antv1-non-standard-behaviours-and-gotchas.md)
+  * [About the MiniMe token](the-ant-token/antv1/antv1-about-the-minime-token.md)
+  * [The initial token sale flow](the-ant-token/antv1/the-initial-token-sale-flow.md)
+* [ANTv2](the-ant-token/upgrading-to-antv2/README.md)
+  * [Upgrade portal](the-ant-token/upgrading-to-antv2/upgrade-portal/README.md)
+    * [Troubleshooting](the-ant-token/upgrading-to-antv2/upgrade-portal/troubleshooting.md)
+  * [Contract interaction](the-ant-token/upgrading-to-antv2/contract-interaction.md)
+  * [Migrating on-chain liquidity](the-ant-token/upgrading-to-antv2/migrating-on-chain-liquidity.md)
+* [Developers](the-ant-token/developers/README.md)
+  * [Quick start](the-ant-token/developers/quick-start.md)
+  * [Integrating ANT](the-ant-token/developers/integrating-ant.md)
+  * [Historical deployments](the-ant-token/developers/historical-deployments.md)
+  * [Security policy](the-ant-token/developers/security.md)
 
 ## ‼ FAQ
 

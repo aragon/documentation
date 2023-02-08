@@ -8,7 +8,7 @@ Added together with ANT sold in the pre-sale, ANT granted to the Aragon Institut
 
 You can read more related information about the token sale here:
 
-* [Aragon Network token sale terms](https://blog.aragon.org/aragon-network-token-sale-terms-8998f63a3429)
+* [Aragon Network Token sale terms](https://blog.aragon.org/aragon-network-token-sale-terms-8998f63a3429)
 * [Pre-sale transparency report](https://blog.aragon.org/pre-sale-transparency-report-333e310304c/)
 * [The Aragon token sale: the numbers](https://blog.aragon.org/the-aragon-token-sale-the-numbers-12d03c8b97d3/)
 
