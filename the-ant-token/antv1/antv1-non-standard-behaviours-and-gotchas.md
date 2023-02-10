@@ -1,14 +1,14 @@
 # Non-standard behaviours and gotchas
 
 {% hint style="warning" %}
-On this page, you can read some **specific behaviours encoded** into ANTv1 that may be useful to be aware of, even when not programmatically interacting with the contract.
+On this page, you will find **specific behaviours encoded** into ANTv1 that may be useful to be aware of, even when not programmatically interacting with the contract.
 
 > **This page contains technical information. It is provided for advanced users.**&#x20;
 {% endhint %}
 
 ## Gas
 
-Because ANTv1 includes historical balance records for each address, t**oken transfers are slightly more expensive** than some other tokens.
+Because ANTv1 includes historical balance records for each address, **token transfers are slightly more expensive** than some other tokens.
 
 The exact amount per transfer will differ between hardfork environments and whether the receiver has previously held an ANTv1 balance before, but it is safe to **start with a gas limit of 150,000** and optimize lower over time.
 
@@ -18,7 +18,7 @@ The ANTv1 contract reverts when attempting to modify an allowance (calling `ANT.
 
 To successfully change an allowance in this circumstance, you must first ask the user to reset their allowance for that spender to zero (`ANT.approve(0)`), and then to the amount desired.
 
-It useful to note that this behaviour is considered non-standard for ERC20s, and may lead to problems if ANTv1 is used by a contract that is not designed to handle this behaviour.
+It is useful to note that this behaviour is considered non-standard for ERC20s, and may lead to problems if ANTv1 is used by a contract that is not designed to handle this behaviour.
 
 ## Initially vested tokens
 

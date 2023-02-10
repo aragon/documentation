@@ -28,7 +28,7 @@ If you have provided liquidity to any of the popular ANT liquidity pools on-chai
 
 Go ahead and smash that _Upgrade ANTv1 -> ANTv2_ button to get started on upgrading!
 
-You should now see this interface to select how much you'd like to upgrade:
+You should now see this interface to select how much you would like to upgrade:
 
 <figure><img src="../../../.gitbook/assets/upgrade portal 5.png" alt=""><figcaption></figcaption></figure>
 
@@ -44,9 +44,9 @@ Continuing further, you'll now be prompted to sign the transactions that will fa
 
 <figure><img src="../../../.gitbook/assets/upgrade portal 7.png" alt=""><figcaption></figcaption></figure>
 
-> Note that you may need to sign multiple transactions to reset your ANT approval if you've previously used the interface before or interacted directly with the contract using the currently connected wallet.
+> Note that you may need to sign multiple transactions to reset your ANT approval if you have previously used the interface before or interacted directly with the contract using the currently connected wallet.
 
-Once you've signed the transaction(s), you should now see the success screen:
+Once you have signed the transaction(s), you should now see the success screen:
 
 <figure><img src="../../../.gitbook/assets/upgrade portal 8.png" alt=""><figcaption></figcaption></figure>
 
@@ -54,7 +54,7 @@ Once you've signed the transaction(s), you should now see the success screen:
 **🎉 Congratulations, you're done! 🍾**
 {% endhint %}
 
-If you have other accounts holding ANTv1, you may now go back and repeat this flow.
+If you have other accounts holding ANTv1, you may now go back and repeat this process.
 
 
 

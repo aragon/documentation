@@ -23,13 +23,13 @@ When a wallet upgrades its ANT balance through an on-chain interaction with this
 
 1. `ANTv2Migrator` pulls the requested amount of ANTv1 from the wallet's balance into its own balance
 2. `ANTv2Migrator` burns the pulled ANTv1 by transferring it to [`0x000000000000000000000000000000000000dEaD`](https://etherscan.io/address/0x000000000000000000000000000000000000dead)
-3. From its own balance, `ANTv2Migrator` sends the equivalent amount of ANTv2 back to the wallet's balance
+3. From its own balance, `ANTv2Migrator` sends the equivalent amount of ANTv2 back to the wallet
 
 ## Interacting with the `ANTv2Migrator`
 
 ### `approveAndCall()`
 
-The simplest approach to completing the migration is by sending a single transaction, calling `ANTv1.approveAndCall()`. `approveAndCall()` allows you to create an allowance to a contract and spend it in the same transaction.
+The simplest approach to completing the migration is by sending a single transaction. Calling `ANTv1.approveAndCall()`. `approveAndCall()` allows you to create an allowance to a contract and spend it in the same transaction.
 
 To create such a call, you may pull out your favourite tool and use the following ABI:
 
@@ -51,7 +51,7 @@ Next, take the encoded data:
 
 <figure><img src="../../.gitbook/assets/contract interaction 2.png" alt=""><figcaption></figcaption></figure>
 
-In the above screenshot, I've specified to only upgrade one (1) ANTv1.
+In the above screenshot, we have specified to only upgrade one (1) ANTv1.
 
 You may now take this data and use it in a transaction where the `to` address is `0x960b236A07cf122663c4303350609A66A7B288C0` (this is ANTv1's address).
 
@@ -68,7 +68,7 @@ For contract-based smart accounts and multisig wallets, they will typically have
 Specify those accordingly based on the above output.
 {% endhint %}
 
-If you'd prefer to use **Etherscan,** you may submit the above arguments directly to their [ANTv1 contract interface](https://etherscan.io/address/0x960b236a07cf122663c4303350609a66a7b288c0#writeContract):
+If you would prefer to use **Etherscan,** you may submit the above arguments directly to their [ANTv1 contract interface](https://etherscan.io/address/0x960b236a07cf122663c4303350609a66a7b288c0#writeContract):
 
 <figure><img src="../../.gitbook/assets/contract interaction 3.png" alt=""><figcaption></figcaption></figure>
 
@@ -76,10 +76,8 @@ If you'd prefer to use **Etherscan,** you may submit the above arguments directl
 
 If you prefer to not use an `approveAndCall()` transaction, you can upgrade in two steps by first creating an allowance (through `ANTv1.approve()`) for at least the amount desired to the migration contract at `0x078BEbC744B819657e1927bF41aB8C74cBBF912D`, and then calling one of:
 
-* `migrate(uint256)`: Allows you to directly specify how much you'd like to upgrade
-* `migrateAll()`: Assumes you want to upgrade all of your balance (and that you've set an appropriate allowance)
-
-On the migration contract.
+* `migrate(uint256)`: Allows you to directly specify how much you would like to upgrade
+* `migrateAll()`: Assumes you want to upgrade all of your balance (and that you have set an appropriate allowance)
 
 ### Using an `EscrowANTv2Migrator` contract
 

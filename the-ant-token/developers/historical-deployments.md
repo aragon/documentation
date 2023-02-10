@@ -1,6 +1,6 @@
 # Historical deployments
 
-Log of deployed Ethereum smart contracts related to ANT.
+List of deployed Ethereum smart contracts related to ANT:
 
 ### ANTv2
 

@@ -73,7 +73,7 @@ The cloning functionality allows for incredibly powerful functionality, effectiv
 4. Generating a token that can be used to give explicit support to an action or a campaign, like polling.
 5. Generating a token to enable the token holders to collect daily, monthly or yearly payments.
 6. Generating a token to limit participation in a token sale or similar event to holders of a specific token.
-7. Generating token that allows a central party complete control to transfer/generate/destroy tokens at will.
-8. Lots of other applications including all the applications the standard ERC20 token can be used for.
+7. Generating a token that allows a central party complete control to transfer/generate/destroy tokens at will.
+8. Many other applications, including all the applications the standard ERC20 token can be used for.
 
 All these applications and more are enabled by the MiniMe token contract. The most amazing part being that anyone who wants to add these features has the ability to, in a permissionless yet safe manner without affecting the parent token's intended functionality.

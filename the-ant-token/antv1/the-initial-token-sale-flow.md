@@ -1,7 +1,7 @@
 # The initial token sale flow
 
 {% hint style="warning" %}
-In this page, you can read some specific information about the **initial token sale flow.**
+In this page, you will find specific information about the **initial token sale flow.**
 
 > **This page contains technical information. It is provided for advanced users.**
 {% endhint %}
@@ -27,7 +27,7 @@ _Note: gas amounts are calculated for May 2017 and parameters chosen for ANTv1._
 
 #### 2. `sale.setANT()` – 95,427 gas
 
-`setANT()` needs to called from the Aragon Multisig. Its parameters are:
+`setANT()` needs to be called from the Aragon Multisig. Its parameters are:
 
 * ANT: An empty deployed instance of ANTv1.
 * ANPlaceholder: An Aragon Network placeholder contract with references to the `AragonTokenSale` and `ANT`.
@@ -42,19 +42,19 @@ After `deployANT()` has been called, the sale contract will have two public addr
 
 The sale will be the token controller during the sale. After the sale it will be the `networkPlaceholder`.
 
-Aragon Dev will at this point prove the source code of the contracts in blockchain explorers.
+Aragon Dev will at this point prove the source code of the contracts using blockchain explorers.
 
 ## Presale
 
 The presale is the period between full sale instantiation to the initialBlock of the sale.
 
-During the presale it is required that the sale is activated, failing to activate the sale during this period, will cause the sale to never start.
+During the presale it is required that the sale is activated, failing to activate the sale during this period will cause the sale to never start.
 
 #### 3. `sale.allocatePresaleTokens()` – 209,075 gas
 
 Aragon Dev will be able to allocate at its own discretion as many presale tokens as needed before the sale is activated.
 
-Aragon Dev will only issue presale token to presale partners that took part in a private sale done for gathering the funds needed for the sale.
+Aragon Dev will only issue presale tokens to presale partners that took part in a private sale done for gathering the funds needed for the sale.
 
 Presale tokens have cliff and vesting for avoiding market dumps.
 
@@ -100,15 +100,15 @@ The after sale period is considered from the final block (inclusive) until the s
 
 #### 9. `sale.finalizeSale()` – 105,348 gas
 
-This method will mint an additional 3/7 of tokens so at the end of the sale Aragon Dev will own 30% of all the ANTv1 supply.
+This method will mint an additional 3/7 of tokens so that at the end of the sale Aragon Dev will own 30% of all the ANTv1 supply.
 
-In the process of doing so, it will make the ANPlaceholder the controller of the token contract. Which will make the token supply be constant until the Aragon Network is deployed and it implements a new minting policy.
+In the process of doing so, it will make the ANPlaceholder the controller of the token contract. Which will make the token supply constant until the Aragon Network is deployed and it implements a new minting policy.
 
 #### 10. `sale.deployNetwork()` – 22,338 gas
 
 After the sale is finalized, the Community Multisig will eventually be able to provide the address of an already deployed Aragon Network.
 
-The ANPlaceholder will transfer its Token Controller power of ANTv1 to the deployed Aragon Network, allowing the Network to mint further tokens if the Network's governance decides so.
+The ANPlaceholder will transfer its Token Controller power of ANTv1 to the deployed Aragon Network, allowing the Network to mint further tokens if the Network's governance decides to do so.
 
 The sale contract is now selfdestructed in favor of the Aragon Network, though it shouldn't have any ether.
 

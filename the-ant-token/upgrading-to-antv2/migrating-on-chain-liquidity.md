@@ -7,7 +7,7 @@ ANTv1's on-chain liquidity has historically been concentrated across two platfor
 
 ## Uniswap
 
-1. Withdraw any ANTv1 liquidity you've provided. In our example, from the [ANTv1/ETH UniswapV2 pool:](https://app.uniswap.org/#/pool/v2)
+1. Withdraw any ANTv1 liquidity you have provided. See the example below as we are using the [ANTv1/ETH UniswapV2 pool:](https://app.uniswap.org/#/pool/v2)
 
 <figure><img src="../../.gitbook/assets/migrating 1.png" alt=""><figcaption></figcaption></figure>
 
@@ -17,7 +17,7 @@ ANTv1's on-chain liquidity has historically been concentrated across two platfor
 
 ## Balancer
 
-1. Withdraw any ANTv1 liquidity you've provided. In our example, from the [ANTv1/WETH 80:20 pool](https://pools.balancer.exchange/#/pool/0x2cf9106faf2c5c8713035d40df655fb1b9b0f9b9/):
+1. Withdraw any ANTv1 liquidity you have provided. In our example, from the [ANTv1/WETH 80:20 pool](https://pools.balancer.exchange/#/pool/0x2cf9106faf2c5c8713035d40df655fb1b9b0f9b9/):
 
 <figure><img src="../../.gitbook/assets/migrating 2.png" alt=""><figcaption></figcaption></figure>
 
