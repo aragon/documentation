@@ -22,8 +22,3 @@ Concretely, the Agent app allows for things like:
 * Members of DAOs to identify themselves as their DAO when using any Ethereum dApp.
 * An Aragon DAO to participate as a stakeholder in another DAO.
 
-
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/c/dev-support/20" %}

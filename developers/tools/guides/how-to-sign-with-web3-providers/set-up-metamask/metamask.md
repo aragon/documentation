@@ -86,8 +86,3 @@ Now, if you go back to you're first DAO you should see that the counter has fina
 If you've made it all the way here, well done! You've just signed your first blockchain transaction with Metamask. 🎉🎉😊
 {% endhint %}
 
-
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/c/dev-support/20" %}

@@ -20,11 +20,11 @@ Since we will import a new private key, for a security reason, save the seed phr
 
 You should see a black drop-down menu appear _(see image below):_
 
-__![](<../../../../../.gitbook/assets/Screenshot 2022-04-25 at 13.06.32 (1).png>)__
+![](<../../../../../.gitbook/assets/Screenshot 2022-04-25 at 13.06.32 (1).png>)
 
 ## Click on the _Import Account_ button
 
-Click the _Import Account_ button __ and __ a window like this will appear.
+Click the _Import Account_ button and a window like this will appear.
 
 ![](<../../../../../.gitbook/assets/Schermata 2022-06-14 alle 10.49.39.png>)
 
@@ -41,7 +41,7 @@ The private key that you are importing is provided in the console by the Aragon 
 
 In our example, we have imported:
 
-> **Account** 0 ****&#x20;
+> **Account** 0&#x20;
 >
 > **private key** 0xa8a54b2d8197bc0b19bb8a084031be71835580a01e70a45a13babd16c9bc1563
 >
@@ -55,8 +55,3 @@ The imported account will appear in the _My account list_ when clicking on the t
 You've now connected Metamask to your _first-dao_.
 {% endhint %}
 
-
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/c/dev-support/20" %}

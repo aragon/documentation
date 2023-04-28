@@ -53,8 +53,3 @@ These are the points at which our components and content will respond to provide
 
 <figure><img src="../../../../.gitbook/assets/responsive3.svg" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:purple;">****</mark>
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/c/dev-support/20" %}

@@ -1,7 +1,7 @@
 # Global configuration
 
 {% hint style="info" %}
-The <mark style="color:blue;">arapp.json file</mark> **** contains metadata for your app, and the <mark style="color:blue;">manifest.json</mark> defines end-user specific configurations.
+The <mark style="color:blue;">arapp.json file</mark> contains metadata for your app, and the <mark style="color:blue;">manifest.json</mark> defines end-user specific configurations.
 {% endhint %}
 
 ## The arapp.json file
@@ -113,8 +113,3 @@ The manifest.json defines end-user specific configurations:
 * `script`: (optional) Background script path.
 * `start_url`: Path to the starting URL.
 
-
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/c/dev-support/20" %}

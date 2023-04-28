@@ -88,8 +88,3 @@ Additional colors are used for data visualization, illustrations, and iconograph
 
 <figure><img src="../../../../.gitbook/assets/aesthetics.svg" alt=""><figcaption></figcaption></figure>
 
-
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/c/dev-support/20" %}

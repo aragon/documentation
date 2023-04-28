@@ -80,8 +80,3 @@ You might also want to know more about Aragon as a platform. In that case, we re
 
 
 
-
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/c/dev-support/20" %}

@@ -45,8 +45,3 @@ Fetch the app’s roles.
 | ------- | ----------------- | --------------------------------------- |
 | returns | `Promise<Role[]>` | A promise resolving to the app’s roles. |
 
-
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/c/dev-support/20" %}

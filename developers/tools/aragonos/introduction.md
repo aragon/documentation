@@ -29,8 +29,3 @@ All the above makes it very simple for aragonOS apps to incorporate **governance
 :white\_check\_mark: [aragonOS API](https://hack.aragon.org/docs/kernel\_Kernel.html)\
 :white\_check\_mark: [Introducing aragonOS 3.0](https://blog.aragon.org/introducing-aragonos-3-0-alpha-the-new-operating-system-for-protocols-and-dapps-348f7ac92cff/)
 
-
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/c/dev-support/20" %}

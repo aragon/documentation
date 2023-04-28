@@ -236,8 +236,3 @@ We also recommend that all state-changing functionality in an application should
 We officially build and maintain a number of Aragon apps ourselves, that implement the basic functionalities to manage organizations. These apps are released alongside every Aragon release and are a good reference of how to build Aragon apps. You can view their code in the [aragon/aragon-apps](https://github.com/aragon/aragon-apps) repo.
 
 \
-
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/c/dev-support/20" %}

@@ -26,8 +26,3 @@ Then, upgrading an app is as easy as:
     kernel.setApp(kernel.APP_BASES_NAMESPACE(), appId, newAppCodeAddr)
 ```
 
-
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/c/dev-support/20" %}

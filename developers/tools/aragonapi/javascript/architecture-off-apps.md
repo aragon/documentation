@@ -100,9 +100,3 @@ Reads or sets a key in the cache.
 **Response**
 
 **Result**: `[value: any]`
-
-``
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/c/dev-support/20" %}

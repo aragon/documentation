@@ -115,8 +115,3 @@ The long description will be shown in your app's expanded App Center page. We re
 
 :white\_check\_mark: You can use Markdown for rich text
 
-
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/c/dev-support/20" %}

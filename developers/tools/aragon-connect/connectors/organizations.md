@@ -38,7 +38,7 @@ Perform a GraphQL query.
 | `args`  | `any = {}`             | Arguments to pass to fields in the query.         |
 | returns | `Promise<QueryResult>` | Query result data.                                |
 
-****
+
 
 **GraphQLWrapper#performQueryWithParser(query, args, parser)**
 
@@ -62,7 +62,7 @@ Create a GraphQL subscription.
 | `callback` | `(error: Error, result: QueryResult) => void` | Callback function call on every data update.      |
 | returns    | `{ unsubscribe: () => void }`                 | Subscription handler.                             |
 
-****
+
 
 **GraphQLWrapper#subscribeToQueryWithParser(query, args, callback, parser)**
 
@@ -84,8 +84,3 @@ The Subgraph schema defines all of the available entities and attributes. It may
 
 
 
-
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/c/dev-support/20" %}

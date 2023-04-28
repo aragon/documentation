@@ -390,11 +390,11 @@ token
 
 Returns [**Object**](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global\_Objects/Object): An external smart contract handle, containing the following methods:
 
-* `events(options)`: returns a multi-emission observable with individual events found, similar to [`events`](app-api.md#events)``
-* `pastEvents(options)`: returns a single-emission observable with an array of events found in past blocks, similar to [`pastEvents`](app-api.md#pastevents)``
+* `events(options)`: returns a multi-emission observable with individual events found, similar to [`events`](app-api.md#events)
+* `pastEvents(options)`: returns a single-emission observable with an array of events found in past blocks, similar to [`pastEvents`](app-api.md#pastevents)
 * Any other method on the handle will respond based on the given contract ABI:
   * Calling any `constant` method (e.g. `view`, `pure`) will send a call to the smart contract and return a single emission observable with the result
-  * Calling any `non-constant` method will send an "external intent" to prompt a real transaction to the smart contract and return a single emission observable with the signature status (signed or not; similar to [`intents`](app-api.md#intents)``
+  * Calling any `non-constant` method will send an "external intent" to prompt a real transaction to the smart contract and return a single emission observable with the signature status (signed or not; similar to [`intents`](app-api.md#intents)
 
 #### requestSignMessage <a href="#requestsignmessage" id="requestsignmessage"></a>
 
@@ -571,8 +571,3 @@ Search for identities that match a given search term.
 
 Returns [**Observable**](https://rxjs-dev.firebaseapp.com/api/index/class/Observable): A single-emission observable that emits with an array of any matching identities.
 
-
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/c/dev-support/20" %}

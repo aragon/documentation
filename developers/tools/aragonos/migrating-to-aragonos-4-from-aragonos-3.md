@@ -140,8 +140,3 @@ This is not only cheaper but also makes inspection and debugging much easier as 
 
 As pointed out at [Devcon 3](https://www.youtube.com/watch?v=sJ7VECqHFAg\&feature=youtu.be\&t=9m27s), mappings of structs are much easier to upgrade at later dates than arrays of structs because the data isn't packed tightly. All aragonOS internal and official aragon apps now use this pattern of emulating arrays through mappings.
 
-
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/c/dev-support/20" %}

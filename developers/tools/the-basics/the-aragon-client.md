@@ -20,8 +20,3 @@ It looks like this:&#x20;
 
 ![The Aragon Client](https://raw.githubusercontent.com/aragon/aragon-wiki/master/docs/media/press/press-kit/screenshots/0.5/aragon\_core\_v05\_beta\_home04.png)
 
-<mark style="color:purple;">****</mark>
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/c/dev-support/20" %}

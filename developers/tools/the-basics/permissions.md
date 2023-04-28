@@ -34,8 +34,3 @@ With the simple mapping in the table above, we have done the following:
 We have achieved a fully democratic way of withdrawing funds in Ethereum! :tada:
 {% endhint %}
 
-<mark style="color:purple;">****</mark>
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/c/dev-support/20" %}

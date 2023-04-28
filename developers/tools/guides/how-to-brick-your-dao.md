@@ -46,8 +46,3 @@ It's easy to make fatal mistakes, always double-check the details when making tr
 **Again don't try this at home!** This guide is meant to make you aware of some of the mistakes you can make which will **brick** 🧱 (ruin) your DAO.
 {% endhint %}
 
-
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/c/dev-support/20" %}

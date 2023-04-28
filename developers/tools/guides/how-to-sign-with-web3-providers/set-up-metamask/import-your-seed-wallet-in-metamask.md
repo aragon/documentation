@@ -20,7 +20,7 @@ Since we will import a new seed phrase, save the seed phrase of your current Met
 
 You should see a black drop-down menu appear _(see image below):_
 
-__![](<../../../../../.gitbook/assets/Screenshot 2022-04-25 at 13.06.32 (1).png>)__
+![](<../../../../../.gitbook/assets/Screenshot 2022-04-25 at 13.06.32 (1).png>)
 
 ## Click on the _Lock_ button in the top right off this menu
 
@@ -68,8 +68,3 @@ The imported account will appear in the _My account list_ when clicking on the t
 You've now connected Metamask to your _first-dao_.
 {% endhint %}
 
-
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/c/dev-support/20" %}

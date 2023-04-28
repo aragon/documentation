@@ -57,8 +57,3 @@ It is extremely important to respect the kernings and the text lines in order to
 
 <figure><img src="../../../../.gitbook/assets/correct-typo-4.svg" alt=""><figcaption></figcaption></figure>
 
-
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/c/dev-support/20" %}

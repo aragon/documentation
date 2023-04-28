@@ -60,7 +60,3 @@ Finally, if you click on the "View details" button, Frame will open the transact
 
 
 
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/t/about-the-dev-support-category/124" %}
-

@@ -7,7 +7,7 @@ In this section, you will learn how to set up a Metamask wallet and how to confi
 {% hint style="success" %}
 #### We recommend using [Metamask](https://metamask.io/) as your Web3 wallet.&#x20;
 
-Metamask is a browser plugin that lets you make Ethereum (and other blockchains) transactions through regular websites. ****&#x20;
+Metamask is a browser plugin that lets you make Ethereum (and other blockchains) transactions through regular websites.&#x20;
 {% endhint %}
 
 {% hint style="warning" %}
@@ -77,8 +77,3 @@ Finally, you can also interact with private Ethereum networks by selecting **Loc
 Remember that if you want to use different networks, you need to set up your wallet and load your wallet with enough funds for paying the transaction fees.&#x20;
 {% endhint %}
 
-
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/c/dev-support/20" %}

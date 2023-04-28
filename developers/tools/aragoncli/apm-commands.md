@@ -105,8 +105,3 @@ aragon apm grant [addr1 ... addrN]
 
 * `addresses`: The addresses being granted the permission to publish to the repo.
 
-
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/c/dev-support/20" %}

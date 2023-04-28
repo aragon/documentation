@@ -17,7 +17,7 @@ For more support about using Windows go [here](../guides/troubleshooting-and-faq
 First off, we need to be sure we have the right version of Node.js installed to prevent errors.
 
 {% hint style="danger" %}
-Dependencies of aragonCLI are constantly [updated](https://github.com/aragon/aragon-cli/pulls?q=) which result in Node version errors. Use [**NVM**](https://techstacker.com/run-multiple-node-versions-node-nvm/) **** to install and select the right Node version. For compatibility across OS use **`Node v12.7 LTS`** version.
+Dependencies of aragonCLI are constantly [updated](https://github.com/aragon/aragon-cli/pulls?q=) which result in Node version errors. Use [**NVM**](https://techstacker.com/run-multiple-node-versions-node-nvm/) to install and select the right Node version. For compatibility across OS use **`Node v12.7 LTS`** version.
 
 
 
@@ -153,8 +153,3 @@ Done! We hope you enjoyed that 😊!&#x20;
 
 Now that you’ve built your first DAO, feel free to take a look at the docs. If you're interested in understanding things at a deeper level go ahead to this [tutorial](../guides/your-first-aragon-app.md)!&#x20;
 
-
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/c/dev-support/20" %}

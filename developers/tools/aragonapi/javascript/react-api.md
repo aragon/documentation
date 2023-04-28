@@ -324,9 +324,3 @@ This Hook returns an array holding two values from the `useAragonApi()` hook:
 
 1. `path`, and
 2. `requestPath`
-
-``
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/c/dev-support/20" %}

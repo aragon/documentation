@@ -63,7 +63,7 @@ Initialise the wrapper.
 **Parameters**
 
 * `options` [**Object**](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global\_Objects/Object) An optional options object for configuring the wrapper.
-  * `accounts` [**Array**](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global\_Objects/Array)**\<string>** Options object for [`initAccounts()`](wrapper.md#initaccounts)``
+  * `accounts` [**Array**](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global\_Objects/Array)**\<string>** Options object for [`initAccounts()`](wrapper.md#initaccounts)
 
 Returns [**Promise**](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global\_Objects/Promise)**\<void>**
 
@@ -232,8 +232,3 @@ Set the current GUI style of the client to the apps.
 
 Returns **void.**
 
-****
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/c/dev-support/20" %}

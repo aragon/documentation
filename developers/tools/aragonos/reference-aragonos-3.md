@@ -46,7 +46,7 @@ This results in purely technical benefits such as testability, but it is also ve
 
 <figure><img src="../../../.gitbook/assets/os-app-call (1).gif" alt=""><figcaption></figcaption></figure>
 
-__
+
 
 ## _Kernel_ <a href="#kernel-1" id="kernel-1"></a>
 
@@ -364,8 +364,3 @@ EVMScripts are very powerful and risk causing security breaches! For example, th
 
 {% endhint %}
 
-
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/c/dev-support/20" %}

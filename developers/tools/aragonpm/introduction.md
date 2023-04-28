@@ -29,8 +29,3 @@ To get more experience with creating a custom DAO from the command line (aragonC
 3. [Guide others to install your app from an aragonPM registry](../guides/custom-deploy.md), and finally,
 4. [Submit your app to the Aragon Client's App Center](../app-center/submitting-your-app-to-the-app-center.md)
 
-
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/c/dev-support/20" %}

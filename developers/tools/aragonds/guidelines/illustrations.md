@@ -92,8 +92,3 @@ It’s our duty to fight for breaking down gender identity and ethnic stereotype
 
 <figure><img src="../../../../.gitbook/assets/sex-integration.svg" alt=""><figcaption></figcaption></figure>
 
-
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/c/dev-support/20" %}

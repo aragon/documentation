@@ -99,29 +99,24 @@ export default createAppConnector(
 
 Parameters passed to the `createAppConnector()` callback:
 
-| Name        | Type                                 | Description                                                                                                                                                                                 |
-| ----------- | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `app`       | ``[`App`](../api-reference/app.md)`` | The App instance passed to the connector.                                                                                                                                                   |
-| `connector` | `String`                             | The identifier of the main connector, as defined in `connect()`. It is indicative: app connectors can use it to use the same mechanism on their side. For now, it can only be `"thegraph"`. |
-| `network`   | `String`                             | The current network, as defined in `connect()`. App connectors should follow it or throw an error, as connecting to a different network will create unexpected results.                     |
-| `verbose`   | `Boolean`                            | The verbosity status, as defined in `connect()`. It is indicative and app connectors might choose to ignore it.                                                                             |
-| `config`    | `Object`                             | A configuration object passed to your connector by `appConnect()` (see below).                                                                                                              |
+| Name        | Type                             | Description                                                                                                                                                                                 |
+| ----------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `app`       | [`App`](../api-reference/app.md) | The App instance passed to the connector.                                                                                                                                                   |
+| `connector` | `String`                         | The identifier of the main connector, as defined in `connect()`. It is indicative: app connectors can use it to use the same mechanism on their side. For now, it can only be `"thegraph"`. |
+| `network`   | `String`                         | The current network, as defined in `connect()`. App connectors should follow it or throw an error, as connecting to a different network will create unexpected results.                     |
+| `verbose`   | `Boolean`                        | The verbosity status, as defined in `connect()`. It is indicative and app connectors might choose to ignore it.                                                                             |
+| `config`    | `Object`                         | A configuration object passed to your connector by `appConnect()` (see below).                                                                                                              |
 
 #### appConnect(app, connector)
 
 The function returned by `createAppConnector()`, called by app authors. It takes these parameters:
 
-| Name        | Type                                 | Description                                                                                                                                                                      |
-| ----------- | ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `app`       | ``[`App`](../api-reference/app.md)`` | An app instance, generally returned by `Organization#app()` or `Organization#apps()`.                                                                                            |
-| `connector` | `[String, Object]` or `String`       | Accepts a string describing the main source of your connector (e.g. `"thegraph"`). In its array form, it also accepts a configuration object that gets passed to your connector. |
+| Name        | Type                             | Description                                                                                                                                                                      |
+| ----------- | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `app`       | [`App`](../api-reference/app.md) | An app instance, generally returned by `Organization#app()` or `Organization#apps()`.                                                                                            |
+| `connector` | `[String, Object]` or `String`   | Accepts a string describing the main source of your connector (e.g. `"thegraph"`). In its array form, it also accepts a configuration object that gets passed to your connector. |
 
 ## Troubleshooting
 
 For Subgraph related errors, see the [troubleshooting](writing-an-app-connector.md#troubleshooting) section in our app Subgraph documentation.
 
-
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/c/dev-support/20" %}

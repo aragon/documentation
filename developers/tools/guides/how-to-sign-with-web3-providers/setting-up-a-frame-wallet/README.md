@@ -26,7 +26,7 @@ Start by downloading Frame from the official website: [https://frame.sh](https:/
 
 To import your Metamask wallet into Frame:
 
-* Click on the _**+**_** ** button in the Accounts bar in top of the wallet.
+* Click on the _**+**_ button in the Accounts bar in top of the wallet.
 * Click on the _**add new accounts**_ button in the frame which pop-ups on the right.
 * Click on the _**seed phrase**_ button.
 * Copy and paste the seed phrase from your Metamask wallet and click _**next** (see image below)._
@@ -84,8 +84,3 @@ In the configuration menu you can also manage the Dapp permissions you have gran
 You are now finished setting up Frame for your device and ready to sign your first transaction.
 {% endhint %}
 
-
-
-> #### <mark style="color:purple;">Do you have a question? Leave your comments here at our Discourse forum</mark> 👇
-
-{% embed url="https://support.aragon.org/t/about-the-dev-support-category/124" %}

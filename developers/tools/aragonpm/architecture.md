@@ -41,7 +41,3 @@ Using the aragonCLI to publish a version to an aragonPM repo and inspect it **ğŸ
 {% endhint %}
 
 <figure><img src="../../../.gitbook/assets/apm-publish.png" alt=""><figcaption></figcaption></figure>
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** ğŸ‘‡**
-
-{% embed url="https://support.aragon.org/c/dev-support/20" %}

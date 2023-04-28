@@ -16,8 +16,3 @@ In a similar way, you cannot have effective governance without a way for upgradi
 
 At Aragon, we are doing research in decentralized governance and the results of our research will all be made aragonOS-compatible. By using aragonOS, protocols can take advantage of our extensive research on governance, upgradeability, and every other aspect of the Aragon Network and Aragon client software.
 
-
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/c/dev-support/20" %}

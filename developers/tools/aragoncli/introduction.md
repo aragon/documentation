@@ -15,7 +15,7 @@ The following must be installed prior to installation:
   * After downloading and unpacking, you must add the /bin folder to your $PATH.
 
 {% hint style="danger" %}
-Dependencies of aragonCLI are constantly [updated](https://github.com/aragon/aragon-cli/pulls?q=) which result in Node version errors. Use [**NVM**](https://techstacker.com/run-multiple-node-versions-node-nvm/) **** to install and select the right Node version. For compatibility across OS use **`Node v12.7 LTS`** version.
+Dependencies of aragonCLI are constantly [updated](https://github.com/aragon/aragon-cli/pulls?q=) which result in Node version errors. Use [**NVM**](https://techstacker.com/run-multiple-node-versions-node-nvm/) to install and select the right Node version. For compatibility across OS use **`Node v12.7 LTS`** version.
 
 
 
@@ -54,7 +54,7 @@ npm install -g @aragon/cli
 ```
 
 {% hint style="danger" %}
-Dependencies of aragonCLI are constantly [updated](https://github.com/aragon/aragon-cli/pulls?q=) which result in Node version errors. Use [**NVM**](https://techstacker.com/run-multiple-node-versions-node-nvm/) **** to install and select the right Node version. For compatibility across OS use **`Node v12.7 LTS`** version.
+Dependencies of aragonCLI are constantly [updated](https://github.com/aragon/aragon-cli/pulls?q=) which result in Node version errors. Use [**NVM**](https://techstacker.com/run-multiple-node-versions-node-nvm/) to install and select the right Node version. For compatibility across OS use **`Node v12.7 LTS`** version.
 
 
 
@@ -177,8 +177,3 @@ npx create-aragon-app <app-name> [boilerplate]
 Npx is an independent package, it's not necessary to have `@aragon/cli` installed to use it. [npx](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b) comes with npm 5.2+. If you use npm 5.1 or earlier, you can't use `npx`. Instead, install `create-aragon-app` globally
 {% endhint %}
 
-
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/c/dev-support/20" %}

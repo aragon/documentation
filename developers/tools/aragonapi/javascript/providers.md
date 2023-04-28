@@ -44,8 +44,3 @@ const provider = new WindowMessage(window.parent)
 
 1. [`target`](https://hack.aragon.org/docs/%60Object%60): The object (that implements the [Window PostMessage API](https://developer.mozilla.org/en-US/docs/Web/API/Window/postMessage)) to send messages to.
 
-
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/c/dev-support/20" %}

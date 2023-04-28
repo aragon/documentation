@@ -190,8 +190,3 @@ If you are using React, you might want to have a look at the [Usage with React](
 
 
 
-
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/c/dev-support/20" %}

@@ -106,8 +106,3 @@ Once this is done the minimum Quorum Percentage should have been adjusted to 25%
 If you made it this far, well done! :clap:
 {% endhint %}
 
-
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/c/dev-support/20" %}

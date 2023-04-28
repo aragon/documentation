@@ -14,8 +14,3 @@ Please double check that your app includes the relevant assets and that they are
 We will update this page accordingly as we build more community-governed infrastructure for curating apps in the future.
 {% endhint %}
 
-
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/c/dev-support/20" %}

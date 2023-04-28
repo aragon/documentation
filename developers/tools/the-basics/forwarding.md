@@ -51,8 +51,3 @@ contract Voting is IForwarder, AragonApp {
 
 This `_evmScript` is the action that will be executed if the voting passes, which can be withdrawing some funds from a _Finance_ app, for example, but it can be any other action. The action is abstracted and doesn't need to be known in advance.
 
-
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/c/dev-support/20" %}

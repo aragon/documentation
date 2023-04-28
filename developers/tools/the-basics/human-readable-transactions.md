@@ -52,8 +52,3 @@ Our Radspec expressions show up while signing a transaction.
 
 Obviously, this is a super trivial example as we are not actually evaluating anything but we could instead write something more complex.
 
-
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/c/dev-support/20" %}

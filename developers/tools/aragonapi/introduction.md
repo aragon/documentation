@@ -30,8 +30,3 @@ Some of the things you can do with the JavaScript implementation are:
 
 * [Background Scripts](javascript/background-scripts.md)
 
-
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/c/dev-support/20" %}

@@ -8,8 +8,3 @@ As of **Aragon 0.7 Bella**, the App Center only allows users to **view and manag
 
 The App Center also currently exposes a heavily curated selection of available or upcoming applications in its "Discover" tab. To submit an application into the "Discover" tab, please follow the steps in [Submitting Your App to the App Center](submitting-your-app-to-the-app-center.md).
 
-
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/c/dev-support/20" %}

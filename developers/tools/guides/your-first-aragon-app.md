@@ -65,8 +65,8 @@ root
   * `CounterApp.sol`: Aragon app contract.
 * **scripts**: Scripts folder.
   * `buidler-hooks.js`: Buidler script hook.
-* ****[**arapp.json**](../aragoncli/global-configuration.md#the-arapp.json-file): Aragon configuration file. Includes Aragon-specific metadata for your app.
-* ****[**manifest.json**](../aragoncli/global-configuration.md#the-manifestjson-file): Aragon configuration file. Includes web-specific configurations.
+* [**arapp.json**](../aragoncli/global-configuration.md#the-arapp.json-file): Aragon configuration file. Includes Aragon-specific metadata for your app.
+* [**manifest.json**](../aragoncli/global-configuration.md#the-manifestjson-file): Aragon configuration file. Includes web-specific configurations.
 * [**buidler.config.js**](https://buidler.dev/config/): Buidler (now Hardhat) configuration file.
 * [**package.json**](https://docs.npmjs.com/creating-a-package-json-file): Main npm configuration file.
 
@@ -620,8 +620,3 @@ Join the conversation and ask questions on [GitHub](https://github.com/aragon), 
 
 Now you just need to share the great news on Twitter and Reddit, to let people know that you've built something great!
 
-
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/c/dev-support/20" %}

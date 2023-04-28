@@ -386,7 +386,7 @@ The possibilities for customizing an organization or protocol's governance model
 SetPermission(address indexed from, address indexed to, bytes32 indexed role, bool allowed);
 ```
 
-``[`setPermissionManager()`](reference-documentation.md#app-permissioning) fires the following event:
+[`setPermissionManager()`](reference-documentation.md#app-permissioning) fires the following event:
 
 ```solidity
 ChangePermissionManager(address indexed app, bytes32 indexed role, address indexed manager)
@@ -625,8 +625,3 @@ EVMScripts are very powerful and risk causing security breaches! For example, th
 
 See [IForwarder](https://hack.aragon.org/docs/common\_IForwarder.html) and [EVMScriptRunner](https://hack.aragon.org/docs/evmscript\_EVMScriptRunner.html).
 
-
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/c/dev-support/20" %}

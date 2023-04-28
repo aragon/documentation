@@ -234,8 +234,3 @@ If you need to add, modify, or remove assets or the way the frontend is built, i
 
 This is important because in production, the Aragon client usually fetches all of an app's assets via an IPFS gateway, and non-relative paths break gateway resolutions. You can test this for yourself by attempting to access your app when it's published by going to an IPFS gateway and making sure its assets are being loaded correctly.
 
-
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/c/dev-support/20" %}

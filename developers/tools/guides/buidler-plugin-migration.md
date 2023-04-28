@@ -1,7 +1,7 @@
 # How to migrate existing Aragon App to Buidler plugin
 
 {% hint style="info" %}
-This guide aims to describe the basic steps needed to migrate an **existing Aragon App** from the [**aragonCLI**](https://github.com/aragon/aragon-cli) **** to the new **Buidler plugin**. This new Aragon tool offers a more user-friendly and stable developer experience. You can learn more about the Buidler plugin [here](https://github.com/aragon/buidler-aragon).
+This guide aims to describe the basic steps needed to migrate an **existing Aragon App** from the [**aragonCLI**](https://github.com/aragon/aragon-cli) to the new **Buidler plugin**. This new Aragon tool offers a more user-friendly and stable developer experience. You can learn more about the Buidler plugin [here](https://github.com/aragon/buidler-aragon).
 {% endhint %}
 
 For this tutorial, we will assume that you have existing Aragon App which was setup with aragonCLI and now needs migration to the new Builder plugin.
@@ -198,8 +198,3 @@ You can also uninstall dependencies that are no longer required:
 yarn remove <dependencies>
 ```
 
-
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/c/dev-support/20" %}

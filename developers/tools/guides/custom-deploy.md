@@ -318,8 +318,3 @@ dao acl set-manager <dao-address> <app-address> <ROLE> <voting-address> --use-fr
 At this point you should have changed permissions. Well done you successfully set up a custom DAO for the dairy-farmers cooperation. Let's toast to that! :cow::milk::milk::cow:
 {% endhint %}
 
-
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/c/dev-support/20" %}

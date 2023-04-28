@@ -43,7 +43,7 @@ aragonOS contains a **rich permissions system**. Any resource or functionality c
 With aragonOS, permissions work the following way:
 
 {% hint style="info" %}
-_Entity **E**_ can call _Function **F**_ (protected by _Role **R**_ and parameterized by _Params **P**_...) on _App **A,**_** **&#x20;
+_Entity **E**_ can call _Function **F**_ (protected by _Role **R**_ and parameterized by _Params **P**_...) on _App **A,**_&#x20;
 
 &#x20;                                                                     only&#x20;
 
@@ -92,8 +92,3 @@ It is commonly thought that iframes degrade the user experience and are not best
 
 You can read more about aragonUI [here](../aragonui/).
 
-
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/c/dev-support/20" %}

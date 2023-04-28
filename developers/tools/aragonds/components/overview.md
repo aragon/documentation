@@ -103,8 +103,3 @@ Components are one of the key building blocks of the design system. Each compone
 
 </div>
 
-
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/c/dev-support/20" %}

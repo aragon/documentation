@@ -51,8 +51,3 @@ const state$ = app.store((state, event) => {
 
 If you use [`AragonApp#store`](app-api.md#store) then state will be automatically shared with your front-end in [real-time](https://en.wikipedia.org/wiki/Real-time\_web) (via [`AragonApp#state`](app-api.md#state)).
 
-
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/c/dev-support/20" %}

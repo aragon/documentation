@@ -157,8 +157,3 @@ Error: the tx doesn't have the correct nonce. account has nonce of: 157 tx has n
 
 The workaround is to switch to a different network (e.g. Rinkeby) and then switch back to the _Localhost 8545_ network. This will refresh Metamask's account nonce cache. Sending transactions should now succeed.
 
-
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/c/dev-support/20" %}

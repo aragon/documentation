@@ -69,8 +69,3 @@ All templates follow a similar structure:
 5. Set up permissions for the apps and the DAO.
 6. Clean up the permissions temporarily assigned to the template.
 
-
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/c/dev-support/20" %}

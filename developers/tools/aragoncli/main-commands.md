@@ -174,8 +174,3 @@ aragon contracts <command>
 
 It is equivalent to executing `npx truffle <command>`
 
-``
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/c/dev-support/20" %}

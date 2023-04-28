@@ -59,7 +59,3 @@ The color of the icons will always be # 8FA4B5 on the secondary buttons, thus he
 <figure><img src="../../../../.gitbook/assets/Schermata 2022-08-30 alle 09.20.59.png" alt=""><figcaption></figcaption></figure>
 
 I_cons credits: <mark style="color:purple;">Cole Belmis</mark> & <mark style="color:purple;">Owi Sixseven</mark>_
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/c/dev-support/20" %}

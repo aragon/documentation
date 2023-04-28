@@ -96,8 +96,3 @@ As a rule of thumb, if your data source will be triggered by a base Aragon data 
 
 Unfortunately, [The Graph does not support callHandlers in Rinkeby](https://thegraph.com/docs/en/developer/create-subgraph-hosted/#call-handlers). For this reason, our templates avoid them altogether. In general, we prefer to code Subgraphs in a way that is compatible with all networks. Alternatively, if you have no other choice than to use this feature, consider hosting your own Subgraph.
 
-
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/c/dev-support/20" %}
