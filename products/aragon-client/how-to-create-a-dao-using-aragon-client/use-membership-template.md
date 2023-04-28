@@ -95,7 +95,3 @@ Now you can [explore your new Membership organization.](../explore-template-dao/
 {% hint style="info" %}
 If your DAO doesn't open automatically, go [here](../../../faq/products/aragon-client/where-is-my-dao.md) and find how to access.
 {% endhint %}
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/t/aragon-client-membership-templates/34/2" %}

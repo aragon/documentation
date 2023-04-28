@@ -25,7 +25,3 @@ A Reputation organization is an organization that uses **non-transferable tokens
 {% hint style="warning" %}
 If the default templates do not provide you with the desired solution, you can set up a [development environment](https://hack.aragon.org/) and use the [aragonCLI](https://hack.aragon.org/developers/tools/aragoncli) to [create a custom organization](https://hack.aragon.org/developers/tools/guides/custom-deploy).
 {% endhint %}
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/t/aragon-client-templates/20/2" %}

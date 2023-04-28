@@ -44,7 +44,3 @@ Fill in all the fields in the new proposal.
 Click _**create proposal**_\*\* \*\* and approve the transaction on your wallet.
 
 ![](<../../.gitbook/assets/Schermata 2022-02-11 alle 11.52.46.png>)
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/t/aragon-voice-vote-a-proposal/60/2" %}

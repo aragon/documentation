@@ -28,7 +28,3 @@ Then follow the steps below:
 ### Case 3 - I **do not have** an account
 
 Then start [here](creating-a-vodconi-organization.md).
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/t/aragon-vocdoni-access-an-organization/63/2" %}

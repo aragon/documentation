@@ -11,7 +11,3 @@ To make sure that not only this process, but also the process of scheduling tran
 If the dispute is ruled in favor of the original transaction creator the person who created the transaction will get the collateral tokens from the challenger. If the transaction is blocked (e.g. the dispute is ruled in favor of the challenger), then the challenger gets the collateral tokens from the transaction creator.
 
 Collaterals make sure members have skin in the game when interacting within an optimistic governance model and will be less likely to abuse it. Collaterals also allow DAO creators to restrict transaction and challenge creation to specific token holders so that only certain individuals who hold a specific token create transactions to begin with.
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/t/aragon-govern-collateral/49/2" %}

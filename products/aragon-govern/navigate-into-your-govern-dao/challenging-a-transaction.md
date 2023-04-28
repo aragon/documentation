@@ -19,9 +19,5 @@ If you do not agree with a transaction that has been scheduled, provide a clear 
 So for challenging a transaction you need to have both these tokens on your wallet:
 
 1. The <mark style="color:blue;">**collateral token**</mark>
-2. <mark style="color:blue;">**DAI**</mark>** ** token
+2. <mark style="color:blue;">**DAI**</mark> token
 {% endhint %}
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/t/aragon-govern-navigate-your-dao-challenging/47/2" %}

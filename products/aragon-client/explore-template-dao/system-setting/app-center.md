@@ -9,7 +9,3 @@ To upgrade an existing app, simply click the _**Upgrade app**_ button and open a
 ![Example of App details (Agent installed on the DAO)](../../../../.gitbook/assets/file-nfkS8rXd3C.png)
 
 ![Apps that can be installed on the DAO](<../../../../.gitbook/assets/file-Z7YN9k6LKs (1).png>)
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/t/aragon-client-navigate-your-dao-app-center-settings/30/2" %}

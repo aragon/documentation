@@ -25,7 +25,3 @@ On the _**Token details page**,_ you can see all the \*\* **\_**Active votes**\_
 ![](<../../.gitbook/assets/Schermata 2022-02-11 alle 12.05.06.png>)
 
 ![](<../../.gitbook/assets/Schermata 2022-02-11 alle 12.06.39.png>)
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/t/aragon-voice-create-a-vote-proposal/58/2" %}

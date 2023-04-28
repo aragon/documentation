@@ -56,8 +56,3 @@ Once you have signed the transaction(s), you should now see the success screen:
 
 If you have other accounts holding ANTv1, you may now go back and repeat this process.
 
-
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/c/ant-token/19" %}

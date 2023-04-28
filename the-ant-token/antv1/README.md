@@ -45,8 +45,3 @@ In light of technical advancements in the Ethereum and decentralized technology 
 
 
 
-
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/c/ant-token/19" %}

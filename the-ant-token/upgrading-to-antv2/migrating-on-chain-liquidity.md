@@ -27,8 +27,3 @@ ANTv1's on-chain liquidity has historically been concentrated across two platfor
 
 At the moment there is an equivalent ANTv2/WETH 80:20 pool and a new ANTv2/USDC 80:20 pool.
 
-
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/c/ant-token/19" %}

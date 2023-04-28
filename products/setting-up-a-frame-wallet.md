@@ -79,7 +79,3 @@ In the configuration menu, you can also manage the Dapp permissions you have gra
 {% hint style="success" %}
 You are now finished setting up Frame for your device and ready to sign your first transaction.
 {% endhint %}
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/t/web3-frame-wallet/16/2" %}

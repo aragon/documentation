@@ -132,8 +132,3 @@ If you need to cancel or end a vote, go to the _**Dashboard**_ and click the vot
 If you need to **share the voting link** with the community go to the _**Dashboard**_ and click the vote. On the _**Vote details**_ page is available the link.
 {% endhint %}
 
-
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/t/aragon-vocdoni-navigate-your-organization-create-a-vote/65/2" %}

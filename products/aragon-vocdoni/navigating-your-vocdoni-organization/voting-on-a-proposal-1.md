@@ -64,8 +64,3 @@ Click the _**verify vote**_ button.
 
 
 
-
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/t/aragon-vocdoni-navigate-your-organization-vote-a-proposal/66/2" %}

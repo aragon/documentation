@@ -31,7 +31,3 @@ Remember that you'll need 0.2ETH (or more depending on the network traffic) to c
 * Company template: [here](use-company-template.md).
 * Membership template: [here](use-membership-template.md).
 * Reputation template: [here](page-1.md).
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/t/aragon-client-create-a-dao/19/2" %}

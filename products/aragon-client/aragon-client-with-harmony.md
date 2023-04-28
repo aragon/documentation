@@ -40,7 +40,3 @@ How? [Here](../set-up-metamask/getting-started-with-harmony.md) is a guide.
 2. Click _**Create an Organization**_ and follow [this tutorial](how-to-create-a-dao-using-aragon-client/) that will run you through the creation process.
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/61db019ca6a5ee76d8a2e9cd/file-xKHkRPU0F6.png)
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/t/aragon-client-create-a-dao-on-harmony/22/3" %}

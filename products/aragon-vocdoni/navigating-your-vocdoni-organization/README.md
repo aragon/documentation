@@ -103,7 +103,3 @@ This option allows you to log out of your account.
 {% hint style="warning" %}
 To access your account after a logout again you need your _.bak_ backup file.
 {% endhint %}
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/t/aragon-vocdoni-navigate-your-organization/64/2" %}

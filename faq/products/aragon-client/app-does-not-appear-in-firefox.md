@@ -8,4 +8,3 @@ To fix this error in your organization, you have to update the app version of th
 
 If the Voting app is one of the apps affected by this problem, and you need to approve a vote to complete the app update, then you have to use either the in-client [Console](https://github.com/aragon/aragon/blob/master/docs/CONSOLE.md#power-user-console) or [aragonCLI](https://github.com/aragon/aragon-cli) to vote on the App Upgrade proposal.
 
-If you need any help casting your vote using the Console or aragonCLI you can ask for help in [Aragon Chat](https://aragon.chat) or send an email to [support@aragon.org](https://secure.helpscout.net/mailbox/b3f2f8de3c191a09/2804751/).

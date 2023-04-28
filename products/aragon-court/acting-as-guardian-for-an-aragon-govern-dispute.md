@@ -99,7 +99,3 @@ You also have the option to enable the auto-reveal service.
 ### Next steps
 
 The next stages can be triggered by anyone in Aragon court (including you) but are not your responsibility. If a dispute is appealed, a new round of guardians will be summoned. If you are one of them, follow this same process again.
-
-> <mark style="color:purple;">**Do have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/t/aragon-court-guardian-in-a-dispute/70/2" %}

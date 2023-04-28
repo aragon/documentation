@@ -59,7 +59,3 @@ After clicking the _**Continue**_ button on the Credentials page, the creation p
 {% hint style="success" %}
 If you see this page, your Vocdoni Organization was successfully created and you can start using it.
 {% endhint %}
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/t/aragon-vocdoni-create-an-organization/62/2" %}

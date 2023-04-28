@@ -225,7 +225,3 @@ Additionally, every single task related to a dispute can be executed from here.
 {% endhint %}
 
 ![](<../../.gitbook/assets/Screenshot 2022-02-07 at 15.44.08.png>)
-
-> <mark style="color:purple;">**Do have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/t/aragon-court-court-dashboard/68/2" %}

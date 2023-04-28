@@ -120,7 +120,3 @@ For more info go about the settings go [here](system-setting/).
 {% endhint %}
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/5d86746c04286364bc8f65bf/file-xfmyJqyDNO.png)
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/t/aragon-client-navigate-your-dao-home/23/2" %}

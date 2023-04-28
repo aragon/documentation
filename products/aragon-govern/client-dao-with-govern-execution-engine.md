@@ -113,7 +113,3 @@ If action execution fails there has been a mistake either in permissions, method
 
 If you are populating fractional numbers, add 18 zeros to the original value. For example, if you want to invoke the immediateTransfer method that will transfer 10.5 tokens, you will have to input 10.5\*10^18 = 10500000000000000000 into the amount field.
 {% endhint %}
-
-#### <mark style="color:purple;">Do you have a question? Leave your comments here at our Discourse forum</mark> 👇
-
-{% embed url="https://support.aragon.org/t/aragon-client-govern-execution-engine/51/2" %}

@@ -91,8 +91,3 @@ Once this contract is deployed, simply transfer ANTv1 into the contract as desir
 The `EscrowANTv2Migrator` contract does not contain logic to return any ANTv1 tokens transferred to it. All ANTv1 tokens transferred to it will be eventually converted to ANTv2 and returned to the configured recipient.
 {% endhint %}
 
-
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/c/ant-token/19" %}

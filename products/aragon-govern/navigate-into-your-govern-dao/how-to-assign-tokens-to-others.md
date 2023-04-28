@@ -50,7 +50,3 @@ Context - should be 0x (without " ") or any other hex byte you wish.
 * Click _**Schedule**_ to execute the transaction.
 
 ![](<../../../.gitbook/assets/Screenshot 2022-02-10 at 11.35.40.png>)
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/t/aragon-govern-navigate-your-dao-actions-app/44/2" %}

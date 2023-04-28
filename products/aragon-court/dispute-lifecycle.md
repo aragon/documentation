@@ -161,9 +161,5 @@ The maximum number of appeal rounds is not infinite, it is currently set to **fo
 {% hint style="success" %}
 **If an appeal is still confirmed after the maximum allowed is reached.**
 
-A final round is initiated where the number of guardians equal to <mark style="color:blue;"></mark> <mark style="color:blue;"></mark><mark style="color:blue;">`total active stake / Min_Active_Balance`</mark> is drafted, in which case all drafted guardians will be required to make up and safely store a secret passphrase to vote. The auto-reveal service is currently disabled for the final appeal round, so guardians will have to manually reveal their vote with their secret passphrase during the final reveal period.
+A final round is initiated where the number of guardians equal to <mark style="color:blue;">`total active stake / Min_Active_Balance`</mark> is drafted, in which case all drafted guardians will be required to make up and safely store a secret passphrase to vote. The auto-reveal service is currently disabled for the final appeal round, so guardians will have to manually reveal their vote with their secret passphrase during the final reveal period.
 {% endhint %}
-
-> <mark style="color:purple;">**Do have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/t/aragon-court-dispute-lifecycle/69/2" %}

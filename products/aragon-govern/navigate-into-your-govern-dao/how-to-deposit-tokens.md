@@ -19,7 +19,3 @@ Reference (optional) - some text to identify this transa­ction later on.
 {% endhint %}
 
 * Click on the _**Review Deposit**_ button and then click _**Confirm the Deposit**_.![](https://github.com/78carla/tech\_1/blob/main/.gitbook/assets/bottone.png) ![](<../../../.gitbook/assets/Schermata 2022-01-29 alle 13.41.21.png>)
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/t/aragon-govern-navigate-your-dao-finance-app/46/2" %}
