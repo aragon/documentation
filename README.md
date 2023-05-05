@@ -8,11 +8,11 @@ coverY: 739.3106704438148
 # Aragon User Documentation
 
 {% hint style="info" %}
-Welcome to the Aragon :flag\_gb: **English **<mark style="color:blue;">****</mark> user documentation. What you need to get started building your DAO.
+Welcome to the Aragon :flag\_gb: **English** user documentation. What you need to get started building your DAO.
 
-* Para la versión de la documentación de usuario en :flag\_es: **español** vaya [aquí](https://documentation.aragon.org/v/documentacion-del-usuario-de-aragon/).
-* Pour la version :flag\_fr: **française** de la documentation utilisateur, cliquez [ici.](https://documentation.aragon.org/v/documentation-utilisateur-aragon/)
-* :flag\_in: **हिंदी** यूज़र डाक्यमेन्टेशन वर्शन के लिए [यहां](https://documentation.aragon.org/v/hindi-aragon-user-documentation) जाएं।.
-* :flag\_jp: **日本**ユーザー向け説明書は[**こちら**](https://documentation.aragon.org/v/japanese-aragon-user-documentation).
-* Para a versão :flag\_pt: **portuguesa** da documentação do utilizador, vá [aqui](https://documentation.aragon.org/v/aragon-documentacao-do-utilizador).
+* Para la versión de la documentación de usuario en :flag\_es: **español** vaya [aquí](http://localhost:5000/o/3h8kxj8geKVXgyMnGbYT/s/t3hTlaCHK27whtbUr05N/).
+* Pour la version :flag\_fr: **française** de la documentation utilisateur, cliquez [ici](http://localhost:5000/o/3h8kxj8geKVXgyMnGbYT/s/iO9P3m8elNX5EjBARTqn/).
+* :flag\_in: **हिंदी** यूज़र डाक्यमेन्टेशन वर्शन के लिए [यहां](http://localhost:5000/o/3h8kxj8geKVXgyMnGbYT/s/qbJnwSlPYXvqQ6buM1wp/) जाएं।.
+* :flag\_jp: **日本**ユーザー向け説明書は[**こちら**](http://localhost:5000/o/3h8kxj8geKVXgyMnGbYT/s/aXHvfzzRoYTP2LsKM0Z6/).
+* Para a versão :flag\_pt: **portuguesa** da documentação do utilizador, vá [aqui](http://localhost:5000/o/3h8kxj8geKVXgyMnGbYT/s/HtIGJVOaXUZ430hEHTGr/).
 {% endhint %}
