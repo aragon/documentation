@@ -1,9 +1,8 @@
 # Table of contents
 
-* [Aragon User Documentation](README.md)
-
 ## 🔷 Aragon
 
+* [Aragon User Documentation](README.md)
 * [Aragon Values, Finances, and Legal](aragon/readme/README.md)
   * [Legal and technical infrastructure](aragon/readme/legal-and-technical-infrastructure.md)
   * [Financial infrastructure](aragon/readme/dao-finances.md)
