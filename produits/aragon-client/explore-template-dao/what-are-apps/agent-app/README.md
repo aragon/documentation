@@ -33,7 +33,3 @@ L'**application Agent** dispose actuellement **d'une interface frontale** en mod
 L'adresse du contrat intelligent de l'agent est disponible dans le menu _**System**_ (Système) de la page  _**Organization**_.
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/5d8bcdad2c7d3a7e9ae1a16d/file-pJP6dzQfhR.png)
-
-> <mark style="color:purple;">**Avez-vous des questions, laissez vos commentaires sur le forum Aragon**</mark><mark style="color:purple;">** **</mark><mark style="color:purple;"><mark style="color:purple;">**(**<mark style="color:purple;"></mark><mark style="color:purple;">**en anglais)**</mark>**  👇**
-
-{% embed url="https://support.aragon.org/t/aragon-client-navigate-your-dao-agent-app/28/2" %}

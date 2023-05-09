@@ -25,7 +25,3 @@ Une organisation de réputation est une organisation qui utilise des **jetons no
 {% hint style="warning" %}
 Si les modèles par défaut ne vous fournissent pas la solution souhaitée, vous pouvez mettre en place [un environnement de développement](https://hack.aragon.org/) (en anglais) et utiliser l'[aragonCLI ](https://hack.aragon.org/developers/tools/aragoncli)(en anglais) pour créer une o[rganisation personnalisée](https://hack.aragon.org/developers/tools/guides/custom-deploy) (en anglais) .
 {% endhint %}
-
-> <mark style="color:purple;">**Vous avez une question ? Laissez vos commentaires ici sur notre forum Discourse (en anglais).👇**</mark>
-
-{% embed url="https://support.aragon.org/t/aragon-client-templates/20/2" %}

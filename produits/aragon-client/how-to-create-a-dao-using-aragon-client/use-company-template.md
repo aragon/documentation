@@ -97,7 +97,3 @@ Vous pouvez maintenant explorer [explorer votre nouvelle organisation de la soci
 {% hint style="info" %}
 Si votre DAO ne s'ouvre pas automatiquement, allez [ici](../../../faq/products/aragon-client/where-is-my-dao.md) et découvrez comment y accéder.
 {% endhint %}
-
-> <mark style="color:purple;">**Vous avez une question ? Laissez vos commentaires ici sur notre forum Discourse (en anglais).**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/t/aragon-client-company-template/32/2" %}

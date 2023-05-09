@@ -5,6 +5,14 @@ coverY: 678.9988876529476
 
 # Valeurs, finances et législation d'Aragon
 
+{% hint style="danger" %}
+Les produits mentionnés dans cette documentation sont les Produits Hérités d'Aragon et ne sont plus maintenus. Pour une meilleure expérience et un meilleur support, consultez nos **tout nouveaux Produits Aragon** [**ICI**](https://aragon.org/).
+{% endhint %}
+
+
+
+
+
 {% hint style="warning" %}
 Découvrez Aragon : nos valeurs, nos finances, ainsi que l'infrastructure technique et juridique.
 {% endhint %}
@@ -30,7 +38,3 @@ Aragon fournit les pièces de lego pour permettre aux personnes (comme vous) de 
 ## Nos utilisateurs
 
 Si vous êtes nouveau dans cet écosystème, ne vous inquiétez pas si tout ou partie de ce qui précède vous semble un peu abstrait. Vous pouvez considérer qu'Aragon fournit les pièces de lego permettant aux personnes (comme vous) de construire la prochaine génération d'organisations humaines.
-
-> <mark style="color:purple;">**Laissez vos commentaires ici sur le forum Aragon (en anglais)**</mark>** 👇**
-
-{% embed url="https://forum.aragon.org/categories" %}

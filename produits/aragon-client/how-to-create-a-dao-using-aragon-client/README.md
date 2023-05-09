@@ -31,7 +31,3 @@ N'oubliez pas que vous aurez besoin de 0,2ETH (ou plus en fonction du trafic ré
 * Company template (Modèle d'entreprise): [ici](use-company-template.md).
 * Membership template (Modèle d'adhésion): [ici](use-membership-template.md).
 * Reputation template (Modèle de réputation): [ici](page-1.md).
-
-> <mark style="color:purple;">**Vous avez une question ? Laissez vos commentaires ici sur notre forum Discourse (en angl**</mark>ais) **👇**
-
-{% embed url="https://support.aragon.org/t/aragon-client-create-a-dao/19/2" %}

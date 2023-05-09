@@ -10,7 +10,3 @@ Découvrez les organisations autonomes décentralisées et comment elles sont li
 {% endhint %}
 
 Le terme _DAO_ est en constante évolution et des centaines de réponses valables existent déjà. Voici notre vision pour communiquer comment Aragon perçoit une DAO, avec une référence spécifique à nos pratiques de travail actuelles en 2022.
-
-> <mark style="color:purple;">**Laissez vos commentaires ici sur le forum Aragon (en anglais)**</mark>** 👇**
-
-{% embed url="https://forum.aragon.org/categories" %}

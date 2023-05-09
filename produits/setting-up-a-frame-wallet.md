@@ -29,7 +29,7 @@ Pour importer votre porte-monnaie Metamask dans Frame :&#x20;
 * Cliquez sur le bouton _**+**_ dans la barre des comptes en haut du portefeuille.&#x20;
 * Cliquez sur le bouton _**add new accounts**_ (d'ajout de nouveaux) comptes dans le cadre qui apparaît à droite.&#x20;
 * Cliquez sur le bouton _**seed phrase**_.&#x20;
-* Copiez et collez la phrase d'amorçage de votre porte-monnaie Metamask et cliquez sur _**next** _ (suivant) (_voir image ci-dessous_). Votre porte-monnaie Metamask devrait maintenant apparaître dans le porte-monnaie Frame.
+* Copiez et collez la phrase d'amorçage de votre porte-monnaie Metamask et cliquez sur _**next**_  (suivant) (_voir image ci-dessous_). Votre porte-monnaie Metamask devrait maintenant apparaître dans le porte-monnaie Frame.
 
 ![](<../.gitbook/assets/Screenshot 2022-02-23 at 17.04.36.png>)
 
@@ -76,7 +76,3 @@ Dans le menu de configuration, vous pouvez également gérer les autorisations d
 {% hint style="success" %}
 Vous avez maintenant fini de configurer Frame pour votre appareil et vous êtes prêt à signer votre première transaction.
 {% endhint %}
-
-> <mark style="color:purple;">**Vous avez une question ? Laissez vos commentaires ici sur notre forum Discourse (en anglais)**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/t/web3-frame-wallet/16/2" %}

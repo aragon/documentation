@@ -170,7 +170,3 @@ Le **Support** (soutien) est le pourcentage de votes sur une proposition que le 
 * Transférer les jetons de Vault : transférer les jetons détenus par l'application Vault
 
 {% embed url="https://youtu.be/kMF7Y_KPm-4?t=666" %}
-
-> <mark style="color:purple;">**Vous avez une question ? Laissez vos commentaires ici sur notre forum Discourse**</mark>** **<mark style="color:purple;">****</mark><mark style="color:purple;">** **</mark><mark style="color:purple;"><mark style="color:purple;">**(**<mark style="color:purple;"></mark><mark style="color:purple;">**en anglais)**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/t/aragon-client-navigate-your-dao-permissions-settings/29/2" %}

@@ -18,7 +18,7 @@ You can read more about permission settings [here](aragon-client/explore-templat
 
 
 
-In this example an Aragon Client DAO has a balance of ETH tokens **** stored in its Vault and you want to initiate a payment to compensate a DAO Contributor for her work. We will show how to **initiate a withdrawal of some of the ETH to the Contributor.**
+In this example an Aragon Client DAO has a balance of ETH tokens stored in its Vault and you want to initiate a payment to compensate a DAO Contributor for her work. We will show how to **initiate a withdrawal of some of the ETH to the Contributor.**
 
 
 
@@ -178,8 +178,3 @@ Head back for the last time to your Aragon Client DAO :fingers\_crossed:, and op
 
 We did it! :partying\_face: Well done! :medal:
 
-
-
-> <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/t/web3-multisig-wallet/17/2" %}

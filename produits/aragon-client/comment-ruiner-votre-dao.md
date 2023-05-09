@@ -43,7 +43,3 @@ Il est facile de faire des erreurs fatales, vérifiez toujours deux fois les dé
 
 **Encore une fois, n'essayez pas cela à la maison !** Ce guide a pour but de vous faire prendre conscience de certaines erreurs que vous pouvez commettre et qui auront pour effet d'augmenter les chances de réussite de **ruiner** 🧱 votre DAO.
 {% endhint %}
-
-> <mark style="color:purple;">**Vous avez une question? Laissez vos commentaires ici sur notre forum Discourse**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/c/aragon-client/6" %}

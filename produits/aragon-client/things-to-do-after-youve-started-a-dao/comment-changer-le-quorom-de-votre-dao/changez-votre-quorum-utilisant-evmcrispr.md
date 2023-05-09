@@ -96,8 +96,3 @@ Une fois que cela est fait, le pourcentage minimum de quorum devrait avoir été
 Si vous êtes arrivé jusqu'ici, bravo! :clap:
 {% endhint %}
 
-
-
-> <mark style="color:purple;">**Vous avez une question? Laissez vos commentaires ici sur notre forum Discourse**</mark>**  👇**
-
-{% embed url="https://forum.aragon.org/" %}

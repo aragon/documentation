@@ -93,7 +93,3 @@ Vous pouvez maintenant [explorer votre nouvelle organisation de réputation.](..
 {% hint style="info" %}
 Si votre DAO ne s'ouvre pas automatiquement, allez [ici](../../../faq/products/aragon-client/where-is-my-dao.md) et découvrez comment y accéder. [here](../../../faq/products/aragon-client/where-is-my-dao.md)
 {% endhint %}
-
-> <mark style="color:purple;">**Vous avez une question ? Laissez vos commentaires ici sur notre forum Discourse (en anglais).**</mark>**  👇**
-
-{% embed url="https://support.aragon.org/t/aragon-client-reputation-template/33/2" %}

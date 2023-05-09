@@ -11,7 +11,3 @@ N'envoyez pas de jetons aux adresses d'application de votre organisation. Si vou
 {% endhint %}
 
 ![Apps smart contracts](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/5d8a6c8804286364bc8f8165/file-8w15BGoHek.png)
-
-> <mark style="color:purple;">**Vous avez une question ? Laissez vos commentaires ici sur notre forum Discourse**</mark>** **<mark style="color:purple;">****</mark><mark style="color:purple;">** **</mark><mark style="color:purple;"><mark style="color:purple;">**(**<mark style="color:purple;"></mark><mark style="color:purple;">**en anglais)**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/t/aragon-client-navigate-your-dao-organization-settings/31/2" %}

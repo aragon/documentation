@@ -98,7 +98,3 @@ Dans ce cas, l'autre détenteur de jeton dans l'organisation soutient la proposi
 Étant donné qu'il n'y a que deux détenteurs de jetons dans cette organisation et que le paramètre de soutien est fixé à 50 %, le vote unanime sur la proposition a entraîné l'adoption de la proposition.
 
 ![](https://lh5.googleusercontent.com/s3ZFomLX49IX0uwO-cQESFA6b2TtIWoFm2yF6E\_i5EbRAW-wBkYSUwqBnAAH70Sq\_AAvoElR7s0\_R5\_kQcTxzXgro3bs\_dscBn4NfZlYvY9GpzPQs6acQbt0gul29-OO6lL28DWU)
-
-> <mark style="color:purple;">**Vous avez une question ? Laissez vos commentaires ici sur notre forum Discourse (en anglais).**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/t/aragon-client-navigate-your-dao-voting-apps/24/2" %}

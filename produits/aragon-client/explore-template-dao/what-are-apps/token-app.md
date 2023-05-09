@@ -124,7 +124,3 @@ connect <DAO> token-manager
 exec token-manager assignVested <ACCOUNT> <AMOUNT>e18 <START-DATE> <CLIFF-DATE> <END-DATE> true
 
 ```
-
-> <mark style="color:purple;">**Vous avez une question ? Laissez vos commentaires ici sur notre forum Discourse (en anglais).**</mark>**   👇**
-
-{% embed url="https://support.aragon.org/t/aragon-client-navigate-your-dao-token-app/26/2" %}

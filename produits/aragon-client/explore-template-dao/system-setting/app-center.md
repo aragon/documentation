@@ -9,7 +9,3 @@ Pour mettre à niveau une application existante, il suffit de cliquer sur le bou
 ![Exemple de détails de l'application (agent installé sur le DAO)](../../../../.gitbook/assets/file-nfkS8rXd3C.png)
 
 ![Les applications qui peuvent être installées sur le DAO](<../../../../.gitbook/assets/file-Z7YN9k6LKs (1).png>)
-
-> <mark style="color:purple;">**Vous avez une question ? Laissez vos commentaires ici sur notre forum Discourse**</mark>** **<mark style="color:purple;">****</mark><mark style="color:purple;">** **</mark><mark style="color:purple;"><mark style="color:purple;">**(**<mark style="color:purple;"></mark><mark style="color:purple;">**en anglais)**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/t/aragon-client-navigate-your-dao-app-center-settings/30/2" %}
