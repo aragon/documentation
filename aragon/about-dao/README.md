@@ -11,8 +11,3 @@ Conozca los Organismos Autónomos Descentralizados y su relación con Aragon.
 
 El término _DAO_ está constantemente evolucionando y ya existen cientos de respuestas válidas. Aquí está nuestro esfuerzo por comunicar cómo Aragón percibe una DAO, con referencia específica a nuestras prácticas de trabajo actuales en 2022.
 
-
-
-> <mark style="color:purple;">**Deja tus comentarios aquí en el foro de Aragón (disponible actualmente solo en inglés)**</mark>** 👇**
-
-{% embed url="https://forum.aragon.org/categories" %}

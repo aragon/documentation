@@ -30,7 +30,7 @@ En 2021 el equipo [Token Engineering Commons](https://tecommons.org/) lanzó un 
 
 Con el avance de la votación para financiar la gobernanza descentralizada ([aprobar 72k para financiar la gobernanza descentralizada (dGov) S1 del 1 de mayo al 31 de agosto de 2022](https://voice.aragon.org/processes/#/0x21b2ea5345d2e0c941dd44ff4c43fc4683088b846ddb3234d1690b0000000008)), el equipo de dGov trabajó en una variedad de propuestas, incluida la decisión de trabajar con Blossom labs, General Magic para tomar el trabajo que habían hecho para TECommons y entregar un producto y proceso similar a ello para la comunidad de Aragon. El financiamiento y la supervisión fueron entregados por el subDAO ejecutivo con [notas de comunicación y presupuesto que se llevaron a cabo en el foro](https://forum.aragon.org/t/financial-proposal-demoing-a-tao-voting-dao/3622) (disponible actualmente solo en ingles).
 
-****[**L**a votación Tao](https://token--engineering--commons-gitbook-io.translate.goog/tec-handbook/governance/voting-tools-and-methods/tao-voting?\_x\_tr\_sl=auto&\_x\_tr\_tl=es&\_x\_tr\_hl=es-419&\_x\_tr\_pto=wapp)  es una variación de la democracia líquida desarrollada por [Token Engineering Commons](https://tecommons.org/) con un conjunto limitado de parámetros (Links disponibles actualmente solo en ingles):
+[**L**a votación Tao](https://token--engineering--commons-gitbook-io.translate.goog/tec-handbook/governance/voting-tools-and-methods/tao-voting?\_x\_tr\_sl=auto&\_x\_tr\_tl=es&\_x\_tr\_hl=es-419&\_x\_tr\_pto=wapp)  es una variación de la democracia líquida desarrollada por [Token Engineering Commons](https://tecommons.org/) con un conjunto limitado de parámetros (Links disponibles actualmente solo en ingles):
 
 * [Support Required](https://forum.aragon.org/t/tao-voting-support-required/3663) (Soporte Requerido)- Cuánto apoyo total se requiere para que se apruebe una propuesta
 * [Minimum Quorum](https://forum.aragon.org/t/tao-voting-minimum-quorum/3664) (Quórum Mínimo)- Porcentaje mínimo de soporte de token requerido
@@ -54,8 +54,3 @@ Hay cientos de excelentes artículos sobre el tema; aquí hay algunos:
 * [La convergencia de delegaciones iterativas en democracia líquida en una red social ](https://arxiv.org/pdf/1904.05775.pdf)(disponible solo en ingles)
 * [https://es.wikipedia.org/wiki/Democracia\_líquida](https://es.wikipedia.org/wiki/Democracia\_l%C3%ADquida)
 
-
-
-> <mark style="color:purple;">**¿Tienes una pregunta? Deja tus comentarios aquí en nuestro foro (disponible actualmente solo en ingles)**</mark>** 👇**&#x20;
-
-{% embed url="https://forum.aragon.org/" %}

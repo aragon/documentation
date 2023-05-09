@@ -5,6 +5,14 @@ coverY: 678.9988876529476
 
 # Valores de Aragon, Finanzas y Legal
 
+{% hint style="danger" %}
+Los productos en esta documentación son los Productos Heredados de Aragon y ya no se están manteniendo. Para una mejor experiencia y soporte, echa un vistazo a **nuestros nuevos Productos de Aragon** [**AQUÍ**](https://aragon.org/).
+{% endhint %}
+
+
+
+
+
 {% hint style="warning" %}
 Conozca Aragon: nuestros valores, nuestras finanzas, así como la infraestructura técnica y jurídica.
 {% endhint %}
@@ -31,8 +39,3 @@ Aragon **proporciona las piezas de lego** para que personas (como usted) puedan 
 
 Si usted es nuevo en este ecosistema, no se preocupe si algo (o todo) de lo anterior le suena un poco abstracto. Usted puede pensar que Aragon **proporciona las piezas de lego** para que personas (como usted) puedan construir **la próxima generación de organizaciones humanas**.
 
-
-
-> <mark style="color:purple;">**Deje sus comentarios aquí en el foro de Aragón ( disponible actualmente solo en inglés)**</mark>** 👇**
-
-{% embed url="https://forum.aragon.org/categories" %}

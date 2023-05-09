@@ -90,7 +90,7 @@ Haga clic en _**Create transaction**_ (Crear transacción)\*\* \*\* para crear l
 
 ![](https://lh3.googleusercontent.com/RVlpE5QIyKb2gvvr5KQOf8ukZa0k5wczXfgOnnHfcvXI2JnBUtLX4KjKob\_EWMF9k9y1NjB1yzNcYrJLm2ETRezy7v9DDWucQNQ18OEQT\_8dBjMvSoZsymVIGK\_BJv\_8Cw1Mk88L)
 
-### \*\*Vote "Yes" <mark style="color:blue;"></mark> ("Sí") para aprobar la votación de "Asignar fichas"\*\*
+### \*\*Vote "Yes" ("Sí") para aprobar la votación de "Asignar fichas"\*\*
 
 Vaya a la Voting App, haga clic en la propuesta de _**Mint tokens**_ (acuñación de fichas) que acaba de crear y vote "Yes" ("Sí") para aprobar la acuñación y asignación del token.
 
@@ -125,8 +125,3 @@ exec token-manager assignVested <ACCOUNT> <AMOUNT>e18 <START-DATE> <CLIFF-DATE> 
 ```
 
 \
-
-
-> <mark style="color:purple;">**¿Tiene alguna pregunta? Deje sus comentarios aquí en nuestro foro Discourse (disponible actualmente solo en inglés)**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/t/aragon-client-navigate-your-dao-token-app/26/2" %}

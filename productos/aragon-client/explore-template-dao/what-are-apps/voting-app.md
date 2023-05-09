@@ -98,7 +98,3 @@ En este caso, el otro poseedor de tokens de la organización apoya la propuesta 
 Dado que solo hay dos poseedores de tokens en esta organización, y que el parámetro de apoyo está fijado en el 50%, la votación unánime de la propuesta ha dado como resultado la aprobación de la misma.
 
 ![](https://lh5.googleusercontent.com/s3ZFomLX49IX0uwO-cQESFA6b2TtIWoFm2yF6E\_i5EbRAW-wBkYSUwqBnAAH70Sq\_AAvoElR7s0\_R5\_kQcTxzXgro3bs\_dscBn4NfZlYvY9GpzPQs6acQbt0gul29-OO6lL28DWU)
-
-> <mark style="color:purple;">**¿Tiene alguna pregunta? Deje sus comentarios aquí en nuestro foro Discourse (disponible actualmente solo en inglés)**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/t/aragon-client-navigate-your-dao-voting-apps/24/2" %}

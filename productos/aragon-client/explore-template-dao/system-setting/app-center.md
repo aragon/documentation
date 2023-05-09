@@ -9,7 +9,3 @@ Para actualizar una aplicación existente, simplemente haga clic en el botón _*
 ![Ejemplo de detalles de la aplicación (Agente instalado en la DAO)](../../../../.gitbook/assets/file-nfkS8rXd3C.png)
 
 ![Aplicaciones que pueden instalarse en la DAO](<../../../../.gitbook/assets/file-Z7YN9k6LKs (1).png>)
-
-> <mark style="color:purple;">**¿Tiene alguna pregunta? Deje sus comentarios aquí en nuestro foro Discourse (disponible actualmente solo en inglés)**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/t/aragon-client-navigate-your-dao-app-center-settings/30/2" %}

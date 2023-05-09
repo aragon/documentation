@@ -40,7 +40,3 @@ Conecte su monedero Web3 a la red Harmony y deposite al menos 0,2 UNO.
 2. Haga clic en _**Create an Organization**_ (Crear una organización) y siga [este tutorial](how-to-create-a-dao-using-aragon-client/) que le guiará por el proceso de creación.
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/61db019ca6a5ee76d8a2e9cd/file-xKHkRPU0F6.png)
-
-> <mark style="color:purple;">**¿Tiene alguna pregunta? Deje sus comentarios aquí en nuestro foro Discourse (disponible actualmente solo en inglés) 👇**</mark>
-
-{% embed url="https://support.aragon.org/t/aragon-client-create-a-dao-on-harmony/22/3" %}

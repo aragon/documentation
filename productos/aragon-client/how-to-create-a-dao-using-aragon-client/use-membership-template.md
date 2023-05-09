@@ -42,7 +42,7 @@ Es el porcentaje relativo de tokens que se requieren para votar _**Yes**_ (_Sí)
 
 #### El porcentaje mínimo de aprobación
 
-Es el porcentaje del suministro total de tokens que se requiere para votar _**Yes** (Sí) ****_ a una propuesta antes de que pueda ser aprobada. Por ejemplo, si la _**Minimum Approval**_ (_Aprobación Mínima)_ se establece en el 20%, entonces más del 20% del suministro de tokens en circulación debe votar _**Yes** (Sí)_ a una propuesta para que sea aprobada.
+Es el porcentaje del suministro total de tokens que se requiere para votar _**Yes** (Sí)_ a una propuesta antes de que pueda ser aprobada. Por ejemplo, si la _**Minimum Approval**_ (_Aprobación Mínima)_ se establece en el 20%, entonces más del 20% del suministro de tokens en circulación debe votar _**Yes** (Sí)_ a una propuesta para que sea aprobada.
 
 #### La duración del voto
 
@@ -95,7 +95,3 @@ Ahora puede [explorar su nueva organización de miembros.](../explore-template-d
 {% hint style="info" %}
 Si su DAO no se abre automáticamente, vaya [aquí](../../../faqs-preguntas-frecuentes/products/aragon-client/where-is-my-dao.md) y encuentre cómo acceder a ella.
 {% endhint %}
-
-> <mark style="color:purple;">**¿Tiene alguna pregunta? Deje sus comentarios aquí en nuestro foro Discourse (disponible actualmente solo en inglés)**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/t/aragon-client-membership-templates/34/2" %}

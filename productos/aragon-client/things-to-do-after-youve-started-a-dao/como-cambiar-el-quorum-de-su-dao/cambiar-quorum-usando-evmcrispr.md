@@ -1,7 +1,7 @@
 # Cambiar Quórum usando EVMcrispr
 
 {% hint style="info" %}
-Esta guía le mostrará cómo cambiar el quórum mínimo (participación) necesario para que se aprueben los votos en su DAO usando [**EVMcrispr**](https://evm-crispr.blossom.software/#/) **** (disponible actualmente solo en inglés).
+Esta guía le mostrará cómo cambiar el quórum mínimo (participación) necesario para que se aprueben los votos en su DAO usando [**EVMcrispr**](https://evm-crispr.blossom.software/#/) (disponible actualmente solo en inglés).
 
 EVMcrispr es una poderosa herramienta que combina un lenguaje específico de dominio con una biblioteca Javascript para interactuar con las DAO de Aragon.
 {% endhint %}
@@ -103,7 +103,3 @@ La voluntad de cambio sólo podrá ser **promulgada** cuando se haya agotado el 
 {% hint style="success" %}
 Si llegó hasta aquí, ¡bien hecho!👏​​
 {% endhint %}
-
-> <mark style="color:purple;">**¿Tiene alguna pregunta? Deje sus comentarios aquí en nuestro foro Discourse (disponible actualmente solo en**</mark> <mark style="color:purple;">**inglés).**</mark>** 👇**
-
-{% embed url="https://forum.aragon.org/" %}

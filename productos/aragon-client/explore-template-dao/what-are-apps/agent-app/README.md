@@ -33,7 +33,3 @@ Actualmente, la **Agent App** tiene una **interfaz frontal de solo visualizació
 La dirección del contrato inteligente de Agent está disponible en el menú _**System**_ (Sistema) de la página _**Organization**_ (Organización).
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/5d8bcdad2c7d3a7e9ae1a16d/file-pJP6dzQfhR.png)
-
-> <mark style="color:purple;">**¿Tiene alguna pregunta? Deje sus comentarios aquí en nuestro foro Discourse (disponible actualmente solo en inglés)**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/t/aragon-client-navigate-your-dao-agent-app/28/2" %}

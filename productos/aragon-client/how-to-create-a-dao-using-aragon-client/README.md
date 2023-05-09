@@ -31,7 +31,3 @@ Recuerde que necesitará 0,2 ETH (o más dependiendo del tráfico de la red) par
 * Plantilla de empresa: [aquí](use-company-template.md).
 * Plantilla de membresía: [aquí](use-membership-template.md).
 * Plantilla de reputación: [aquí](page-1.md).
-
-> <mark style="color:purple;">**¿Tiene alguna pregunta? Deje sus comentarios aquí en nuestro foro Discourse (disponible actualmente solo en inglés)👇**</mark>
-
-{% embed url="https://support.aragon.org/t/aragon-client-create-a-dao/19/2" %}

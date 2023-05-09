@@ -5,7 +5,7 @@ En esta sección, usted aprenderá a configurar un monedero Metamask y a configu
 {% endhint %}
 
 {% hint style="success" %}
-**Recomendamos el uso de** [**Metamask**](https://metamask.io) **** (disponible actualmente solo en inglés) **como su cartera Web3.**
+**Recomendamos el uso de** [**Metamask**](https://metamask.io) (disponible actualmente solo en inglés) **como su cartera Web3.**
 
 Metamask es un plugin para el navegador que le permite realizar transacciones con Ethereum (y otras blockchains) a través de sitios web normales.&#x20;
 {% endhint %}
@@ -19,7 +19,7 @@ Esta guía se centra en una extensión de Chrome. Sin embargo, el proceso es sim
 Para crear y utilizar un **Client (cliente) DAO cliente** de Aragón es necesario conectarse a una red de prueba o a una red principal. Puedes elegir entre diferentes blockchains:
 
 * [Ethereum Mainnet](getting-started-with-ethereum.md)
-* [Goerli Testnet](https://app.gitbook.com/s/5JocmZjUHc2kDC6Rngio/products/set-up-metamask/getting-started-with-rinkeby-testnet)
+* [Goerli Testnet](http://localhost:5000/s/5JocmZjUHc2kDC6Rngio/products/set-up-metamask/getting-started-with-rinkeby-testnet)
 * [Polygon](getting-started-with-polygon.md)
 * Andromeda
 * [Mumbai Testnet](getting-started-with-mumbai-testnet.md)
@@ -98,7 +98,3 @@ Por último, también puede interactuar con redes privadas de Ethereum seleccion
 {% hint style="warning" %}
 Recuerde que si desea utilizar diferentes redes, debe configurar su monedero y cargarlo con fondos suficientes para pagar las tasas de transacción. Explicaremos cómo hacerlo en las próximas secciones.
 {% endhint %}
-
-> <mark style="color:purple;">**¿Tiene alguna pregunta? Deje sus comentarios aquí en nuestro foro Discourse (disponible actualmente solo en inglés)**</mark>**👇**
-
-{% embed url="https://support.aragon.org/t/web-3-metamask-wallet/15/2" %}

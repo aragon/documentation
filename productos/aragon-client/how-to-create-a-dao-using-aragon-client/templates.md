@@ -25,7 +25,3 @@ Una organización de reputación es una organización que utiliza **tokens intra
 {% hint style="warning" %}
 Si las plantillas por defecto no le proporcionan la solución deseada, usted puede configurar un [entorno de desarrollo](https://hack.aragon.org/) (disponible actualmente solo en inglés) y utilizar el [aragonCLI](https://hack.aragon.org/developers/tools/aragoncli) (disponible actualmente solo en inglés) para [crear una organizaciòn personalizada.](https://hack.aragon.org/developers/tools/guides/custom-deploy)
 {% endhint %}
-
-> <mark style="color:purple;">**¿Tiene alguna pregunta? Deje sus comentarios aquí en nuestro foro Discourse (disponible actualmente solo en inglés)**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/t/aragon-client-templates/20/2" %}

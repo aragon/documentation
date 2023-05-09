@@ -170,7 +170,3 @@ Si el % mínimo de aprobación se fija en el 20% y el 10% de la reserva de token
 * Transferir los tokens de Vault (Bóveda): transferir los tokens en posesión de la Vault App
 
 {% embed url="https://youtu.be/kMF7Y_KPm-4?t=666" %}
-
-> <mark style="color:purple;">**¿Tiene alguna pregunta? Deje sus comentarios aquí en nuestro foro Discourse (disponible actualmente solo en inglés)**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/t/aragon-client-navigate-your-dao-permissions-settings/29/2" %}

@@ -40,7 +40,3 @@ Conecte su monedero Web3 a la red Polygon y deposite al menos 0,2 MATIC.
 2. Haga clic en _**Create an Organization**_ (Crear una organización) y siga [este tutoria](how-to-create-a-dao-using-aragon-client/)l que le guiará a través del proceso de creación.
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/6139f3ebd3b029285070f569/file-MSqrvMAds0.png)
-
-> <mark style="color:purple;">**¿Tiene alguna pregunta? Deje sus comentarios aquí en nuestro foro Discourse (disponible actualmente solo en inglés)**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/t/aragon-client-create-a-dao-on-polygon/21/2" %}

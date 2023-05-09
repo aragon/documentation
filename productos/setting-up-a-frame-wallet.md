@@ -79,7 +79,3 @@ En el menú de configuración también puedes gestionar los permisos de la Dapp 
 {% hint style="success" %}
 Ya ha terminado de configurar Frame para su dispositivo y está listo para firmar su primera transacción.
 {% endhint %}
-
-> <mark style="color:purple;">**¿Tiene alguna pregunta? Deje sus comentarios aquí en nuestro foro Discourse (disponible actualmente solo en inglés)**</mark>**👇**
-
-{% embed url="https://support.aragon.org/t/web3-frame-wallet/16/2" %}

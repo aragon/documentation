@@ -45,7 +45,3 @@ Es fácil cometer errores fatales, siempre verifique dos veces los detalles cuan
 
 **Nuevamente, ¡no intente esto en casa!** Esta guía está destinada a hacer**le** consciente de algunos de los errores que puede cometer y que ladrillaran/bloquearán **🧱** (arruinarán) **s**u DAO.​
 {% endhint %}
-
-> <mark style="color:purple;">**¿Tiene alguna pregunta? Deje sus comentarios aquí en nuestro foro Discourse (disponible actualmente en inglés)**</mark>**  👇**
-
-{% embed url="https://support.aragon.org/c/aragon-client/6" %}

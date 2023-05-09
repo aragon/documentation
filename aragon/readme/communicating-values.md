@@ -19,4 +19,3 @@ Iníciese en nuestra comunidad conectándose a nuestra amplia red de recursos hu
 
 * Aragon Github - Código abierto GPL: [https://github.com/aragon](https://github.com/aragon) (disponible actualmente solo en inglés)
 * Aragón Discord: Preguntas [#questions](https://discord.gg/XgCeeKYd) (disponible actualmente solo en inglés) y canales [#dev-space](https://discord.gg/nSDwG5tf) (disponible actualmente solo en inglés)
-* Foro técnico: [https://support.aragon.org](https://support.aragon.org) (disponible actualmente solo en inglés)

@@ -116,7 +116,3 @@ Si está rellenando números fraccionarios, añada 18 ceros al valor original. P
 {% hint style="warning" %}
 Si el ABI no se muestra en una red (Rinkeby, por ejemplo), obtenga el ABI similar de otro DAO en una red diferente (Ethereum Mainnet, por ejemplo).
 {% endhint %}
-
-> <mark style="color:purple;">**¿Tiene alguna pregunta? Deje sus comentarios aquí en nuestro foro Discourse (disponible actualmente solo en inglés)**</mark>** 👇**
-
-{% embed url="https://support.aragon.org/t/web3-multisig-wallet/17/2" %}

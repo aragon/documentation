@@ -73,7 +73,3 @@ Una vez hecho esto, el Porcentaje de Quórum mínimo debería haberse ajustado a
 {% hint style="success" %}
 Si llegó hasta aquí, ¡bien hecho!👏​
 {% endhint %}
-
-<mark style="color:purple;">**¿Tiene alguna pregunta? Deje sus comentarios aquí en nuestro foro Discourse (disponible actualmente solo en**</mark> <mark style="color:purple;">**inglés).**</mark>** 👇**
-
-{% embed url="https://forum.aragon.org/" %}
