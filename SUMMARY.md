@@ -96,7 +96,7 @@
 
 ## 🛠 Developers
 
-* [Aragon Developer Documentation](developers/developers.md)
+* [Legacy Developer Documentation](developers/developers.md)
 * [General Tools](developers/tools/README.md)
   * [The Basics](developers/tools/the-basics/README.md)
     * [Before starting](developers/tools/the-basics/before-starting.md)
