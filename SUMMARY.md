@@ -96,7 +96,7 @@
 
 ## 🛠 Developers Documentation
 
-* [Aragon Developer Documentation](README.md)
+* [Aragon Developer Documentation](developers/README.md)
 * [General Tools](developers/tools/README.md)
   * [The Basics](developers/tools/the-basics/README.md)
     * [Before starting](developers/tools/the-basics/before-starting.md)
@@ -371,7 +371,7 @@
       * [govern-token](developers/products/aragon-govern/packages/govern-token.md)
       * [govern.js](developers/products/aragon-govern/packages/govern.js.md)
   * [Aragon Vocdoni](developers/products/aragon-vocdoni.md)
-* [Aragon Client Glossary](glossary/aragon-client.md)
+* [Aragon Client Glossary](developers/aragon-client.md)
 
 ## THE ANT TOKEN
 
