@@ -6,8 +6,12 @@ coverY: 739.3106704438148
 # Aragon Legacy Documentation
 
 {% hint style="danger" %}
-The products in this documentation are Aragon Legacy Products and are no longer being maintained. For a better experience and support **check out our newest Aragon Products** [**HERE**](https://aragon.org/)**.**
+The products and developer tools in this documentation are Aragon Legacy Products & Tools and are no longer being maintained. For a better experience and support **check out our newest Aragon Products and OSx** [**HERE**](https://aragon.org/)**.**
 {% endhint %}
+
+
+
+
 
 {% hint style="info" %}
 Welcome to the Aragon :flag\_gb: **English** user and developers documentation. What you need to get started building your DAO.
