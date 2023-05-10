@@ -16,7 +16,7 @@ The  products in this documentation are Aragon Legacy Products and are no longer
 
 
 {% hint style="info" %}
-Welcome to the Aragon :flag\_gb: **English** user documentation. What you need to get started building your DAO.
+Welcome to the Aragon :flag\_gb: **English** user and developers documentation. What you need to get started building your DAO.
 
 * Para la versión de la documentación de usuario en :flag\_es: **español** vaya [aquí](http://localhost:5000/o/3h8kxj8geKVXgyMnGbYT/s/t3hTlaCHK27whtbUr05N/).
 * Pour la version :flag\_fr: **française** de la documentation utilisateur, cliquez [ici](http://localhost:5000/o/3h8kxj8geKVXgyMnGbYT/s/iO9P3m8elNX5EjBARTqn/).

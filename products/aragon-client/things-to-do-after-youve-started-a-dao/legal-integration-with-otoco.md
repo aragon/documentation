@@ -1,4 +1,4 @@
-# Legal integration with Otoco
+# How to create a Legal Wrapper for your DAO with Otoco
 
 {% hint style="info" %}
 Being a DAO is great, but sometimes contracts with 'real world' entities are needed, and they need you to be a 'real world' entity as well. This is a How to Guide to setup a standard Delaware Series LLC with [**Otoco**](https://otoco.io/) and to integrate it with your Aragon Client DAO.
@@ -16,7 +16,7 @@ That needs the DAO to be registered in the legacy world as an LLC. But how on ea
 
 
 
-Open the DAO on Aragon Client by clicking on the following link: [**https://client.aragon.org/#/awsmmusic/**](https://client.aragon.org/#/awsmmusic/) **** (This example DAO is on Ethereum Mainnet).
+Open the DAO on Aragon Client by clicking on the following link: [**https://client.aragon.org/#/awsmmusic/**](https://client.aragon.org/#/awsmmusic/) (This example DAO is on Ethereum Mainnet).
 
 {% hint style="danger" %}
 Switch your Web3 Wallet to **Ethereum Mainnet**, to make the DAO appear on Aragon Client.
@@ -40,7 +40,7 @@ This takes you to the 'Tokens' app. Here you can see some of the Token Holders, 
 
 
 
-Now let’s go to Otoco, to create a legal integration for the DAO. Here’s the link [**https://otoco.io/**](https://otoco.io/)****
+Now let’s go to Otoco, to create a legal integration for the DAO. Here’s the link [**https://otoco.io/**](https://otoco.io/)
 
 Click on 'Spin up your project now':
 

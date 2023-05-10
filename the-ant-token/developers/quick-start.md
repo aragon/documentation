@@ -70,7 +70,7 @@ Addresses:
 
 * Community Multisig: [`0xcafE1A77e84698c83CA8931F54A755176eF75f2C`](https://etherscan.io/address/0xcafe1a77e84698c83ca8931f54a755176ef75f2c)
 
-Contract implementation: [`Multisig.sol`](https://github.com/aragon/aragon-network-token/blob/master/packages/sale/contracts/MultiSigWallet.sol)``
+Contract implementation: [`Multisig.sol`](https://github.com/aragon/aragon-network-token/blob/master/packages/sale/contracts/MultiSigWallet.sol)
 
 ABI:
 

@@ -50,7 +50,7 @@ If you cannot connect this wallet to dapps, (for example some multisig wallets) 
 
 The available upgrade paths for ANTv1 held in Aragon DAO is depend on whether the DAO has the Agent app installed or not.
 
-**If the DAO has the Agent app installed**, you will be able to directly upgrade the ANTv1 through an Agent transaction. You can accomplish this by connecting [Frame](../../products/setting-up-a-frame-wallet.md) to your DAO and using the Upgrade Portal, using the in-app console with a raw call, or [aragonCLI](https://app.gitbook.com/s/FkR0bXvUPu9r5wpMspNv/developers/tools/aragoncli) with a raw call.
+**If the DAO has the Agent app installed**, you will be able to directly upgrade the ANTv1 through an Agent transaction. You can accomplish this by connecting [Frame](../../products/setting-up-a-frame-wallet.md) to your DAO and using the Upgrade Portal, using the in-app console with a raw call, or [aragonCLI](http://localhost:5000/s/FkR0bXvUPu9r5wpMspNv/developers/tools/aragoncli) with a raw call.
 
 For those latter options, please understand the [contract interaction page](contract-interaction.md), and use the `act` command with the appropriate arguments for an `approveAndCall()` interaction.
 

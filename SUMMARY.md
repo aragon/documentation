@@ -94,10 +94,6 @@
   * [Acting as guardian for a dispute](products/aragon-court/acting-as-guardian-for-an-aragon-govern-dispute.md)
   * [Glossary](products/aragon-court/glossary.md)
 
-## Developers
-
-* [Developers Documentation](developers/developers.md)
-
 ## THE ANT TOKEN
 
 * [Aragon Network Token](the-ant-token/about-the-token/README.md)

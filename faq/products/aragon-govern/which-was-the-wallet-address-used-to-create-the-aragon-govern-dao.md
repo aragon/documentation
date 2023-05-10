@@ -8,4 +8,4 @@ If your DAO is on Rinkeby go [here](https://rinkeby.etherscan.io/) and paste the
 
 If you DAO is on Ethereum go [here](https://etherscan.io/) and paste the copied address in the search bar.&#x20;
 
-Go to the _transactions_ section list on the Etherscan page. Here you go to the first and oldest transaction, click on the _txn hash_. A new page (named _Transaction Details_) will be opened - the _from_ address __ is the address of your wallet address.
+Go to the _transactions_ section list on the Etherscan page. Here you go to the first and oldest transaction, click on the _txn hash_. A new page (named _Transaction Details_) will be opened - the _from_ address is the address of your wallet address.
