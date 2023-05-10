@@ -36,7 +36,7 @@ Note that your mnemonic phrase won't be the same as mine. So make sure you copy 
 
 Once you copied the 12 word seed phrase, paste it into the wallet seed text box, and create a new password (see image below).
 
-<figure><img src="../../.gitbook/assets/seed pw.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2022-04-25 at 13.28.54 (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Click on the _Restore_ button at the bottom of the page.
 

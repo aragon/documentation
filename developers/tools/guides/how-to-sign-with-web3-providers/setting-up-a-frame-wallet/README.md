@@ -13,12 +13,12 @@ Go to the [Frame website](https://frame.sh/) and install the Frame desktop clien
 ## Setup
 
 {% hint style="warning" %}
-You need a Metamask, Ledger or Trezor wallet to use Frame.&#x20;
+You need a Metamask, Ledger or Trezor wallet to use Frame.
 {% endhint %}
 
-Start by downloading Frame from the official website: [https://frame.sh](https://frame.sh/). Afterwards, you will find Frame in your Menu bar.&#x20;
+Start by downloading Frame from the official website: [https://frame.sh](https://frame.sh/). Afterwards, you will find Frame in your Menu bar.
 
-<figure><img src="../../../../../.gitbook/assets/frame-intro.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/frame-intro (1).gif" alt=""><figcaption></figcaption></figure>
 
 ## Configure your device <a href="#configure-your-device" id="configure-your-device"></a>
 
@@ -35,12 +35,12 @@ To import your Metamask wallet into Frame:
 ![](<../../../../../.gitbook/assets/Screenshot 2022-02-23 at 17.04.36.png>)
 
 {% hint style="warning" %}
-Please note that the view can be a bit different depending on your machine / OS.&#x20;
+Please note that the view can be a bit different depending on your machine / OS.
 {% endhint %}
 
 ### **Ledger**
 
-On Ledger devices insert your pin to unlock it. Next open Frame.&#x20;
+On Ledger devices insert your pin to unlock it. Next open Frame.
 
 <figure><img src="../../../../../.gitbook/assets/frame-ledger.gif" alt=""><figcaption></figcaption></figure>
 
@@ -48,16 +48,14 @@ On Ledger devices insert your pin to unlock it. Next open Frame.&#x20;
 
 On Trezor devices insert your pin directly on Frame. You should now be able to select the network and account you would like to use.
 
-&#x20;
-
 <figure><img src="../../../../../.gitbook/assets/frame-trezor.gif" alt=""><figcaption></figcaption></figure>
 
 ### **Network**
 
-To choose the desired network, select the _**three arrows**_ button on the upper right corner. This will take you to Frame menu, where you can configure its general settings.&#x20;
+To choose the desired network, select the _**three arrows**_ button on the upper right corner. This will take you to Frame menu, where you can configure its general settings.
 
 {% hint style="info" %}
-We will focus on the _**Connection**_ option.&#x20;
+We will focus on the _**Connection**_ option.
 {% endhint %}
 
 Feel free to choose any of the following networks: **Rinkeby, Mainnet, Ropsten, Kovan**.
@@ -66,21 +64,20 @@ Feel free to choose any of the following networks: **Rinkeby, Mainnet, Ropsten, 
 For this tutorial we will select Rinkeby.
 {% endhint %}
 
-<figure><img src="../../../../../.gitbook/assets/frame-app-menu.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/frame-app-menu (1).gif" alt=""><figcaption></figcaption></figure>
 
 ### **Accounts**
 
 The last step is to choose your account. Click on the _**Configuration**_ button. You will find it on the right of the Ledger or Trezor icon. Click on the _**Accounts**_ button that pops up below the icon. This will display a new menu with the available accounts on your device for the network. Select one with some test-Ether.
 
 {% hint style="info" %}
-&#x20;If you don't have any, you can request a Rinkeby faucet [here](https://faucet.rinkeby.io/) or [here](https://faucets.chain.link/rinkeby).
+If you don't have any, you can request a Rinkeby faucet [here](https://faucet.rinkeby.io/) or [here](https://faucets.chain.link/rinkeby).
 {% endhint %}
 
-In the configuration menu you can also manage the Dapp permissions you have granted for that particular account. We'll explain more about this in [this section](frame.md).&#x20;
+In the configuration menu you can also manage the Dapp permissions you have granted for that particular account. We'll explain more about this in [this section](frame.md).
 
 <figure><img src="../../../../../.gitbook/assets/frame-accounts.gif" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 You are now finished setting up Frame for your device and ready to sign your first transaction.
 {% endhint %}
-

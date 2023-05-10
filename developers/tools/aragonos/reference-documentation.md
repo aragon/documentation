@@ -463,15 +463,15 @@ function canPerform(address sender, bytes32 role, uint256[] params) public view 
 Apps have the choice of which actions to protect behind the ACL as some actions may make sense to be completely public. Any publicly exposed state-changing function should _most likely_ be protected, however.
 {% endhint %}
 
-**Lifecycle of an AragonApp call requiring the ACL**&#x20;
+**Lifecycle of an AragonApp call requiring the ACL**
 
-<figure><img src="../../../.gitbook/assets/os-app-call.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/os-app-call (1).gif" alt=""><figcaption></figcaption></figure>
 
 ### Application lifecycle guarantees <a href="#application-lifecycle-guarantees" id="application-lifecycle-guarantees"></a>
 
 The [DelegateProxy](https://eips.ethereum.org/EIPS/eip-897) pattern suffers from a particular weakness of the proxy contracts depending upon the survival of the base logic contracts. It is important to understand the lifecycles of these base and proxy contracts to ensure users' safety and to avoid incidents like the unfortunate [second Parity multisig wallet vulnerability](https://www.parity.io/security-alert-2/).
 
-AragonApps can be in the lifecycle stages of **uninitialized**, **initialized**, or **petrified**. As an application contract is deployed it begins in the **uninitialized** state and can go to either the **initialized** or **petrified** state.&#x20;
+AragonApps can be in the lifecycle stages of **uninitialized**, **initialized**, or **petrified**. As an application contract is deployed it begins in the **uninitialized** state and can go to either the **initialized** or **petrified** state.
 
 <figure><img src="../../../.gitbook/assets/app-lifecycle.png" alt=""><figcaption></figcaption></figure>
 
@@ -557,8 +557,6 @@ A contrived example of this is if your app allows creating a recurring token pay
 
 See [AragonApp](https://hack.aragon.org/docs/apps\_AragonApp.html).
 
-
-
 ## _Forwarders and EVMScripts_ <a href="#forwarders-and-evmscripts" id="forwarders-and-evmscripts"></a>
 
 Forwarders are one of the most important concepts of aragonOS. Rather than hardcoding the notion of a vote into each separate app’s functionality and ACL one can instead use a generic Voting App, which implements the forwarding interface, to pass actions _forward_ to other apps after successful votes. If the Voting App is set up to only allow a token’s holders to vote, that means any actions/calls being passed from it must have also been approved by the token’s holders.
@@ -571,7 +569,7 @@ The forwarding interface also allows a frontend interface, like the Aragon clien
 Vote forwarding scenario. (Please note that the governance model and characters are fictional.) **👇**
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/fwd.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/fwd (1).gif" alt=""><figcaption></figcaption></figure>
 
 ### EVMScripts <a href="#evmscripts-1" id="evmscripts-1"></a>
 
@@ -624,4 +622,3 @@ EVMScripts are very powerful and risk causing security breaches! For example, th
 ### API documentation <a href="#api-documentation-3" id="api-documentation-3"></a>
 
 See [IForwarder](https://hack.aragon.org/docs/common\_IForwarder.html) and [EVMScriptRunner](https://hack.aragon.org/docs/evmscript\_EVMScriptRunner.html).
-

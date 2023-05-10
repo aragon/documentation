@@ -1,7 +1,7 @@
 # ANTv1
 
 {% hint style="success" %}
-## **👉 Important information**:
+### **👉 Important information**:
 
 * ANTv1's token contract address is [`0x960b236A07cf122663c4303350609A66A7B288C0`](https://etherscan.io/token/0x960b236A07cf122663c4303350609A66A7B288C0)
 * ANTv1 is a ERC20 token, specifically a [MiniMe token](antv1-about-the-minime-token.md)
@@ -42,6 +42,3 @@ Currently this address is the Community Multisig [0xbEEFbEeF03c7E5a1C29E0Aa675f8
 In light of technical advancements in the Ethereum and decentralized technology ecosystems, [ANTv1 has been deprecated in favour of ANTv2](../upgrading-to-antv2/) as the Aragon Network's governance token.
 
 > Despite being deprecated, ANTv1 is forever "unstoppable": it will continue to be transferable and tradable on Ethereum.
-
-
-

@@ -1,6 +1,6 @@
 # Why do we need DAOs?
 
-> ### **Problem statement**
+> #### **Problem statement**
 >
 > Common corporate entities such as the Limited Liability Company (LLC) have served us for many decades. With the advent of the World Wide Web and the increased international cooperation that came alongside it, nationally registered corporate entities seem like relics from the past\*\*.\*\*
 

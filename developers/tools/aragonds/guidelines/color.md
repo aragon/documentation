@@ -1,5 +1,5 @@
 ---
-cover: ../../../../.gitbook/assets/color.png
+cover: ../../../../.gitbook/assets/color (1).png
 coverY: 0
 ---
 
@@ -9,14 +9,13 @@ coverY: 0
 
 These principles are the framework upon which we have built our system for how color is used in Aragon.
 
-<figure><img src="../../../../.gitbook/assets/naming.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/naming (1).svg" alt=""><figcaption></figcaption></figure>
 
 * **Precision:** We defined a small number of primary colors for core interactions (and task-based contexts) and a sufficient number of secondary colors to create more ascetic / decorative illustrations, app icons and graphs.
 * **Accessible:** We should never use color alone to convey information. Provide sufficient contrast between the elements and meet the minimum accessibility guidelines to better serve color blind or people with low vision.
 * **Focus:** We should use color purposefully to help focus users’ attention with the task at hand. Colors convey meaning and complement the content hierarchy following a clear rationale.
 * **Clarity:** Developers and designers should be able to easily refer to particular colors defined in the system. Color names are easily understood, memorable, and spark meaningful conversations between designers and developers (shades changes, contrast corrections, etc.).
-* **Consistent:** Color should be applied throughout a UI consistently and celebrate the brand it represents.\
-
+* **Consistent:** Color should be applied throughout a UI consistently and celebrate the brand it represents.\\
 
 ## Color naming conventions <a href="#color-naming-conventions" id="color-naming-conventions"></a>
 
@@ -34,7 +33,7 @@ There are two common approaches when it comes to name color names: Declarative o
 
 <figure><img src="../../../../.gitbook/assets/Schermata 2022-08-29 alle 23.42.32.png" alt=""><figcaption></figcaption></figure>
 
-**Secondary colors**&#x20;
+**Secondary colors**
 
 <figure><img src="../../../../.gitbook/assets/Schermata 2022-08-29 alle 23.42.51.png" alt=""><figcaption></figcaption></figure>
 
@@ -42,7 +41,7 @@ There are two common approaches when it comes to name color names: Declarative o
 
 <figure><img src="../../../../.gitbook/assets/Schermata 2022-08-29 alle 23.43.05.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/Schermata 2022-08-29 alle 23.43.11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Schermata 2022-08-29 alle 23.43.11 (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../../.gitbook/assets/Schermata 2022-08-29 alle 23.43.17.png" alt=""><figcaption></figcaption></figure>
 
@@ -52,7 +51,7 @@ There are two common approaches when it comes to name color names: Declarative o
 
 <figure><img src="../../../../.gitbook/assets/Schermata 2022-08-29 alle 23.43.40.png" alt=""><figcaption></figcaption></figure>
 
-**Functional colors**&#x20;
+**Functional colors**
 
 <figure><img src="../../../../.gitbook/assets/Schermata 2022-08-29 alle 23.43.47.png" alt=""><figcaption></figcaption></figure>
 
@@ -68,7 +67,7 @@ The Aragon Gradient (AragonBlue + AragonTurquoise) is used to convey the most re
 
 Primary colors are used to emphasize primary buttons, interactive areas, component states, and progress indicators.
 
-<figure><img src="../../../../.gitbook/assets/branded (1).svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/branded.svg" alt=""><figcaption></figcaption></figure>
 
 ## Interface <a href="#interface" id="interface"></a>
 
@@ -87,4 +86,3 @@ Functional colors are used to convey the current status of the interface: primar
 Additional colors are used for data visualization, illustrations, and iconography.
 
 <figure><img src="../../../../.gitbook/assets/aesthetics.svg" alt=""><figcaption></figcaption></figure>
-

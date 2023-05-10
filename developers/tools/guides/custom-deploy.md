@@ -12,7 +12,7 @@ Before starting you need to check if you have already installed all these prereq
 
 * the right version of **node.js** (recommended `v12.7 LTS` version)
 * web3 provider: [Frame](how-to-sign-with-web3-providers/setting-up-a-frame-wallet/) or [Metamask](how-to-sign-with-web3-providers/set-up-metamask/) (Frame is necessary for this guide).
-* the **aragonCLI** (Aragon Command Line Interface)&#x20;
+* the **aragonCLI** (Aragon Command Line Interface)
 * an [IPFS server.](https://docs.ipfs.io/install/)
 
 {% hint style="info" %}
@@ -39,11 +39,7 @@ In the Frame app now a 'permission request' from aragonCLI should show up. 'Sign
 
 After this a transaction to create the DAO should show up in Frame, also 'sign' this transaction:
 
-
-
-![](<../../../.gitbook/assets/Screenshot\_2022-04-27\_at\_23\_08\_37 (1).png>)
-
-
+![](../../../.gitbook/assets/Screenshot\_2022-04-27\_at\_23\_08\_37.png)
 
 {% hint style="warning" %}
 **Hint**
@@ -63,7 +59,7 @@ The DAO was created with the default [`bare-template`](https://github.com/aragon
 **Note**\
 The `bare-kit` has been deprecated and `bare-template` should be used instead. To learn more about templates check the[ introduction about them](../the-basics/templates.md).
 
-The above command used the `--use-frame` and `--env` flags. You can find other possible flags [here](../aragoncli/dao-commands.md#dao-new), or by adding the `--help` flag to the command.&#x20;
+The above command used the `--use-frame` and `--env` flags. You can find other possible flags [here](../aragoncli/dao-commands.md#dao-new), or by adding the `--help` flag to the command.
 {% endhint %}
 
 ### Adding a Token and Token Manager to your DAO <a href="#adding-a-token-and-token-manager-instance" id="adding-a-token-and-token-manager-instance"></a>
@@ -88,7 +84,7 @@ dao token new <token-name> <symbol> [decimal-units] [transfer-enabled]
 The [MiniMeToken](https://github.com/Giveth/minime) contract is a standard ERC20 token with extra functionality.
 {% endhint %}
 
-For our membership token we take `"Member"` as  `token-name`, with `"MBR"` as `symbol`.
+For our membership token we take `"Member"` as `token-name`, with `"MBR"` as `symbol`.
 
 We want to set `decimal-units` to `0` (the default is `18`).
 
@@ -164,7 +160,7 @@ We can now initialize the token manager using the `dao exec` command. The token-
 You can find more info about `dao exec` commands [here](../aragoncli/dao-commands.md#dao-exec).
 {% endhint %}
 
-We would not like dairy farmers to transfer their membership tokens, so we set the boolean to `false`. Then we want one address to control a maximum of 1 membership token, so the `unit` will be set to `1`. Insert the data of the variables in the below command, and run it in your terminal:&#x20;
+We would not like dairy farmers to transfer their membership tokens, so we set the boolean to `false`. Then we want one address to control a maximum of 1 membership token, so the `unit` will be set to `1`. Insert the data of the variables in the below command, and run it in your terminal:
 
 ```
 dao exec <dao-address> <token-manager-address> initialize <token-address> false 1 --use-frame --env aragon:rinkeby
@@ -172,9 +168,7 @@ dao exec <dao-address> <token-manager-address> initialize <token-address> false 
 
 At this point if you open your DAO in a web browser you should be able to see the [token manager app installed](https://documentation.aragon.org/products/aragon-client/explore-template-dao/what-are-apps/token-app), and should be able to mint tokens from `your-address`. Open your DAO UI from here: `https://client.aragon.org/#/<dao-address>`
 
-
-
-![](../../../.gitbook/assets/Screenshot\_2022-04-28\_at\_22\_23\_26.png)
+![](<../../../.gitbook/assets/image (58).png>)
 
 {% hint style="danger" %}
 **Warning**
@@ -233,8 +227,6 @@ dao install <dao-address> vault --use-frame --env aragon:rinkeby
 
 Copy the provided `vault-address` from the terminal, which will be needed later.
 
-
-
 The finance-app however requires two initialization parameters:
 
 1. `vault-address.`
@@ -271,14 +263,12 @@ dao acl create <dao-address> <finance-address> MANAGE_PAYMENTS_ROLE <voting-addr
 For more information on what each of these roles do as well as additional roles made available by the finance-app, see the [repository](https://github.com/aragon/aragon-apps/blob/87b55951fcd83e4aefcc49f616fa2417743836c3/apps/finance/arapp.json).
 
 {% hint style="success" %}
-At this point you should be able to open your custom DAO in the web browser and manage tokens, create votes, and manage funds using  the vault and finance apps! :tada:
+At this point you should be able to open your custom DAO in the web browser and manage tokens, create votes, and manage funds using the vault and finance apps! :tada:
 {% endhint %}
 
 ### Review & Finalize Permissions <a href="#review-finalize-permissions" id="review-finalize-permissions"></a>
 
 While we have a mostly functional dairy-DAO [the permissions](https://documentation.aragon.org/products/aragon-client/explore-template-dao/system-setting/permissions-setting) need to be cleaned up because we do not want our personal address to have root authority in the organization. These steps can be done from the permissions UI (see image below), or directly from Aragon CLI.
-
-
 
 ![](<../../../.gitbook/assets/Screenshot 2022-05-04 at 16.28.04.png>)
 
@@ -288,7 +278,7 @@ To see what permissions are currently assigned, run the following `dao acl` comm
 dao acl <dao-address> --use-frame --env aragon:rinkeby
 ```
 
-You will notice that some key permissions have been granted and are managed by the address you used to perform these commands. By following these steps you are transferring authority as creator of the organization to other applications and entities defined above,&#x20;
+You will notice that some key permissions have been granted and are managed by the address you used to perform these commands. By following these steps you are transferring authority as creator of the organization to other applications and entities defined above,
 
 {% hint style="danger" %}
 Warning
@@ -317,4 +307,3 @@ dao acl set-manager <dao-address> <app-address> <ROLE> <voting-address> --use-fr
 {% hint style="success" %}
 At this point you should have changed permissions. Well done you successfully set up a custom DAO for the dairy-farmers cooperation. Let's toast to that! :cow::milk::milk::cow:
 {% endhint %}
-

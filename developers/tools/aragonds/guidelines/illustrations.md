@@ -21,12 +21,10 @@ Illustration is a key element of the brand system.
 ## Illustration principles <a href="#illustration-principles" id="illustration-principles"></a>
 
 **Be bold**\
-Our illustration style takes larger-than-life achievements and makes them human and relatable. Being bold means taking on massive goals, feeling empowered, and being confident that those goals are achievable. It's not about being loud, noisy, or over-the-top. It's about setting a goal, and acknowledging the inherent complexity in getting things done. We use clean shapes, plenty of white space, and balanced color ratios to ensure that the scene never feels too chaotic.\
-
+Our illustration style takes larger-than-life achievements and makes them human and relatable. Being bold means taking on massive goals, feeling empowered, and being confident that those goals are achievable. It's not about being loud, noisy, or over-the-top. It's about setting a goal, and acknowledging the inherent complexity in getting things done. We use clean shapes, plenty of white space, and balanced color ratios to ensure that the scene never feels too chaotic.\\
 
 **Be optimistic**\
-Our illustrations feature future-forward narratives that center around teams working together to improve the world around them. The Aragon illustration style reflects our belief that a team is capable of tackling any task, no matter how big or complex. Stylistically, bright color and a sense of low-gravity lend a lightness and buoyancy to our storytelling, driving home the point that when we work together, anything is achievable.\
-
+Our illustrations feature future-forward narratives that center around teams working together to improve the world around them. The Aragon illustration style reflects our belief that a team is capable of tackling any task, no matter how big or complex. Stylistically, bright color and a sense of low-gravity lend a lightness and buoyancy to our storytelling, driving home the point that when we work together, anything is achievable.\\
 
 **Be practical, but with a wink**\
 Though our illustration style is slightly fantastical, it should never feel impractical or naive. We reinforce the real-life nature of teamwork through perspective and depth. We add in 'wink' through slight tweaks to the dimension of people and things. We ensure that the illustration narrative is both inspiring and empowering, which means that we thoughtfully use metaphors (e.g. unicorns) when appropriate, as well as clear, literal representations of real-life concepts.
@@ -43,7 +41,7 @@ The use of textures will give our illustrations an organic look.
 **Colors**\
 A good color palette has a massive impact on the final result of an illustration. Select colors that may fit conceptually and help convey the narrative of the illustration.
 
-<figure><img src="../../../../.gitbook/assets/naming (1).svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/naming.svg" alt=""><figcaption></figcaption></figure>
 
 **Skin tones**\
 The use of different skin tones helps us illustrate human diversity and promote representation.
@@ -51,8 +49,6 @@ The use of different skin tones helps us illustrate human diversity and promote 
 <figure><img src="../../../../.gitbook/assets/skin-tones.svg" alt=""><figcaption></figcaption></figure>
 
 ## Types of illustration <a href="#types-of-illustration" id="types-of-illustration"></a>
-
-
 
 **HERO**\
 Our illustration style takes larger-than-life achievements, and makes them human and relatable.
@@ -67,15 +63,13 @@ Spot illustrations are the simplest and most literal expression of a concept. Be
 **ICONS**\
 Icon illustrations are the best way to represent a basic concept. These icons have only one tone of color, with a basic soft blue gradient. They usually do not include any people, using only objects and forms to represent the ideas.
 
-\
+\\
 
-
-<figure><img src="../../../../.gitbook/assets/icons.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/icons (1).svg" alt=""><figcaption></figcaption></figure>
 
 ## Correct use of illustrations <a href="#correct-use-of-illustrations" id="correct-use-of-illustrations"></a>
 
-It is important to make proper use of the illustrations in terms of color, proportions, shapes. Below are just some examples of illustration Do's and Don'ts.\
-
+It is important to make proper use of the illustrations in terms of color, proportions, shapes. Below are just some examples of illustration Do's and Don'ts.\\
 
 **RESPECT THE COLOR CODE**\
 The color code is important when creating our illustrations, it is essential that the basic Aragon Gradient is part of some element within our illustration.
@@ -91,4 +85,3 @@ One of the most important rules that we should respect is the consistency within
 It’s our duty to fight for breaking down gender identity and ethnic stereotypes in order to promote equality with our designs. Illustrations can be used as a powerful tool to help us build a path to diversity and inclusion. We will also avoid repeating characters within the same illustration.
 
 <figure><img src="../../../../.gitbook/assets/sex-integration.svg" alt=""><figcaption></figcaption></figure>
-

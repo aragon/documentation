@@ -2,7 +2,7 @@
 
 ## 🔷 Aragon
 
-* [Aragon User Documentation](README.md)
+* [Aragon Legacy Documentation](README.md)
 * [Aragon Values, Finances, and Legal](aragon/readme/README.md)
   * [Legal and technical infrastructure](aragon/readme/legal-and-technical-infrastructure.md)
   * [Financial infrastructure](aragon/readme/dao-finances.md)
@@ -94,9 +94,9 @@
   * [Acting as guardian for a dispute](products/aragon-court/acting-as-guardian-for-an-aragon-govern-dispute.md)
   * [Glossary](products/aragon-court/glossary.md)
 
-## 🛠 Developers Documentation
+## 🛠 Developers
 
-* [Aragon Developer Documentation](developers/README.md)
+* [Aragon Developer Documentation](developers/developers.md)
 * [General Tools](developers/tools/README.md)
   * [The Basics](developers/tools/the-basics/README.md)
     * [Before starting](developers/tools/the-basics/before-starting.md)

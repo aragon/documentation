@@ -87,7 +87,7 @@ Make sure you open the right address account in your Frame wallet. Also make sur
 
 Now Frame wallet should come with a pop-up requesting to sign a transaction (note: this can take a few minutes)! Sign and the Agent app will install:
 
-![](<../../../../.gitbook/assets/Screenshot\_2022-04-27\_at\_23\_08\_37 (1).png>)
+![](../../../../.gitbook/assets/Screenshot\_2022-04-27\_at\_23\_08\_37.png)
 
 The command included the `--use-frame` flag to use Frame wallet and the `--env` flag to use Rinkeby. If you have a custom IPFS, it can be defined with the `--ipfs-rcp` flag.
 
@@ -117,19 +117,17 @@ To confirm the vote:
 
 1. Click on the **Voting** app icon in the left panel. You should see you have one open vote.
 
-
-
 <figure><img src="../../../../.gitbook/assets/agent-0.png" alt=""><figcaption></figcaption></figure>
 
 2\. Click on the **View vote** button. You should see a panel pop up on the right hand side.
 
 <figure><img src="../../../../.gitbook/assets/agent-1.png" alt=""><figcaption></figcaption></figure>
 
-3\. Scroll to the bottom of the panel and click on the big green **Yes** button.&#x20;
+3\. Scroll to the bottom of the panel and click on the big green **Yes** button.
 
 <figure><img src="../../../../.gitbook/assets/agent-2.png" alt=""><figcaption></figcaption></figure>
 
-4\. Sign the transaction with your favourite web3 provider (like Metmask or [Frame](../how-to-sign-with-web3-providers/setting-up-a-frame-wallet/frame.md)) and voila! That's all there is to it. When you click on the Voting app again you should see the vote has passed with a 100% Yes vote.&#x20;
+4\. Sign the transaction with your favourite web3 provider (like Metmask or [Frame](../how-to-sign-with-web3-providers/setting-up-a-frame-wallet/frame.md)) and voila! That's all there is to it. When you click on the Voting app again you should see the vote has passed with a 100% Yes vote.
 
 <figure><img src="../../../../.gitbook/assets/agent-3.png" alt=""><figcaption></figcaption></figure>
 

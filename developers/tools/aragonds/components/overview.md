@@ -11,11 +11,11 @@ Components are one of the key building blocks of the design system. Each compone
 
 <div>
 
-<figure><img src="../../../../.gitbook/assets/alert (1).svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/alert.svg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../../../.gitbook/assets/buttons (1).svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/buttons (2).svg" alt=""><figcaption></figcaption></figure>
 
  
 
@@ -25,7 +25,7 @@ Components are one of the key building blocks of the design system. Each compone
 
 <div>
 
-<figure><img src="../../../../.gitbook/assets/formelements.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/formelements (1).svg" alt=""><figcaption></figcaption></figure>
 
  
 
@@ -43,7 +43,7 @@ Components are one of the key building blocks of the design system. Each compone
 
  
 
-<figure><img src="../../../../.gitbook/assets/menu (2).svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/menu (1).svg" alt=""><figcaption></figcaption></figure>
 
  
 
@@ -102,4 +102,3 @@ Components are one of the key building blocks of the design system. Each compone
 <figure><img src="../../../../.gitbook/assets/app-icons.svg" alt=""><figcaption></figcaption></figure>
 
 </div>
-

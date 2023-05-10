@@ -2,19 +2,13 @@
 
 You need the Agent App but it has not yet been installed in your DAO? Fear not, it can still be installed using [**EVM Crispr**](https://evm-crispr.blossom.software/#/), a tool to modify 'the DNA' of your DAO.
 
-
-
 The Agent App is not installed since it is not appearing under 'APPS' in the DAO menu bar:
 
 <figure><img src="../../../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
-
-
-Before we head to EVM Crispr we need you to collect the 'address' of your DAO. You can find it under 'SYSTEM > Organization':&#x20;
+Before we head to EVM Crispr we need you to collect the 'address' of your DAO. You can find it under 'SYSTEM > Organization':
 
 <figure><img src="../../../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
-
-
 
 Now let's go to the terminal of EVM Crispr:
 
@@ -22,7 +16,7 @@ Now let's go to the terminal of EVM Crispr:
 
 Clean the terminal by removing all the example commands which you will find when opening it:
 
-<figure><img src="../../../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (10) (2).png" alt=""><figcaption></figcaption></figure>
 
 Now Copy/ Paste the following commands in the terminal:
 
@@ -41,8 +35,6 @@ ar:connect <your dao address> token-manager voting (
 Next to installing the Agent app we also grant the voting app with the `TRANSFER_ROLE`, `EXECUTE_ROLE`, and `ISSUE_ROLE` so `exec agent` and `act agent` commands can be used in the future.
 {% endhint %}
 
-
-
 This is what the terminal should look like after Copy/ Paste of the above commands:
 
 <figure><img src="../../../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
@@ -52,8 +44,6 @@ Find the DAO address which you saved earlier and now replace `<your dao address>
 {% hint style="danger" %}
 Make sure your Web3 wallet is connected to the **Network** on which the Aragon DAO was created. Also it should be set to the **Account** which has created the DAO on Aragon Client and/ or owns the DAO tokens
 {% endhint %}
-
-
 
 Now click on **Forwarding from...** :
 
@@ -72,10 +62,8 @@ Then click **Create transaction** and Confirm the transaction in your Web3 walle
 <figure><img src="../../../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
-If your address does not have enough 'DAO tokens' for the vote to meet the Support and Minimum approval necessary, then mobilise other token holders to vote so the vote can pass.&#x20;
+If your address does not have enough 'DAO tokens' for the vote to meet the Support and Minimum approval necessary, then mobilise other token holders to vote so the vote can pass.
 {% endhint %}
-
-
 
 TheAgent App should look like this:
 
@@ -83,6 +71,6 @@ TheAgent App should look like this:
 
 Read the next Article on [how to use the Agent app](using-agent-with-frame.md)!
 
-And for more options using the Agent App with EVM Crispr, check here:&#x20;
+And for more options using the Agent App with EVM Crispr, check here:
 
 {% embed url="https://docs.evmcrispr.blossom.software/aragonOS/agent/" %}

@@ -31,12 +31,11 @@ The use of the “Roboto Monotype” typeface is intended exclusively for numeri
 **Badges**\
 One of its main uses is for the numerical content on address badges.
 
-<figure><img src="../../../../.gitbook/assets/branded.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/branded (1).svg" alt=""><figcaption></figcaption></figure>
 
 ## Correct use of typography <a href="#correct-use-of-typography" id="correct-use-of-typography"></a>
 
-It is important to make proper use of typography in terms of thickness, alignment, separation, and layout. Below are some examples of typography Do's and Don'ts.\
-
+It is important to make proper use of typography in terms of thickness, alignment, separation, and layout. Below are some examples of typography Do's and Don'ts.\\
 
 **RESPECT THE HIERARCHY**\
 In order to respect the content hierarchy, it is important to make proper use of weights, thus differentiating the titles of the paragraphs.
@@ -56,4 +55,3 @@ The use of color will help us generate a logical hierarchy in our paragraphs. It
 It is extremely important to respect the kernings and the text lines in order to achieve a balanced layout on our paragraphs.
 
 <figure><img src="../../../../.gitbook/assets/correct-typo-4.svg" alt=""><figcaption></figcaption></figure>
-

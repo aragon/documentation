@@ -20,13 +20,13 @@ function App() {
 
 ## Icons set
 
-<figure><img src="../../../../.gitbook/assets/Schermata 2022-08-30 alle 15.48.38.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Schermata 2022-08-30 alle 15.48.38 (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/Schermata 2022-08-30 alle 15.48.51 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Schermata 2022-08-30 alle 15.48.51.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../../.gitbook/assets/Schermata 2022-08-30 alle 15.49.02.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/Schermata 2022-08-30 alle 15.49.13 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Schermata 2022-08-30 alle 15.49.13 (2).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../../.gitbook/assets/Schermata 2022-08-30 alle 15.49.42.png" alt=""><figcaption></figcaption></figure>
 

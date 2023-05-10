@@ -4,13 +4,13 @@ Before starting to go into depth into the command-line-interface, creating Arago
 
 ## What is Web3? <a href="#web3" id="web3"></a>
 
-Unless you've been living under a rock for the last few years, you've probably come across the term **Web3** 😋.&#x20;
+Unless you've been living under a rock for the last few years, you've probably come across the term **Web3** 😋.
 
 But what does it mean exactly? And why do we care about it in the context of Aragon?
 
 Web3 is the vision of a fully **decentralized web**. One of the craziest things to wrap your head around is that in web3, apps don't need a central server to fetch data from!
 
-How is this possible?&#x20;
+How is this possible?
 
 In a nutshell: thanks to something called **peer-to-peer data architectures**. The key point is that in a P2P architecture, instead of requesting data from a central server, you request it from multiple computers (peers) around you.
 
@@ -24,7 +24,7 @@ While we won't get into the details here, the key takeaway:
 Cryptoeconomics is the big unlock that has allowed us to start moving from centralized data structures (web2) to more decentralized or fully distributed data architectures (web3).
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/centralized-vs-decentralized-stack-2 (1).png" alt=""><figcaption><p>Centralized vs Decentralized</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/centralized-vs-decentralized-stack-2.png" alt=""><figcaption><p>Centralized vs Decentralized</p></figcaption></figure>
 
 > Note that there’s a spectrum from fully centralized (left) to fully decentralized (right).
 
@@ -32,7 +32,7 @@ Cryptoeconomics is the big unlock that has allowed us to start moving from centr
 
 While blockchains -- like Bitcoin and Ethereum -- are key to this Web3 vision, it's important to note that there are **other essential parts** of the Web3 stack that are not covered by them.
 
-For example, since blockchains are relatively expensive to **store data** on, it turns out that they don't make great file systems. That's why there's also a need for decentralized file systems like the **** [**IPFS (InterPlanetary File System)**](https://ipfs.io/) which Aragon also makes use of.
+For example, since blockchains are relatively expensive to **store data** on, it turns out that they don't make great file systems. That's why there's also a need for decentralized file systems like the \*\*\*\* [**IPFS (InterPlanetary File System)**](https://ipfs.io/) which Aragon also makes use of.
 
 IPFS is a distributed system for storing and accessing files, websites, applications, and data.
 
@@ -42,7 +42,7 @@ Definition: a Web3 provider an abstraction of a connection to the Ethereum Netwo
 
 In poor words, a Web3 provider is "something" that can actually sign and send transactions to the Ethereum blockchain.
 
-If you're new to the decentralized web you might be wondering why we have to use a separate provider to interact with the blockchain.&#x20;
+If you're new to the decentralized web you might be wondering why we have to use a separate provider to interact with the blockchain.
 
 Why don't decentralized apps (like Aragon's) just do it themselves?
 

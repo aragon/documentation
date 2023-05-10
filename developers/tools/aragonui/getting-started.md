@@ -53,7 +53,7 @@ This section takes the [Tokens app](https://help.aragon.org/article/18-tokens) t
 
 This is how it looks:
 
-<figure><img src="../../../.gitbook/assets/1 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/1 (1).png" alt=""><figcaption></figcaption></figure>
 
 The Tokens app and its layout variations.
 

@@ -16,7 +16,7 @@ This brings us to the central piece of the Aragon ecosystem: the **organization*
 
 An Aragon organization contains the tools needed for a community to organize its decentralized life. It is composed of a **kernel**, a **series of apps**, and a **set of permissions** that define the protocol of the organization: what can be done in what way.
 
-![The decentralized nature of organizations allows users to access them in varied ways.](<../../../../.gitbook/assets/image (6).png>)
+![The decentralized nature of organizations allows users to access them in varied ways.](<../../../../.gitbook/assets/image (42).png>)
 
 The kernel of an organization, and each of its apps, are represented by **smart contracts deployed on the Ethereum chain**. Interacting with them can be done through the use of tools like the [**Aragon Client**](https://client.aragon.org/) **for the browser**, [**aragonCLI**](../../aragoncli/) **for the command line**, or **programmatically through** [**Aragon Connect**](../)**.**
 
@@ -60,7 +60,7 @@ An important aspect of **permissions is that they are not limited to normal acco
 
 As we just saw with the permissions examples above, a given action may get redirected from one app to another, until the desired action (on the "target" app) can finally be executed. **This series of actions jumping from one app to another** is what we call the **forwarding path**. The process of computing all possible forwarding paths for a given action is called **transaction pathing**.
 
-![Example: the permission is directly granted to the account of Enrique.](<../../../../.gitbook/assets/image (5).png>)
+![Example: the permission is directly granted to the account of Enrique.](<../../../../.gitbook/assets/image (32).png>)
 
 ![Example: the permission is granted to the Voting app which allows an indirect execution.](https://3363896981-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MA6hW3SeeU0GuLWcdQ\_-887967055%2Fuploads%2Fgit-blob-de9bc2212e2bd2bc61f1cc4bdb7634c810f8fa68%2Fbasics-forwarding-path-indirect.png?alt=media)
 
@@ -77,6 +77,3 @@ An important goal for Aragon is to make user interactions simple and understanda
 Now that you are more familiar with the way Aragon organizations work, you might want to start immediately by reading [Getting Started for Aragon Connect](getting-started.md).
 
 You might also want to know more about Aragon as a platform. In that case, we recommend you to have a look at our general documentation website: [https://documentation.aragon.org/](https://documentation.aragon.org/).
-
-
-

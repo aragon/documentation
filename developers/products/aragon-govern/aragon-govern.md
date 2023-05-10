@@ -1,8 +1,8 @@
 # README
 
-****[**Website**](https://aragon.org/aragon-govern) **|** [**Documentation**](./) **|** [**Chat**](https://support.aragon.org/)****
+[**Website**](https://aragon.org/aragon-govern) **|** [**Documentation**](./) **|** [**Chat**](https://support.aragon.org/)
 
-![](<../../../.gitbook/assets/image (21).png>)****[ **** ![](<../../../.gitbook/assets/image (55).png>)](https://www.npmjs.com/package/@aragon/govern-core)[ ![](<../../../.gitbook/assets/image (35).png>)](https://img.shields.io/badge/solidity-%3E%3D%200.6.8-lightgrey)[ ![](<../../../.gitbook/assets/image (11).png>)](https://github.com/aragon/govern/actions?query=workflow%3ACI)[ ![](<../../../.gitbook/assets/image (56).png>)](https://github.com/aragon/govern/actions?query=workflow%3ACD)[ ![](<../../../.gitbook/assets/image (4).png>)](https://codecov.io/gh/aragon/govern)
+![](<../../../.gitbook/assets/image (21).png>)\*\*\*\*[ \*\*\*\* ![](<../../../.gitbook/assets/image (54).png>)](https://www.npmjs.com/package/@aragon/govern-core)[ ![](<../../../.gitbook/assets/image (35).png>)](https://img.shields.io/badge/solidity-%3E%3D%200.6.8-lightgrey)[ ![](<../../../.gitbook/assets/image (18).png>)](https://github.com/aragon/govern/actions?query=workflow%3ACI)[ ![](<../../../.gitbook/assets/image (56).png>)](https://github.com/aragon/govern/actions?query=workflow%3ACD)[ ![](<../../../.gitbook/assets/image (4).png>)](https://codecov.io/gh/aragon/govern)
 
 ## Aragon Govern
 
@@ -44,8 +44,6 @@ This repo uses Lerna and yarn workspaces to bootstrap itself, and is divided int
 ## Deployed instances
 
 To use Govern, feel free to deploy your own registries and factories, but using the official registries ensures that our tooling will detect your organization properly.
-
-
 
 **Mainnet**
 

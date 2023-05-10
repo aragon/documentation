@@ -44,9 +44,7 @@ This results in purely technical benefits such as testability, but it is also ve
 
 #### Lifecycle of an aragonOS call <a href="#lifecycle-of-an-aragonos-call" id="lifecycle-of-an-aragonos-call"></a>
 
-<figure><img src="../../../.gitbook/assets/os-app-call (1).gif" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../../../.gitbook/assets/os-app-call.gif" alt=""><figcaption></figcaption></figure>
 
 ## _Kernel_ <a href="#kernel-1" id="kernel-1"></a>
 
@@ -306,7 +304,7 @@ The forwarding interface also allows a frontend interface, like the Aragon clien
 
 > Vote forwarding scenario. (Please note that the governance model and characters are fictional). **👇**
 
-<figure><img src="../../../.gitbook/assets/fwd (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/fwd.gif" alt=""><figcaption></figcaption></figure>
 
 ### EVMScripts <a href="#evmscripts" id="evmscripts"></a>
 
@@ -360,7 +358,5 @@ Examples of forwarders can be found in the aragon-apps repo. Both the Voting and
 {% hint style="danger" %}
 **Warning**
 
-EVMScripts are very powerful and risk causing security breaches! For example, the Token Manager, which allows any token holder to forward actions, needs to have the token address in its blacklist as otherwise any token holder would effectively have control over the token in the same way that the Token Manager does!\
-
+EVMScripts are very powerful and risk causing security breaches! For example, the Token Manager, which allows any token holder to forward actions, needs to have the token address in its blacklist as otherwise any token holder would effectively have control over the token in the same way that the Token Manager does!\\
 {% endhint %}
-

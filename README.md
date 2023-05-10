@@ -1,19 +1,13 @@
 ---
-cover: >-
-  .gitbook/assets/spaces_5JocmZjUHc2kDC6Rngio_uploads_git-blob-6b01b53fdff2561afe0eddfe820654b3119b08b0_619622a69961413c646ac357_bg_02
-  (1) (1).png
+cover: .gitbook/assets/619622a69961413c646ac357_bg_02.png
 coverY: 739.3106704438148
 ---
 
-# Aragon User Documentation
+# Aragon Legacy Documentation
 
 {% hint style="danger" %}
-The  products in this documentation are Aragon Legacy Products and are no longer being maintained. For a better experience and support **check out our newest Aragon Products** [**HERE**](https://aragon.org/)**.**
+The products in this documentation are Aragon Legacy Products and are no longer being maintained. For a better experience and support **check out our newest Aragon Products** [**HERE**](https://aragon.org/)**.**
 {% endhint %}
-
-
-
-
 
 {% hint style="info" %}
 Welcome to the Aragon :flag\_gb: **English** user and developers documentation. What you need to get started building your DAO.

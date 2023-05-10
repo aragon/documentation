@@ -44,21 +44,19 @@ You should see that you can also find your Voting app's address by looking up th
 
 Another way you can find your Voting app's address is to use the UI:
 
-1. Click on **App Center** in the left panel to see your installed apps.&#x20;
-
-
+1. Click on **App Center** in the left panel to see your installed apps.
 
 <figure><img src="../../../../.gitbook/assets/agent-15.png" alt=""><figcaption></figcaption></figure>
 
-2\. Click on the **View details** button under the voting app.&#x20;
+2\. Click on the **View details** button under the voting app.
 
 <figure><img src="../../../../.gitbook/assets/agent-16.png" alt=""><figcaption></figcaption></figure>
 
-3\. Click on the blue box under **Installed instances** (see inside the red ellipse in the image below).&#x20;
+3\. Click on the blue box under **Installed instances** (see inside the red ellipse in the image below).
 
 <figure><img src="../../../../.gitbook/assets/agent-17.png" alt=""><figcaption></figcaption></figure>
 
-4\. You should see a small pop up appear with a header that says **Address**. Under the header is the address of your voting app. It should look something like `0x15a102f80ea3b1bd585a044e9b3c39a84c5f44e5`. Again, yours will be different!&#x20;
+4\. You should see a small pop up appear with a header that says **Address**. Under the header is the address of your voting app. It should look something like `0x15a102f80ea3b1bd585a044e9b3c39a84c5f44e5`. Again, yours will be different!
 
 <figure><img src="../../../../.gitbook/assets/agent-18.png" alt=""><figcaption></figcaption></figure>
 
@@ -86,9 +84,9 @@ The Agent app does not yet appear in your DAO UI (User Interface). A **vote** ha
 
 To confirm the vote:
 
-Find the vote in the **Voting** app (left menu bar). Then **View vote**, click **Yes** and sign the transaction with your favourite web3 provider (like [Frame](../how-to-sign-with-web3-providers/setting-up-a-frame-wallet/frame.md)) and voila!&#x20;
+Find the vote in the **Voting** app (left menu bar). Then **View vote**, click **Yes** and sign the transaction with your favourite web3 provider (like [Frame](../how-to-sign-with-web3-providers/setting-up-a-frame-wallet/frame.md)) and voila!
 
-![](<../../../../.gitbook/assets/Screenshot 2022-05-04 at 20.21.39.png>)
+![](<../../../../.gitbook/assets/Screenshot 2022-05-04 at 20.21.39 (1).png>)
 
 {% hint style="success" %}
 Now the **Agent** app should appear in the left menu bar! :partying\_face:
@@ -98,9 +96,7 @@ Now the **Agent** app should appear in the left menu bar! :partying\_face:
 
 As a final step, let's verify that permissions have been set properly through the UI:
 
-1. Click on the **Permissions** menu option in the left panel. You should see the Agent app at the end of the second row. Click on it.&#x20;
-
-
+1. Click on the **Permissions** menu option in the left panel. You should see the Agent app at the end of the second row. Click on it.
 
 <figure><img src="../../../../.gitbook/assets/agent-5.png" alt=""><figcaption></figcaption></figure>
 
