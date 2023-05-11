@@ -56,7 +56,7 @@ Click 'Create transaction' and sign it with your Web3 Provider.
 
 You are almost there! But first go to the Voting app since this change has automatically generated a vote. Now you (and enough of your DAO members) need to approve the vote for it to pass:
 
-![](<../../../../.gitbook/assets/crisper4 (1).png>)
+![](<../../../../.gitbook/assets/crisper4 (1) (1).png>)
 
 {% hint style="danger" %}
 **Warning**

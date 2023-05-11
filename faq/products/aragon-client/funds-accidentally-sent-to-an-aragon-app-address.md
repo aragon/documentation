@@ -9,8 +9,6 @@ If you accidentally sent tokens to the address of an App installed in an Aragon 
 We strongly recommend using the _Console option_ since it is much easier
 {% endhint %}
 
-
-
 ### Recover your funds using the Console feature
 
 Use the following steps:
@@ -21,13 +19,9 @@ Open your DAO, and add `/console` to the end of your DAO web address. The URL wo
 Replace `<your-dao-name>` with the name of your DAO in the above URL
 {% endhint %}
 
-
-
 You should see something like the below:
 
 <figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
-
-
 
 Next select `Exec` which is a command used to perform transactions in DAOs.
 
@@ -35,31 +29,23 @@ Here you select the App to which the funds were accidentally sent. In this examp
 
 <figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
-
-
 In the source code of the Finance App on [Github ](https://github.com/aragon/aragon-apps/blob/631048d54b9cc71058abb8bd7c17f6738755d950/apps/finance/contracts/Finance.sol#L399-L410)you can find a function called `recoverToVault` , exactly what we need!
 
 We will now call this function from the Aragon Console. To do so we will have to add `recoverToVault(address _token)` to the command in the console, but first we will replace `address _token` with the contract address of the token which were accidentally sent to the Finance App.
 
-In the case of this example the address is `0x3255D2D022Ef80F58dA2D107235010367cCdF0fD` , so we will add  `recoverToVault(0x3255D2D022Ef80F58dA2D107235010367cCdF0fD)`to the command in the Console. The full command for this example is now the following:
+In the case of this example the address is `0x3255D2D022Ef80F58dA2D107235010367cCdF0fD` , so we will add `recoverToVault(0x3255D2D022Ef80F58dA2D107235010367cCdF0fD)`to the command in the Console. The full command for this example is now the following:
 
 ```
 exec/0xa4bb9c789cccdce9565ee5a6d066dccef05c6a42/recoverToVault(0x3255D2D022Ef80F58dA2D107235010367cCdF0fD)
 ```
 
-
-
 Now click _Enter_:
 
 <figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
-
-
 Now confirm the transaction by clicking _Create transaction_:
 
-<figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../../../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 
 Then confirm the transaction in your Web3 wallet (most often MetaMask).
 

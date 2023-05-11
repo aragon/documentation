@@ -1,6 +1,6 @@
 ---
-cover: .gitbook/assets/619622a69961413c646ac357_bg_02.png
-coverY: 739.3106704438148
+cover: .gitbook/assets/legacy-cover.jpg
+coverY: 843
 ---
 
 # Aragon Legacy Documentation
@@ -9,7 +9,7 @@ coverY: 739.3106704438148
 The products and developer tools in this documentation are Aragon Legacy Products & Tools and are no longer being maintained. For a better experience and support **check out our newest Aragon Products and OSx** [**here**](https://aragon.org)**.**
 {% endhint %}
 
-Welcome to the :flag\_gb: **English** user and developers documentation for Aragon's **legacy products**.&#x20;
+Welcome to the :flag\_gb: **English** user and developers documentation for Aragon's **legacy products**.
 
 * Para la versión de la documentación de usuario en :flag\_es: **español** vaya [aquí](http://localhost:5000/o/3h8kxj8geKVXgyMnGbYT/s/t3hTlaCHK27whtbUr05N/).
 * Pour la version :flag\_fr: **française** de la documentation utilisateur, cliquez [ici](http://localhost:5000/o/3h8kxj8geKVXgyMnGbYT/s/iO9P3m8elNX5EjBARTqn/).

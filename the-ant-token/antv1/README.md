@@ -1,7 +1,7 @@
 # ANTv1
 
 {% hint style="success" %}
-### **👉 Important information**:
+#### **👉 Important information**:
 
 * ANTv1's token contract address is [`0x960b236A07cf122663c4303350609A66A7B288C0`](https://etherscan.io/token/0x960b236A07cf122663c4303350609A66A7B288C0)
 * ANTv1 is a ERC20 token, specifically a [MiniMe token](antv1-about-the-minime-token.md)

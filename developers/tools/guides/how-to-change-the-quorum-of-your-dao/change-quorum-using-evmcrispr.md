@@ -70,7 +70,7 @@ exec voting changeMinAcceptQuorumPct 250000000000000000
 
 The commands are ready! Copy/ paste them in the terminal and click the 'Forward ...' button:
 
-![](<../../../../.gitbook/assets/crisper3 (1) (1).png>)
+![](<../../../../.gitbook/assets/crisper3 (1) (1) (1).png>)
 
 Sign the transaction from your Web3 Provider and it should now execute successfully.
 
@@ -88,7 +88,7 @@ We are almost ready but first open your DAO in the web browser. The url should b
 
 Next go to the Voting app since this change has automatically generated a vote. Now you (and enough of your DAO members) need to approve the vote for it to pass:
 
-![](<../../../../.gitbook/assets/crisper4 (1).png>)
+![](<../../../../.gitbook/assets/crisper4 (1) (1).png>)
 
 {% hint style="danger" %}
 **Warning**
