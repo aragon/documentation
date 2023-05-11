@@ -1,10 +1,10 @@
-# Aragon Client
+# Aragon Client Glossary
 
 {% hint style="info" %}
-_Find below a list of unique terms that you may encounter when using Aragon Client. You can learn more about these concepts and why they matter to you as an Aragon Client user by reading through the rest of the_ [_Aragon Client documentation_](../developers/tools/)_._
+_Find below a list of unique terms that you may encounter when using Aragon Client. You can learn more about these concepts and why they matter to you as an Aragon Client user by reading through the rest of the_ [_Aragon Client documentation_](tools/)_._
 {% endhint %}
 
-### <mark style="color:blue;"></mark>[<mark style="color:blue;">**Access Control List**</mark>](https://hack.aragon.org/docs/acl-intro.html) <mark style="color:blue;">**(ACL)**</mark> <mark style="color:blue;"></mark><mark style="color:blue;"></mark>&#x20;
+### [<mark style="color:blue;">**Access Control List**</mark>](https://hack.aragon.org/docs/acl-intro.html) <mark style="color:blue;">**(ACL)**</mark>
 
 The ACL is a mapping of who has permission to execute an action in an Aragon app and who can re-grant or revoke that permission.
 
@@ -14,7 +14,7 @@ Tool that automatically generates everything that is needed to run Aragon on a l
 
 ### <mark style="color:blue;">**aragonAPI**</mark>
 
-Standard set of APIs and specifications used to interact with aragonOS-powered contracts by handling transaction pathing, upgradeability, and contract state. Reference implementations in specific languages: [JavaScript](../developers/tools/aragonos/smart-contract-references/apps/)
+Standard set of APIs and specifications used to interact with aragonOS-powered contracts by handling transaction pathing, upgradeability, and contract state. Reference implementations in specific languages: [JavaScript](tools/aragonos/smart-contract-references/apps/)
 
 ### [**aragonCLI**](https://hack.aragon.org/docs/cli-intro.html)
 
@@ -24,7 +24,7 @@ Tool for creating, testing and publishing Aragon applications.
 
 aragonID is a lightweight identity system using [ENS](https://ens.domains/).
 
-### [**aragonOS**](https://hack.aragon.org/docs/aragonos-intro.html) <mark style="color:blue;">****</mark>&#x20;
+### [**aragonOS**](https://hack.aragon.org/docs/aragonos-intro.html)
 
 Framework that enables flexible and upgradeable governance mechanisms by creating and assigning permissions to multiple entities.
 
@@ -34,7 +34,7 @@ Decentralized package manager based on aragonOS that handles upgradability of sm
 
 ### <mark style="color:blue;">**aragonPM Repository**</mark>
 
-Smart contract deployed inside aragonPM **** that keeps track of the versions for a package.
+Smart contract deployed inside aragonPM \*\*\*\* that keeps track of the versions for a package.
 
 ### [**aragonUI**](https://hack.aragon.org/docs/aragonui-intro.html)
 
@@ -56,7 +56,7 @@ Stands for Decentralized Autonomous Organization. Here, a DAO means a set of ara
 
 Smart contracts that can be used as templates for creating pre-configured DAOs in just one transaction.
 
-### <mark style="color:blue;">**DAO Kit**</mark>** **&#x20;
+### <mark style="color:blue;">**DAO Kit**</mark>
 
 Have been deprecated for DAO Templates.
 
