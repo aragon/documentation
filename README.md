@@ -1,6 +1,6 @@
 ---
-cover: .gitbook/assets/legacy-cover.jpg
-coverY: 843
+cover: .gitbook/assets/legacy-cover2 (1).jpg
+coverY: 336
 ---
 
 # Aragon Legacy Documentation

@@ -2,8 +2,8 @@
 description: >-
   Keep in mind the products laid below are no longer being maintained. For a
   better experience and support, check out Aragon OSx
-cover: ../.gitbook/assets/legacy-cover.jpg
-coverY: 324
+cover: ../.gitbook/assets/legacy-cover2.jpg
+coverY: 328
 ---
 
 # Legacy Developer Documentation
