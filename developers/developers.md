@@ -1,12 +1,15 @@
 ---
-description: >-
-  Keep in mind the products laid below are no longer being maintained. For a
-  better experience and support, check out Aragon OSx
 cover: ../.gitbook/assets/legacy-cover5.jpg
 coverY: 396
 ---
 
 # Legacy Developer Documentation
+
+{% hint style="danger" %}
+The products and developer tools in this documentation are Aragon Legacy Products & Tools and are no longer being maintained. For a better experience and support **check out our newest Aragon Products and OSx** [**here**](https://aragon.org)**.**
+{% endhint %}
+
+
 
 Welcome to the Aragon Legacy Developer Documentation.
 
