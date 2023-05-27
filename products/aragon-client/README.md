@@ -7,4 +7,7 @@ coverY: 0
 
 {% hint style="info" %}
 In this section, you will learn how to create and navigate a DAO using the Aragon Client.
+
+\
+The Aragon Client product itself can be found [here](https://client.aragon.org/).
 {% endhint %}
